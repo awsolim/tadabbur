@@ -2,7 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+
+    <!-- Use a real favicon instead of Vite's default -->
+    <link rel="icon" type="image/png" href="/icons/favicon-32.png" /> <!-- App tab icon (32x32) -->
+
+    <!-- PWA manifest (required for installability) -->
+    <link rel="manifest" href="/manifest.webmanifest" /> <!-- Tells browser this site is an installable PWA -->
+
+    <!-- Theme color (affects Android address bar + PWA header color) -->
+    <meta name="theme-color" content="#0f172a" /> <!-- Pick your app's brand color -->
+
+    <!-- iOS PWA support -->
+    <meta name="apple-mobile-web-app-capable" content="yes" /> <!-- Allow "Add to Home Screen" app-like mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /> <!-- iOS status bar style -->
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" /> <!-- iOS home screen icon (180x180) -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>tadabbur</title>
   </head>
