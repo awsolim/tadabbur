@@ -1,0 +1,53 @@
+@import "tailwindcss";
+/* NEW: A font that supports Qur’an brackets ﴿ ﴾ reliably */
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap");
+
+
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Amiri:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap');
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+.arabic-verse {
+  font-family: 'Amiri', serif;
+  font-size: 1.45rem;
+  line-height: 2.4rem;
+}
+
+.arabic-text {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  font-size: 1.05rem;
+  line-height: 2rem;
+}
+
+/* NEW: prevent bidi weirdness with Qur’an brackets + ensure correct RTL shaping */
+.arabic-verse {
+  direction: rtl;              /* NEW: enforce RTL at CSS level too */
+  unicode-bidi: isolate;       /* NEW: isolates this run so brackets don't jump sides */
+}
+
+/* NEW: style for Qur’an brackets */
+.quran-bracket {
+  opacity: 0.55;               /* NEW: subtle so it feels modern */
+  padding: 0 0.25rem;          /* NEW: breathing room around brackets */
+}
+
+/* NEW: keep verse text as one Arabic run */
+.quran-verse-text {
+  unicode-bidi: plaintext;     /* NEW: treat verse text as a single RTL paragraph */
+}
+
+/* NEW: Only apply Amiri to the bracket glyphs, not the English text */
+.quran-bracket {
+  font-family: "Amiri", serif; /* NEW: ensures ﴿﴾ glyphs exist */
+  font-weight: 700;            /* NEW: make bracket weight match bold ayah */
+}

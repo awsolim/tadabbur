@@ -1,0 +1,42 @@
+// src/pages/Home.tsx
+
+import { Link } from "react-router-dom";
+
+export default function Home() {
+  const ajza = Array.from({ length: 30 }, (_, i) => i + 1); // ✅ Build 1..30 list
+
+  return (
+    <div style={{ maxWidth: 880, margin: "0 auto", padding: 16 }}>
+      <h1 style={{ fontSize: 28, marginBottom: 8 }}>Tadabbur Halaqah</h1>
+      <p style={{ marginTop: 0, opacity: 0.8 }}>
+        Choose a Juz to view questions and answers (Arabic + English).
+      </p>
+
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fill, minmax(120px, 1fr))", // ✅ Responsive grid
+          gap: 12,
+          marginTop: 16,
+        }}
+      >
+        {ajza.map((j) => (
+          <Link
+            key={j}
+            to={`/juz/${j}`}
+            style={{
+              border: "1px solid #ddd",
+              borderRadius: 12,
+              padding: 12,
+              textDecoration: "none",
+              color: "inherit",
+            }}
+          >
+            <div style={{ fontWeight: 700 }}>Juz {j}</div>
+            <div style={{ fontSize: 12, opacity: 0.7 }}>Open Q&A</div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}
