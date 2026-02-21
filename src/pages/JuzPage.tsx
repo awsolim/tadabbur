@@ -424,7 +424,7 @@ export default function JuzPage() {
   // NEW: nicer title for the bonus section
   const pageTitle =
     typeof juzKey === "string" && juzKey.trim().toLowerCase() === "bonus"
-      ? "Questions of the Hypocrites" // NEW: English title shown on the page
+      ? "Outstanding Questions" // NEW: English title shown on the page (أسئلة الفائقين)
       : `Juz ${data?.juz}`; // existing behavior
 
   return (
@@ -498,25 +498,22 @@ export default function JuzPage() {
               Boolean(item.answer.commentary_ar?.trim()) || Boolean(item.answer.commentary_en?.trim());
 
             // NEW: support files where surah might be null (avoid crashes)
-            const surahNum = item.answer.surah; // NEW: may be null in some of your datasets
+            const surahNum = item.answer.surah; // NEW: may be null in some datasets
             const ayahNums = item.answer.ayahs ?? []; // NEW: safety default
-
-            const ayahEn =
-              surahNum == null
-                ? "" // NEW: no surah => no translation lookup
-                : getEnglishAyahs(translation, surahNum, ayahNums); // existing behavior
 
             const surahEnName =
               surahNum == null ? "" : SURAH_EN[surahNum] ?? `Surah ${surahNum}`; // NEW: guard null
             const surahArName = surahNum == null ? "" : SURAH_AR[surahNum] ?? ""; // NEW: guard null
 
-            const ayahsLabel = formatAyahsLabel(ayahNums);
+            const ayahsLabel = formatAyahsLabel(ayahNums); // NEW: use ayahNums to avoid repeating ?? []
 
-            // NEW: only show ref strings if surah is known
-            const refEn =
-              surahNum == null ? "" : `Surah ${surahEnName} — Ayah ${ayahsLabel}`; // NEW: guarded
-            const refAr =
-              surahNum == null ? "" : `سورة ${surahArName} — الآية ${ayahsLabel}`; // NEW: guarded
+            // NEW: language-specific reference strings (only if surah is known)
+            const refEn = surahNum == null ? "" : `Surah ${surahEnName} — Ayah ${ayahsLabel}`; // NEW
+            const refAr = surahNum == null ? "" : `سورة ${surahArName} — الآية ${ayahsLabel}`; // NEW
+
+            // NEW: inline translation lookup (no unused variable, fixes TS warning)
+            const englishAyahText =
+              surahNum == null ? "" : getEnglishAyahs(translation, surahNum, ayahNums); // NEW
 
             return (
               <div
@@ -556,14 +553,21 @@ export default function JuzPage() {
                     <div className="space-y-1">
                       <div className="text-xs font-semibold text-slate-500">{headers.answer}</div>
 
-
                       {(language === "Arabic" || language === "Both") && (
                         <div
                           className="text-sm text-slate-800 whitespace-pre-line"
                           dir={hasArabicLetters(item.answer.ayah_ar ?? "") ? "rtl" : "ltr"} // NEW: safety
                           style={{ unicodeBidi: "plaintext" }}
                         >
-                          {renderWithAyahBrackets(normalizeArabicParagraphs(item.answer.ayah_ar ?? "")) /* NEW */}
+                          {renderWithAyahBrackets(
+                            normalizeArabicParagraphs(item.answer.ayah_ar ?? "")
+                          ) /* NEW */}
+                        </div>
+                      )}
+
+                      {(language === "English" || language === "Both") && (
+                        <div className="text-sm text-slate-800 whitespace-pre-line text-left italic">
+                          {englishAyahText || "Translation not available." /* NEW */}
                         </div>
                       )}
 
@@ -571,7 +575,7 @@ export default function JuzPage() {
                       {(refEn || refAr) && (
                         <div className="text-xs text-slate-500 pt-1">
                           {(language === "English" || language === "Both") && refEn}
-                          {(language === "Both" && refEn && refAr) && " • "}
+                          {language === "Both" && refEn && refAr && " • "}
                           {(language === "Arabic" || language === "Both") && refAr}
                         </div>
                       )}
@@ -580,7 +584,9 @@ export default function JuzPage() {
                     {/* Explanation */}
                     {hasExplanation && (
                       <div className="space-y-1">
-                        <div className="text-xs font-semibold text-slate-500">{headers.explanation}</div>
+                        <div className="text-xs font-semibold text-slate-500">
+                          {headers.explanation}
+                        </div>
 
                         {(language === "English" || language === "Both") && (
                           <div className="text-sm text-slate-800 whitespace-pre-line">
