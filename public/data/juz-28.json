@@ -1,122 +1,159 @@
 {
-"juz": 28,
-"items": [
-{
-"qNum": 1,
-"question_ar": "اذكر آية فيها أن المؤمن يدرك يوم القيامة أنه قصر ، إذ كان بإمكانه أن يشتري بعمره منزلة أعلى في الجنة ويعمل مزيدا من الأعمال الصالحة، علما بأن هذا المعنى هو في كلمة من الآية.",
-"question_en": "Mention a verse in which the believer realizes on the Day of Resurrection that he fell short, as he could have purchased with his lifetime a higher rank in Paradise and done more righteous deeds. Note that this meaning is contained in a single word in the verse.",
-"answer": {
-"surah": 64,
-"ayahs": [9],
-"ayah_ar": "يَومَ يَجْمَعُكُم لِيَومِ الجَمعِ ذلِكَ يَومُ التَّغَابُنِ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلَ صَالِحًا يُكَفِّر عَنهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجرى مِن تَحتِهَا الأَنهارُ خَالِدِينَ فِيها أَبَدًا ذلِكَ الفَوزُ العظيم [التغابن : 9 ]",
-"ayah_en": "The Day He will gather you for the Day of Gathering—that is the Day of Mutual Loss and Gain. And whoever believes in Allah and does righteousness—He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.",
-"commentary_ar": "قال البغوي : ذلِكَ يَومُ التَّغَابُنِ) وهو تفاعل من الغُبن وهو فوت الحظ، والمراد بالمغبون من غُبن عن أهله ومنازله في الجنة ، فيظهر يومئذ غبن كل كافر بتركه الإيمان، وغين كل مؤمن بتقصيره في الإحسان).",
-"commentary_en": "Al-Baghawi said: “That is the Day of Mutual Loss and Gain”—it is derived from ‘ghubn’ meaning loss of one’s due share. The one who is truly deprived is the one who is deprived of his family and dwellings in Paradise. On that Day, the loss of every disbeliever for abandoning faith will appear, and the loss of every believer for his shortcomings in excellence will also become evident."
-}
-},
-{
-"qNum": 2,
-"question_ar": "اذكر آية تبين أن دور النبي ليس مقتصراً على تلاوة القرآن.",
-"question_en": "Mention a verse that shows the Prophet’s role is not limited to reciting the Qur’an.",
-"answer": {
-"surah": 62,
-"ayahs": [2],
-"ayah_ar": "هُوَ الَّذِي بَعَثَ فِي الأُمِّيِّينَ رَسُولًا مِنهُم يَتلو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِم وَيُعَلِّمُهُمُ الكتاب والحِكْمَةَ وَإِن كانوا مِن قَبلُ لَفِي ضَلالٍ مُبِينٍ) [ الجمعة : 2].",
-"ayah_en": "He is the One who sent among the unlettered a Messenger from themselves, reciting to them His verses, purifying them, and teaching them the Book and wisdom—although they were previously in clear error.",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 3,
-"question_ar": "كثير من الناس يفعل المعصية وينتظر نقصا في رزقه أو معكرا يصيبه ... اذكر آية تتكلم عن مثل هذه النفسية.",
-"question_en": "Many people commit sins and expect a decrease in provision or an immediate hardship; if none occurs, they feel reassured and continue. Mention a verse that speaks about this mindset.",
-"answer": {
-"surah": 58,
-"ayahs": [8],
-"ayah_ar": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجوى ثُمَّ يَعودونَ لِما نُهُوا عَنْهُ وَيَتَناجَونَ بِالإِثْمِ والعُدوانِ وَمَعصِيَتِ الرَّسولِ وَإِذا جاءوكَ حَيَّوكَ بِما لَم يُحَيِّكَ بِهِ اللَّهُ وَيَقولونَ في أَنفُسِهِم لَولا يُعَذِّبُنَا اللَّهُ بِما نَقولُ حَسبُهُم جَهَنَّمُ يَصلَونَها فَبِئسَ المَصيرُ) [المجادلة : 8 ]",
-"ayah_en": "Have you not considered those who were forbidden from private conversation, then they return to what they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that by which Allah does not greet you and say among themselves, “Why does Allah not punish us for what we say?” Sufficient for them is Hell; they will burn therein, and wretched is the destination.",
-"commentary_ar": "قال ابن عاشور: (أي لو كان نبياً لغضب الله علينا فلعذبنا الآن بسبب قولنا له، وهذا خاطر من خواطر أهل الضلالة المتأصلة فيهم، وهي توهمهم أن شأن الله تعالى كشأن البشر في إسراع الانتقام والاهتزاز مما لا يرضاه ومن المعاندة).\nوفي الحديث : ( ما أحد أصبر على أذًى يسمعه من الله تعالى . إنَّهم يجعلون له ندًا، ويجعلون له ولدًا وهو مع ذلك يرزقهم ويعافيهم ويعطيهم) (رواه مسلم) . وهم لجحودهم بالبعث والجزاء يحسبون أن عقاب الله تعالى يظهر في الدنيا.",
-"commentary_en": "Ibn ‘Ashur said: That is, they say—if he were truly a Prophet, Allah would have become angry with us and punished us immediately for what we say. This is a notion rooted in the souls of those deeply astray: they imagine that Allah behaves like humans in hastily taking revenge and reacting to what displeases Him.\nIn the hadith: “No one is more patient upon hearing harm than Allah. They attribute to Him a partner and a son, yet He still provides for them, grants them well-being, and gives to them.” (Muslim). Due to their denial of resurrection and recompense, they assume that Allah’s punishment must appear in this world."
-}
-},
-{
-"qNum": 4,
-"question_ar": "يتسبب بعضنا في إحزان إخوانه المسلمين بلغته السلبية ... اذكر آية تدل على ذلك.",
-"question_en": "Some people cause sadness to their Muslim brothers through negative speech… Mention a verse indicating this.",
-"answer": {
-"surah": 58,
-"ayahs": [10],
-"ayah_ar": "﴿إِنَّمَا النَّجْوَى مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنوا وَلَيسَ بِضَارِهِم شَيْئًا إِلَّا بِإِذْنِ اللَّهِ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ المُؤْمِنُونَ﴾ [المجادلة : 10].",
-"ayah_en": "Indeed, private conversation is from Satan that he may grieve those who have believed, but he will not harm them at all except by permission of Allah. And upon Allah let the believers rely.",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 5,
-"question_ar": "من المسلمين من يحس بأن أحكام الولاء والبراء ... اذكر آية تبين بها لهؤلاء أن الاستقامة على أمر الله مدعاة لحصول ما يحبونه من حسن علاقة بالناس ، لكن مع اجتماع على الحق .",
-"question_en": "Some Muslims feel that rulings of loyalty and disavowal toward non-Muslim friends or relatives are heavy upon them… Mention a verse showing that uprightness upon Allah’s command leads to the good relationships they desire—while united upon truth.",
-"answer": {
-"surah": 60,
-"ayahs": [7],
-"ayah_ar": "﴿عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُم وَبَينَ الَّذِينَ عَادَيتُم مِنهُم مَوَدَّةً وَاللَّهُ قَدِيرٌ وَاللَّهُ غَفُورٌ رَّحِيمٌ﴾ [الممتحنة : 7].",
-"ayah_en": "Perhaps Allah will put, between you and those to whom you have been enemies among them, affection. And Allah is Competent, and Allah is Forgiving and Merciful.",
-"commentary_ar": "قال ابن كثير: يَقُولُ تَعَالَى لِعِبَادِهِ الْمُؤْمِنِينَ بَعْدَ أَنْ أَمَرَهُمْ بِعَدَاوَةِ الْكَافِرِينَ : عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً) أَيْ : مَحَبَّةً بَعْدَ البِغْضَةِ ، وَمَوَدَّةً بَعْدَ النَّفْرة ، وَأُلْفَةً بَعْدَ الْفُرْقَةِ . وَاللَّهُ قَدِيرٌ) أَيْ : عَلَى مَا يَشَاءُ مِنَ الْجَمْعِ بَيْنَ الْأَشْيَاءِ الْمُتَنَافِرَةِ وَالْمُتَبَايِنَةِ وَالْمُخْتَلِفَةِ، فَيُؤَلِّفُ بَيْنَ الْقُلُوبِ بَعْدَ الْعَدَاوَةِ وَالْقَسَاوَةِ، فَتُصْبِحُ مُجْتَمِعَةً مُتَّفِقَةً.",
-"commentary_en": "Ibn Kathir said: Allah addresses His believing servants after commanding them to show enmity toward disbelievers: “Perhaps Allah will put between you and those you have opposed affection”—meaning love after hatred, affection after estrangement, and harmony after separation. And Allah is capable of uniting opposites and reconciling hearts after enmity and hardness, making them united and in agreement."
-}
-},
-{
-"qNum": 6,
-"question_ar": "اذكر آيتين تتكلمان عمن ديدنهم الانحياز إلى الأقوى بغض النظر أهو على حق أم على باطل.",
-"question_en": "Mention two verses speaking about those whose habit is to side with the stronger party regardless of whether they are upon truth or falsehood.",
-"answer": {
-"surah": 59,
-"ayahs": [11, 12],
-"ayah_ar": "﴿أَلَمْ تَرَ إِلَى الَّذِينَ نافقوا يقولون لإخوانِهِمُ الَّذِينَ كَفَرُوا مِن أَهْلِ الكِتَابِ لَئِن أُخْرِجْتُم لَنَخْرُجَنَّ مَّعَكُم وَلا نُطِيعُ فِيكُم أَحَدًا أَبَدًا وَإِن قوتِلْتُم لَنَنصُرَنَّكُم وَاللَّهُ يَشْهَدُ إِنَّهُم لَكاذِبُونَ ﴿ لَبِن أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُم وَلَبِن قوتِلوا لَا يَنصُرُونَهُم وَلَئِن نَصَرُوهُم لَيُوَلُّنَّ الأَدْبَارَ ثُمَّ لَا يُنصَرُونَ﴾ [الحشر: 11-12].",
-"ayah_en": "Have you not considered the hypocrites who say to their brothers who have disbelieved among the People of the Scripture, “If you are expelled, we will surely leave with you, and we will not obey anyone against you ever; and if you are fought, we will surely aid you.” But Allah testifies that they are liars. If they are expelled, they will not leave with them; and if they are fought, they will not aid them. And if they should aid them, they will surely turn their backs; then they will not be helped.",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 7,
-"question_ar": "اذكر آية بمعنى قول الله تعالى : (ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً﴾ [البقرة: 74].",
-"question_en": "Mention a verse with the meaning of Allah’s statement: “Then your hearts became hardened after that, being like stones or even harder.” [Al-Baqarah: 74].",
-"answer": {
-"surah": 59,
-"ayahs": [21],
-"ayah_ar": "لَو أَنزَلنا هذا القُرآنَ عَلَى جَبَلٍ لَرَأَيتَهُ خاشِعًا مُتَصَدِّعًا مِن خَشْيَةِ اللَّهِ وَتِلْكَ الأَمثالُ نَضرِبُها لِلنَّاسِ لَعَلَّهُم يَتَفَكَّرونَ) [الحشر: 21].",
-"ayah_en": "If We had sent down this Qur’an upon a mountain, you would have seen it humbled and coming apart from fear of Allah. And these examples We present to the people that perhaps they will give thought.",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 8,
-"question_ar": "فِي الْحَدِيث الذي صححه بعض أهل العلم ... اذكر آية فيها معنى الشطر الثاني من هذا الحديث.",
-"question_en": "In the hadith: “Love your beloved moderately… and hate your hated moderately…” Mention a verse containing the meaning of the second part of this hadith.",
-"answer": {
-"surah": 60,
-"ayahs": [7],
-"ayah_ar": "عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً وَاللَّهُ قَدِيرٌ وَاللَّهُ غَفُورٌ رَّحِيمٌ) [الممتحنة : 7 ]",
-"ayah_en": "Perhaps Allah will put between you and those to whom you have been enemies affection. And Allah is Competent, and Allah is Forgiving and Merciful.",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 9,
-"question_ar": "صحبة الصالحين خير كبير لمن تأثر بهم ... اذكرست كلمات من آية تدل على هذا المعنى.",
-"question_en": "The companionship of the righteous is a great good for one who is influenced by them. But whoever prefers to remain upon misguidance gains no benefit from such companionship. Mention six words from a verse indicating this meaning.",
-"answer": {
-"surah": 66,
-"ayahs": [10],
-"ayah_ar": "ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ) [التحريم: 10 ]",
-"ayah_en": "Allah presents an example of those who disbelieved: the wife of Nuh and the wife of Lut. They were under two righteous servants among Our servants, but they betrayed them, and those prophets did not avail them against Allah at all, and it was said, “Enter the Fire with those who enter.”",
-"commentary_ar": "",
-"commentary_en": ""
-}
-}
-]
+  "juz": 28,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "اذكر آية فيها أن المؤمن يدرك يوم القيامة أنه قصر ، إذ كان بإمكانه أن يشتري بعمره منزلة أعلى في الجنة ويعمل مزيدا من الأعمال الصالحة، علما بأن هذا المعنى هو في كلمة من الآية.",
+      "question_en": "Mention a verse in which the believer realizes on the Day of Resurrection that he fell short, as he could have purchased with his lifetime a higher rank in Paradise and done more righteous deeds. Note that this meaning is contained in a single word in the verse.",
+      "answer": {
+        "surah": 64,
+        "ayahs": [
+          9
+        ],
+        "ayah_ar": "يَومَ يَجْمَعُكُم لِيَومِ الجَمعِ ذلِكَ يَومُ التَّغَابُنِ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلَ صَالِحًا يُكَفِّر عَنهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجرى مِن تَحتِهَا الأَنهارُ خَالِدِينَ فِيها أَبَدًا ذلِكَ الفَوزُ العظيم [التغابن : 9 ]",
+        "ayah_en": "The Day He will gather you for the Day of Gathering—that is the Day of Mutual Loss and Gain. And whoever believes in Allah and does righteousness—He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.",
+        "commentary_ar": "قال البغوي : ذلِكَ يَومُ التَّغَابُنِ) وهو تفاعل من الغُبن وهو فوت الحظ، والمراد بالمغبون من غُبن عن أهله ومنازله في الجنة ، فيظهر يومئذ غبن كل كافر بتركه الإيمان، وغين كل مؤمن بتقصيره في الإحسان).",
+        "commentary_en": "Al-Baghawi said: “That is the Day of Mutual Loss and Gain”—it is derived from ‘ghubn’ meaning loss of one’s due share. The one who is truly deprived is the one who is deprived of his family and dwellings in Paradise. On that Day, the loss of every disbeliever for abandoning faith will appear, and the loss of every believer for his shortcomings in excellence will also become evident."
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر آية تبين أن دور النبي ليس مقتصراً على تلاوة القرآن.",
+      "question_en": "Mention a verse that shows the Prophet’s role is not limited to reciting the Qur’an.",
+      "answer": {
+        "surah": 62,
+        "ayahs": [
+          2
+        ],
+        "ayah_ar": "هُوَ الَّذِي بَعَثَ فِي الأُمِّيِّينَ رَسُولًا مِنهُم يَتلو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِم وَيُعَلِّمُهُمُ الكتاب والحِكْمَةَ وَإِن كانوا مِن قَبلُ لَفِي ضَلالٍ مُبِينٍ) [ الجمعة : 2].",
+        "ayah_en": "He is the One who sent among the unlettered a Messenger from themselves, reciting to them His verses, purifying them, and teaching them the Book and wisdom—although they were previously in clear error.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 3,
+      "question_ar": "كثير من الناس يفعل المعصية وينتظر نقصا في رزقه أو معكرا يصيبه ... اذكر آية تتكلم عن مثل هذه النفسية.",
+      "question_en": "Many people commit sins and expect a decrease in provision or an immediate hardship; if none occurs, they feel reassured and continue. Mention a verse that speaks about this mindset.",
+      "answer": {
+        "surah": 58,
+        "ayahs": [
+          8
+        ],
+        "ayah_ar": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجوى ثُمَّ يَعودونَ لِما نُهُوا عَنْهُ وَيَتَناجَونَ بِالإِثْمِ والعُدوانِ وَمَعصِيَتِ الرَّسولِ وَإِذا جاءوكَ حَيَّوكَ بِما لَم يُحَيِّكَ بِهِ اللَّهُ وَيَقولونَ في أَنفُسِهِم لَولا يُعَذِّبُنَا اللَّهُ بِما نَقولُ حَسبُهُم جَهَنَّمُ يَصلَونَها فَبِئسَ المَصيرُ) [المجادلة : 8 ]",
+        "ayah_en": "Have you not considered those who were forbidden from private conversation, then they return to what they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that by which Allah does not greet you and say among themselves, “Why does Allah not punish us for what we say?” Sufficient for them is Hell; they will burn therein, and wretched is the destination.",
+        "commentary_ar": "قال ابن عاشور: (أي لو كان نبياً لغضب الله علينا فلعذبنا الآن بسبب قولنا له، وهذا خاطر من خواطر أهل الضلالة المتأصلة فيهم، وهي توهمهم أن شأن الله تعالى كشأن البشر في إسراع الانتقام والاهتزاز مما لا يرضاه ومن المعاندة).\nوفي الحديث : ( ما أحد أصبر على أذًى يسمعه من الله تعالى . إنَّهم يجعلون له ندًا، ويجعلون له ولدًا وهو مع ذلك يرزقهم ويعافيهم ويعطيهم) (رواه مسلم) . وهم لجحودهم بالبعث والجزاء يحسبون أن عقاب الله تعالى يظهر في الدنيا.",
+        "commentary_en": "Ibn ‘Ashur said: That is, they say—if he were truly a Prophet, Allah would have become angry with us and punished us immediately for what we say. This is a notion rooted in the souls of those deeply astray: they imagine that Allah behaves like humans in hastily taking revenge and reacting to what displeases Him.\nIn the hadith: “No one is more patient upon hearing harm than Allah. They attribute to Him a partner and a son, yet He still provides for them, grants them well-being, and gives to them.” (Muslim). Due to their denial of resurrection and recompense, they assume that Allah’s punishment must appear in this world."
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 4,
+      "question_ar": "يتسبب بعضنا في إحزان إخوانه المسلمين بلغته السلبية ... اذكر آية تدل على ذلك.",
+      "question_en": "Some people cause sadness to their Muslim brothers through negative speech… Mention a verse indicating this.",
+      "answer": {
+        "surah": 58,
+        "ayahs": [
+          10
+        ],
+        "ayah_ar": "﴿إِنَّمَا النَّجْوَى مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنوا وَلَيسَ بِضَارِهِم شَيْئًا إِلَّا بِإِذْنِ اللَّهِ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ المُؤْمِنُونَ﴾ [المجادلة : 10].",
+        "ayah_en": "Indeed, private conversation is from Satan that he may grieve those who have believed, but he will not harm them at all except by permission of Allah. And upon Allah let the believers rely.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 5,
+      "question_ar": "من المسلمين من يحس بأن أحكام الولاء والبراء ... اذكر آية تبين بها لهؤلاء أن الاستقامة على أمر الله مدعاة لحصول ما يحبونه من حسن علاقة بالناس ، لكن مع اجتماع على الحق .",
+      "question_en": "Some Muslims feel that rulings of loyalty and disavowal toward non-Muslim friends or relatives are heavy upon them… Mention a verse showing that uprightness upon Allah’s command leads to the good relationships they desire—while united upon truth.",
+      "answer": {
+        "surah": 60,
+        "ayahs": [
+          7
+        ],
+        "ayah_ar": "﴿عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُم وَبَينَ الَّذِينَ عَادَيتُم مِنهُم مَوَدَّةً وَاللَّهُ قَدِيرٌ وَاللَّهُ غَفُورٌ رَّحِيمٌ﴾ [الممتحنة : 7].",
+        "ayah_en": "Perhaps Allah will put, between you and those to whom you have been enemies among them, affection. And Allah is Competent, and Allah is Forgiving and Merciful.",
+        "commentary_ar": "قال ابن كثير: يَقُولُ تَعَالَى لِعِبَادِهِ الْمُؤْمِنِينَ بَعْدَ أَنْ أَمَرَهُمْ بِعَدَاوَةِ الْكَافِرِينَ : عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً) أَيْ : مَحَبَّةً بَعْدَ البِغْضَةِ ، وَمَوَدَّةً بَعْدَ النَّفْرة ، وَأُلْفَةً بَعْدَ الْفُرْقَةِ . وَاللَّهُ قَدِيرٌ) أَيْ : عَلَى مَا يَشَاءُ مِنَ الْجَمْعِ بَيْنَ الْأَشْيَاءِ الْمُتَنَافِرَةِ وَالْمُتَبَايِنَةِ وَالْمُخْتَلِفَةِ، فَيُؤَلِّفُ بَيْنَ الْقُلُوبِ بَعْدَ الْعَدَاوَةِ وَالْقَسَاوَةِ، فَتُصْبِحُ مُجْتَمِعَةً مُتَّفِقَةً.",
+        "commentary_en": "Ibn Kathir said: Allah addresses His believing servants after commanding them to show enmity toward disbelievers: “Perhaps Allah will put between you and those you have opposed affection”—meaning love after hatred, affection after estrangement, and harmony after separation. And Allah is capable of uniting opposites and reconciling hearts after enmity and hardness, making them united and in agreement."
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 6,
+      "question_ar": "اذكر آيتين تتكلمان عمن ديدنهم الانحياز إلى الأقوى بغض النظر أهو على حق أم على باطل.",
+      "question_en": "Mention two verses speaking about those whose habit is to side with the stronger party regardless of whether they are upon truth or falsehood.",
+      "answer": {
+        "surah": 59,
+        "ayahs": [
+          11,
+          12
+        ],
+        "ayah_ar": "﴿أَلَمْ تَرَ إِلَى الَّذِينَ نافقوا يقولون لإخوانِهِمُ الَّذِينَ كَفَرُوا مِن أَهْلِ الكِتَابِ لَئِن أُخْرِجْتُم لَنَخْرُجَنَّ مَّعَكُم وَلا نُطِيعُ فِيكُم أَحَدًا أَبَدًا وَإِن قوتِلْتُم لَنَنصُرَنَّكُم وَاللَّهُ يَشْهَدُ إِنَّهُم لَكاذِبُونَ ﴿ لَبِن أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُم وَلَبِن قوتِلوا لَا يَنصُرُونَهُم وَلَئِن نَصَرُوهُم لَيُوَلُّنَّ الأَدْبَارَ ثُمَّ لَا يُنصَرُونَ﴾ [الحشر: 11-12].",
+        "ayah_en": "Have you not considered the hypocrites who say to their brothers who have disbelieved among the People of the Scripture, “If you are expelled, we will surely leave with you, and we will not obey anyone against you ever; and if you are fought, we will surely aid you.” But Allah testifies that they are liars. If they are expelled, they will not leave with them; and if they are fought, they will not aid them. And if they should aid them, they will surely turn their backs; then they will not be helped.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 7,
+      "question_ar": "اذكر آية بمعنى قول الله تعالى : (ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً﴾ [البقرة: 74].",
+      "question_en": "Mention a verse with the meaning of Allah’s statement: “Then your hearts became hardened after that, being like stones or even harder.” [Al-Baqarah: 74].",
+      "answer": {
+        "surah": 59,
+        "ayahs": [
+          21
+        ],
+        "ayah_ar": "لَو أَنزَلنا هذا القُرآنَ عَلَى جَبَلٍ لَرَأَيتَهُ خاشِعًا مُتَصَدِّعًا مِن خَشْيَةِ اللَّهِ وَتِلْكَ الأَمثالُ نَضرِبُها لِلنَّاسِ لَعَلَّهُم يَتَفَكَّرونَ) [الحشر: 21].",
+        "ayah_en": "If We had sent down this Qur’an upon a mountain, you would have seen it humbled and coming apart from fear of Allah. And these examples We present to the people that perhaps they will give thought.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 8,
+      "question_ar": "فِي الْحَدِيث الذي صححه بعض أهل العلم ... اذكر آية فيها معنى الشطر الثاني من هذا الحديث.",
+      "question_en": "In the hadith: “Love your beloved moderately… and hate your hated moderately…” Mention a verse containing the meaning of the second part of this hadith.",
+      "answer": {
+        "surah": 60,
+        "ayahs": [
+          7
+        ],
+        "ayah_ar": "عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً وَاللَّهُ قَدِيرٌ وَاللَّهُ غَفُورٌ رَّحِيمٌ) [الممتحنة : 7 ]",
+        "ayah_en": "Perhaps Allah will put between you and those to whom you have been enemies affection. And Allah is Competent, and Allah is Forgiving and Merciful.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 9,
+      "question_ar": "صحبة الصالحين خير كبير لمن تأثر بهم ... اذكرست كلمات من آية تدل على هذا المعنى.",
+      "question_en": "The companionship of the righteous is a great good for one who is influenced by them. But whoever prefers to remain upon misguidance gains no benefit from such companionship. Mention six words from a verse indicating this meaning.",
+      "answer": {
+        "surah": 66,
+        "ayahs": [
+          10
+        ],
+        "ayah_ar": "ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ) [التحريم: 10 ]",
+        "ayah_en": "Allah presents an example of those who disbelieved: the wife of Nuh and the wife of Lut. They were under two righteous servants among Our servants, but they betrayed them, and those prophets did not avail them against Allah at all, and it was said, “Enter the Fire with those who enter.”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    }
+  ]
 }

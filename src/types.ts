@@ -10,10 +10,15 @@ export type AnswerBlock = {
   commentary_en?: string; // ✅ Optional English commentary
 };
 
+// NEW: Optional per-question difficulty tags
+export type Difficulty = "easy" | "med" | "hard"; // NEW: drives the tag color in the UI
+
 export type QAItem = {
   qNum: number; // ✅ Question number within the Juz
   question_ar: string; // ✅ Arabic question text
   question_en: string; // ✅ English translation of the question
+  difficulty?: Difficulty; // NEW: optional tag (easy | med | hard)
+  theme?: string; // NEW: optional tag (free text, always styled blue)
   answer: AnswerBlock; // ✅ Nested answer block (matches your new JSON)
 };
 

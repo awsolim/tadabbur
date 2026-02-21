@@ -1,70 +1,90 @@
 {
-"juz": 29,
-"items": [
-{
-"qNum": 1,
-"question_ar": "اذكر آية ترد بها على من يبرر وضع تشريعات مخالفة لأحكام الله تعالى من باب مراعاة الحاجات الإنسانية والتخفيف عن الناس.",
-"question_en": "Mention a verse that refutes those who justify legislating contrary to Allah’s rulings under the pretext of considering human needs and easing matters for people.",
-"answer": {
-"surah": 67,
-"ayahs": [14],
-"ayah_ar": "أَلا يَعْلَمُ مَن خَلَقَ وَهُوَ اللَّطِيفُ الخَبيرُ) [الملك: 14].",
-"ayah_en": "Does He who created not know, while He is the Subtle, the All-Aware?",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 2,
-"question_ar": "اذكر كلمة في آية بمعنى العظمة والجلال والغنى.",
-"question_en": "Mention a word in a verse that means greatness, majesty, and richness.",
-"answer": {
-"surah": 72,
-"ayahs": [3],
-"ayah_ar": "وَأَنَّهُ تَعَالَى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا) [الجن: 3]",
-"ayah_en": "And that exalted is the majesty of our Lord; He has not taken a wife or a son.",
-"commentary_ar": "قال ابن عاشور : (والجَدّ : بفتح الجيم العظمة والجلال، وهذا تمهيد وتوطئة لقوله : ( ما اتخذ صاحبة ولا ولداً ) ، لأن اتخاذ الصاحبة للافتقار إليها لأنسها وعونها والالتذاذ بصحبتها، وكل ذلك من آثار الاحتياج، والله تعالى الغني المطلق، وتعالي جَدّه بغناه المطلق، والولد يرغب فيه للاستعانة والأنس به، مع ما يقتضيه من انفصاله من أجزاء والديه وكل ذلك من الافتقار والانتقاص).",
-"commentary_en": "Ibn ‘Ashur said: “Al-jadd” (with a fathah on the jim) means greatness and majesty. This is a prelude to His statement, “He has not taken a wife or a son,” because taking a spouse implies need for companionship, assistance, and pleasure in company—all signs of need. Allah is absolutely free of need, and His majesty is exalted by His absolute richness. A child is desired for support and companionship and entails separation from parts of the parents—all of which imply need and نقص. Allah is far exalted above that."
-}
-},
-{
-"qNum": 3,
-"question_ar": "اذكر آية تدل على قيومية الله المستمرة، والتي لا تحل القوانين محلها. إذ أن القوانين ليست إلا أوصافا لأفعال الله بخلقه.",
-"question_en": "Mention a verse indicating Allah’s continual sustaining power, which no laws can replace—since laws are merely descriptions of Allah’s actions in His creation.",
-"answer": {
-"surah": 67,
-"ayahs": [19],
-"ayah_ar": "أَوَلَمْ يَرَوا إِلَى الطَّيرِ فَوقَهُم صافّاتٍ وَيَقْبِضْنَ ما يُمْسِكُهُنَّ إِلَّا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصير [ الملك : 19 ]",
-"ayah_en": "Do they not see the birds above them spreading their wings and folding them? None holds them except the Most Merciful. Indeed, He is, of all things, Seeing.",
-"commentary_ar": "فمن يتأمل في الآية يجد أن تسخير الهواء للطير، وجعل أجسادهن وخلقتهن في حالة مستعدة للطيران، كل ذلك وصف لأفعال الله تعالى (مَا يُمْسِكُهُنَّ إِلَّا الرحمن).",
-"commentary_en": "Whoever reflects on the verse realizes that the subjugation of the air for the birds and the creation of their bodies in a form prepared for flight are all descriptions of Allah’s actions. “None holds them except the Most Merciful.”"
-}
-},
-{
-"qNum": 4,
-"question_ar": "اذكر آية فيها توجيه للكافرين ألا تشغلهم عداوتهم للمؤمنين عن تطلب النجاة لأنفسهم.",
-"question_en": "Mention a verse directing disbelievers not to let their hostility toward believers distract them from seeking salvation for themselves.",
-"answer": {
-"surah": 67,
-"ayahs": [28],
-"ayah_ar": "قُل أَرَأَيْتُم إِن أَهْلَكَنِي اللهُ وَمَن مَعِيَ أَو رَحِمَنا فَمَن يُجِيرُ الكَافِرِينَ مِن عَذابٍ أَلِيمٍ) [ الملك : 28 ]",
-"ayah_en": "Say, “Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?”",
-"commentary_ar": "",
-"commentary_en": ""
-}
-},
-{
-"qNum": 5,
-"question_ar": "قال الله تعالى : (وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا [البقرة: 143]، بمعنى الأفضل والأكثر خيرية. اذكر آية فيها الوسطية بالمعنى ذاته.",
-"question_en": "Allah said: “And thus We made you a middle nation” [Al-Baqarah: 143], meaning the best and most virtuous. Mention a verse where ‘middle’ carries the same meaning.",
-"answer": {
-"surah": 68,
-"ayahs": [28],
-"ayah_ar": "﴿قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَكُمْ لَوْلا تُسَبِّحُونَ﴾ [القلم: 28]",
-"ayah_en": "The most moderate of them said, “Did I not say to you, ‘Why do you not exalt Allah?’”",
-"commentary_ar": "قال ابن كثير: ﴿قَالَ أَوْسَطُهُم﴾ قال ابن عباس، ومجاهد، وسعيد بن جبير، وعكرمة، ومحمد بن كعب، والربيع بن أنس، والضحاك، وقتادة: أي: أعدلهم وخيرهم).",
-"commentary_en": "Ibn Kathir said: “The most moderate of them”—Ibn ‘Abbas, Mujahid, Sa‘id ibn Jubayr, ‘Ikrimah, Muhammad ibn Ka‘b, Ar-Rabi‘ ibn Anas, Ad-Dahhak, and Qatadah said: meaning the most just and best among them."
-}
-}
-]
+  "juz": 29,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "اذكر آية ترد بها على من يبرر وضع تشريعات مخالفة لأحكام الله تعالى من باب مراعاة الحاجات الإنسانية والتخفيف عن الناس.",
+      "question_en": "Mention a verse that refutes those who justify legislating contrary to Allah’s rulings under the pretext of considering human needs and easing matters for people.",
+      "answer": {
+        "surah": 67,
+        "ayahs": [
+          14
+        ],
+        "ayah_ar": "أَلا يَعْلَمُ مَن خَلَقَ وَهُوَ اللَّطِيفُ الخَبيرُ) [الملك: 14].",
+        "ayah_en": "Does He who created not know, while He is the Subtle, the All-Aware?",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر كلمة في آية بمعنى العظمة والجلال والغنى.",
+      "question_en": "Mention a word in a verse that means greatness, majesty, and richness.",
+      "answer": {
+        "surah": 72,
+        "ayahs": [
+          3
+        ],
+        "ayah_ar": "وَأَنَّهُ تَعَالَى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا) [الجن: 3]",
+        "ayah_en": "And that exalted is the majesty of our Lord; He has not taken a wife or a son.",
+        "commentary_ar": "قال ابن عاشور : (والجَدّ : بفتح الجيم العظمة والجلال، وهذا تمهيد وتوطئة لقوله : ( ما اتخذ صاحبة ولا ولداً ) ، لأن اتخاذ الصاحبة للافتقار إليها لأنسها وعونها والالتذاذ بصحبتها، وكل ذلك من آثار الاحتياج، والله تعالى الغني المطلق، وتعالي جَدّه بغناه المطلق، والولد يرغب فيه للاستعانة والأنس به، مع ما يقتضيه من انفصاله من أجزاء والديه وكل ذلك من الافتقار والانتقاص).",
+        "commentary_en": "Ibn ‘Ashur said: “Al-jadd” (with a fathah on the jim) means greatness and majesty. This is a prelude to His statement, “He has not taken a wife or a son,” because taking a spouse implies need for companionship, assistance, and pleasure in company—all signs of need. Allah is absolutely free of need, and His majesty is exalted by His absolute richness. A child is desired for support and companionship and entails separation from parts of the parents—all of which imply need and نقص. Allah is far exalted above that."
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 3,
+      "question_ar": "اذكر آية تدل على قيومية الله المستمرة، والتي لا تحل القوانين محلها. إذ أن القوانين ليست إلا أوصافا لأفعال الله بخلقه.",
+      "question_en": "Mention a verse indicating Allah’s continual sustaining power, which no laws can replace—since laws are merely descriptions of Allah’s actions in His creation.",
+      "answer": {
+        "surah": 67,
+        "ayahs": [
+          19
+        ],
+        "ayah_ar": "أَوَلَمْ يَرَوا إِلَى الطَّيرِ فَوقَهُم صافّاتٍ وَيَقْبِضْنَ ما يُمْسِكُهُنَّ إِلَّا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصير [ الملك : 19 ]",
+        "ayah_en": "Do they not see the birds above them spreading their wings and folding them? None holds them except the Most Merciful. Indeed, He is, of all things, Seeing.",
+        "commentary_ar": "فمن يتأمل في الآية يجد أن تسخير الهواء للطير، وجعل أجسادهن وخلقتهن في حالة مستعدة للطيران، كل ذلك وصف لأفعال الله تعالى (مَا يُمْسِكُهُنَّ إِلَّا الرحمن).",
+        "commentary_en": "Whoever reflects on the verse realizes that the subjugation of the air for the birds and the creation of their bodies in a form prepared for flight are all descriptions of Allah’s actions. “None holds them except the Most Merciful.”"
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 4,
+      "question_ar": "اذكر آية فيها توجيه للكافرين ألا تشغلهم عداوتهم للمؤمنين عن تطلب النجاة لأنفسهم.",
+      "question_en": "Mention a verse directing disbelievers not to let their hostility toward believers distract them from seeking salvation for themselves.",
+      "answer": {
+        "surah": 67,
+        "ayahs": [
+          28
+        ],
+        "ayah_ar": "قُل أَرَأَيْتُم إِن أَهْلَكَنِي اللهُ وَمَن مَعِيَ أَو رَحِمَنا فَمَن يُجِيرُ الكَافِرِينَ مِن عَذابٍ أَلِيمٍ) [ الملك : 28 ]",
+        "ayah_en": "Say, “Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      },
+      "difficulty": "",
+      "theme": ""
+    },
+    {
+      "qNum": 5,
+      "question_ar": "قال الله تعالى : (وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا [البقرة: 143]، بمعنى الأفضل والأكثر خيرية. اذكر آية فيها الوسطية بالمعنى ذاته.",
+      "question_en": "Allah said: “And thus We made you a middle nation” [Al-Baqarah: 143], meaning the best and most virtuous. Mention a verse where ‘middle’ carries the same meaning.",
+      "answer": {
+        "surah": 68,
+        "ayahs": [
+          28
+        ],
+        "ayah_ar": "﴿قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَكُمْ لَوْلا تُسَبِّحُونَ﴾ [القلم: 28]",
+        "ayah_en": "The most moderate of them said, “Did I not say to you, ‘Why do you not exalt Allah?’”",
+        "commentary_ar": "قال ابن كثير: ﴿قَالَ أَوْسَطُهُم﴾ قال ابن عباس، ومجاهد، وسعيد بن جبير، وعكرمة، ومحمد بن كعب، والربيع بن أنس، والضحاك، وقتادة: أي: أعدلهم وخيرهم).",
+        "commentary_en": "Ibn Kathir said: “The most moderate of them”—Ibn ‘Abbas, Mujahid, Sa‘id ibn Jubayr, ‘Ikrimah, Muhammad ibn Ka‘b, Ar-Rabi‘ ibn Anas, Ad-Dahhak, and Qatadah said: meaning the most just and best among them."
+      },
+      "difficulty": "",
+      "theme": ""
+    }
+  ]
 }
