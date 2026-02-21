@@ -1,0 +1,287 @@
+{
+  "juz": 4,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "اذكر آية تُبيّن أن التعرض لضيق نفسي قد يكون رحمة من حيث أنه يُخفّف\nمن الإحساس بضيق نفسي آخر، فقد يتعرض الإنسان المشكلة تسبب لديه\nشعورًا سلبيًا قويًّا (خوف ، حزن ، ندم ) ، ثم بعد ذلك يتعرض لما يسبب لديه\nشعورًا سلبيًا أقوى من الأول إلى درجة أنه ينسيه الشعور الأول. عند زوال\nهذا المسبب الثاني، فإنه يُشعر بارتياح لأنّ الأول كان قد تضاءل بسبب\nالثاني . اذكر آية تدل على مثل هذا.",
+      "question_en": "Mention a verse showing that experiencing one distress can be a mercy because it can lessen the feeling of an earlier distress—so a stronger worry may make a person forget a previous worry, and when the stronger one ends, the earlier one feels lighter.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          153
+        ],
+        "ayah_ar": "إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَى أَحَدٍ وَالرَّسُولُ يَدْعُوكُمْ فِي أُخْرَاكُمْ فَأَثَابَكُمْ غَمَّاً بِغَمَ لِكَيْلا تَحْزَنُواْ عَلَى مَا فَاتَكُمْ وَلاَ مَا أَصَابَكُمْ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ)",
+        "commentary_ar": "قال السعدي في تفسيره : ((فَأَثَابَكُمْ ) أي : جازاكم على فعلكم غَمَّا بِغَمٍ أي : غما يَتْبَعُ غمًا ، غم بفوات النصر وفوات الغنيمة، وغم بانهزامكم، وغم أنساكم كل غم، وهو سماعكم أن محمدًا ﷺ قد قتل. ولكن الله - بلطفه وحسن نظره لعباده - جعل اجتماع هذه الأمور لعباده المؤمنين خيرا لهم، فقال : لِكَيْلا تَحْزَنُوا عَلَى مَا فَاتَكُمْ) من النصر والظفر، وَلَا مَا أَصَابَكُمْ مِن الهزيمة والقتل والجراح، إذا تحققتم أن الرسول ﷺ لم يقتل هانت عليكم تلك المصيبات، واغتبطتم بوجوده المسلي عن كل مصيبة ومحنة، فلله ما في ضمن البلايا والمحن من الأسرار والحكم، وكل هذا صادر عن علمه وكمال خبرته بأعمالكم، وظواهركم وبواطنكم ، ولهذا قال : وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ)).",
+        "commentary_en": "As-Sa‘di explains that Allah repaid them with one grief after another: grief for missing victory and spoils, grief from defeat, and then a grief that made them forget every other grief—hearing that Muhammad ﷺ had been killed. Yet Allah, out of His gentleness and wise care, made the gathering of these hardships a good for the believers, so that they would not keep grieving over what they missed (victory) or what struck them (defeat, killing, wounds). When they realized the Messenger ﷺ was not killed, those calamities became easier to bear, and his presence comforted them. All of this proceeds from Allah’s perfect knowledge and complete awareness of their deeds, outward and inward."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر آية تُكلّف المؤمنين بتكليف وتَضْمَنُ لهم ضمانًا يُريح قلوبهم من الخوف\nمن مؤامرات أعدائهم وقوتهم.",
+      "question_en": "Mention a verse that gives the believers a duty, and also guarantees them something that calms their hearts from fear of their enemies’ plots and strength.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          120
+        ],
+        "ayah_ar": "وَإِن تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا إِنَّ اللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ﴾",
+        "commentary_ar": "قاعدة التكليف والضمان ذكرها ابن القيم، فمثلا كلنا يحفظ قول الله تعالى وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا)، ربما تسأل : ما التكليف في هذه الآية ؟ (تقوى الله ) ، وما الضمان الذي ضمنه الله لعبده إذا كلفه ؟ ( أن يجعل له مخرجا وأن يرزقه من حيث لا يحتسب ) .\nوترى مثالاً لهذه القواعد كثيرًا في القرآن، من مثل هذه الآية المذكورة في هذا الموضع وَإِن تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا، فالله كلفهم بالصبر والتقوى، وضمن لهم حينئذ أن لا يضرهم كيد أعدائهم شيئًا.\nولا بن القيم كلام في الفوائد نفيس في وصف هذه القاعدة، حيث قال : (والله سبحانه قد أمر العبد بأمر وضمن له ضمانًا ، فإن قام بأمره بالنصح والصدق والإخلاص والاجتهاد، فإنه سبحانه ضمن الرزق لمن عَبدَهُ ، والنصر لمن توكل عليه واستنصر به ، والكفاية لمن كان هو همه ومراده، والمغفرة لمن استغفره، وقضاء الحوائج لمن صَدَقَه في طلبها ووثق به وقوي رجاؤه وطمعه في فضله وجوده. فالفَطِن الكيس إنما يهتم بأمره وإقامته وتوفيقه لا بضمانه، فإنه الوفي الصادق، ومن أوفى بعهده من الله . فمن علامات السعادة صرف اهتمامه إلى أمر الله دون ضمانه. ومن علامات الحرمان فراغ قلبه من الاهتمام بأمره وحبه وخشيته والاهتمام بضمانه ، والله المستعان).",
+        "commentary_en": "Ibn al-Qayyim mentions a recurring Qur’anic pattern: a command (تكليف) paired with a divine guarantee (ضمان). For example, in “Whoever fears Allah, He will make for him a way out,” the duty is taqwa, and the guarantee is a way out and provision from where one does not expect. Likewise here, Allah commands patience and taqwa and guarantees that the enemies’ plotting will not harm the believers. Ibn al-Qayyim (in al-Fawa’id) explains that when Allah commands His servant and gives him a guarantee, then if the servant fulfills the command with sincerity, truthfulness, and effort, Allah guarantees provision to His worshipper, victory to the one who relies on Him, sufficiency to the one whose main concern is Allah, forgiveness to the one who seeks forgiveness, and the fulfilling of needs for the one who sincerely asks and has strong hope in Allah’s bounty. The wise person focuses on carrying out Allah’s command and seeking His enabling help, not anxiously fixating on the guarantee—because Allah is the most faithful in keeping promises. Happiness is to be occupied with Allah’s command; deprivation is to neglect the command while only wanting the guarantee."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "قرأنا في الجزء الثالث قول الله تعالى : (إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ\nالنَّبِيِّينَ بِغَيْرِ حَقٍ وَيَقْتُلُونَ الَّذِينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ)\n[آل عمران : 21] . وقد يسأل سائل : هل يمكن أن يكون قتل الأنبياء بحق\nأصلاً؟ والجواب أن هذه العبارة بِغَيْرِ حَقٌّ) هي لزيادة بيان شناعة فعلهم،\nفليست قَيْدًا إذا توفر حَرُمَ قتل الأنبياء وإذا لم يتوفر جاز قتلهم ! اذكر آية\nفيها عبارة قد يظن أنها للتقييد بينما هي للتشنيع .",
+      "question_en": "We read: “they kill the prophets **without right** …” and someone might think the phrase is a restriction, though it is really to highlight the ugliness of the act. Mention a verse where a phrase might seem like a restriction, but is actually for emphasis and condemnation.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          130
+        ],
+        "ayah_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُّضَاعَفَةٌ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ)",
+        "commentary_ar": "قال ابن عاشور: وحينئذ فالحالُ لا تُفِيدُ مفهومًا كذلك إذ ليس القصد منها التقييد بل التشنيع، فلا يقتصر التحريم بهذه الآية على الربا البالغ أضعافًا كثيرة ، حتى يقول قائل : إذا كان الربا أقل من ضعف رأس المال فليس بمحرم،\nفليس هذا الحال هو مَصَبَّ النهي عن أكل الربا حتى يَتَوَهَّمَ مُتَوَهَّمُ أَنَّهُ إِنْ كَانَ دون الضعف لم يكن حرامًا.",
+        "commentary_en": "Ibn ‘Ashur explains that the wording “multiplied many times over” is not meant to restrict the prohibition to only extreme forms of riba. Rather, it is mentioned for condemnation and to highlight how ugly and destructive riba is in its common practice. So one may not claim, “If it is less than double the principal, then it is not forbidden.” The phrase is not the point of the prohibition; it is stated to emphasize the severity of the matter, not to narrow the ruling."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "يتساءل البعض : ما الدليل على أن القرآن كلام الله ؟ وفي الإجابة عن هذا\nالسؤال كثيرا ما نسترسل بالحديث عن الإعجاز البلاغي والأدلة العلمية\nوالإنباء بأخبار المستقبل والماضي، وهذا كله صحيح . لكن حقيقة هناك\nدليل مهم جدا ، وهو أن أسلوب القرآن في خطاب النبي صلى الله عليه وسلم\nهو أسلوب خطاب رب لعبد ، لا أسلوب إنسان يريد أن يصنع لنفسه مجدا\nمزعوما بصياغة كلام ثم نسبته إلى الله - تعالى - ، فمثلا ترى القرآن يتوعد\nالنبي إن عصى ربه ، وفي المقابل إن فعل النبي فعلًا عظيمًا ترى أن القرآن ينسب\nالفضل في ذلك إلى الله . وذلك بخلاف ما تراه في كتب البهائية والقاديانية\nوالبابية مثلا من نسبة أمجاد موهومة إلى أنفسهم وقدسية مهما فعلوا . اذكر\nآية تتحدث عن موقف أَحْسَنَ فيه النبي التصرف جدا، لكن الآية مع ذلك\nنسبت الفضل إلى الله أن وفق نبيه إلى هذا التصرف .",
+      "question_en": "Some ask: what is proof the Qur’an is Allah’s speech? One strong proof is its tone toward the Prophet ﷺ: it speaks like a Lord addressing His servant. Mention a verse describing a situation where the Prophet acted excellently, yet the verse attributes that success to Allah’s mercy and enabling.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          159
+        ],
+        "ayah_ar": "﴿فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ﴾",
+        "commentary_ar": "والمعنى : ما كانت رحمتك بأصحابك الذين تولوا عنك يوم أحد وصبرك عليهم إلا برحمة من الله - عَزَّ وَجَلَّ - أن وفقك لهذا .",
+        "commentary_en": "The meaning is that your gentleness toward your companions who turned away from you at Uhud—and your patience with them—was only by Allah’s mercy: Allah is the One who enabled you and granted you that noble conduct. This shows the Qur’an’s tone of a Lord crediting the servant’s good to Allah’s guidance and mercy."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "جملة معترضة جاءت في مكان بديع يتجلى فيها لأبعد حد المعنى الذي ذكرناه\nمن أن القرآن خطاب رب لعبد. فالنبي - صلى الله عليه وسلم - مبلغ عن\nربه ، ليس له أن يتوقع ولا حتى أن يقتص الله له من ظالميه في الدنيا . بل عليه\nالتسليم لتصاريف القدر كلها ، فإنما هو عبد لرب يحكم ما يشاء ويفعل ما\nيريد. اذكر تحديداً هذه الجملة المعترضة التي يتجلى فيها المعنى المذكور.",
+      "question_en": "A parenthetical phrase appears in a powerful place showing that the Qur’an is a Lord addressing His servant: the Prophet ﷺ is only a messenger and cannot demand worldly revenge. Mention that exact parenthetical phrase.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          128
+        ],
+        "ayah_ar": "﴿لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ﴾",
+        "commentary_ar": "روى مسلم عن أنس رضي الله عنه : ( أن رسول الله صلى الله عليه وسلم كسرت رباعيته يوم أحد ، وشُجّ في رأسه ، فجعل يسلت الدم عنه ، ويقول : كيف يفلح قوم شجوا نبيهم ، وكسروا رباعيته ، وهو يدعوهم إلى الله ؟»، فأنزل الله عز وجل : ﴿لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْء﴾). وروى البخاري مثله.\nوسياق هذه الآية من الجزء كما يلي : لِيَقْطَعَ طَرَفًا مِّنَ الَّذِينَ كَفَرُوا أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا خَابِبِينَ لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ﴾\nفالله - عز وجل - ذكر أربع تصاريف قد يصرف بها أمر هؤلاء، وجعل بين هذه التصاريف الأربعة هذه العبارة المعترضة ﴿لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٍ) لتؤكد أن رسول الله - صلى الله عليه وسلم - ليس إلا مبلغًا وليس له من الأمر شيء، ولا حتى أن يتوقع أن ينتقم الله له من هؤلاء في الدنيا.",
+        "commentary_en": "Muslim narrates from Anas (رضي الله عنه) that the Messenger of Allah ﷺ had his tooth broken at Uhud and was wounded in the head, wiping the blood and saying: “How can a people succeed who wounded their Prophet and broke his tooth while he calls them to Allah?” Then Allah revealed: **﴿لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ﴾**. Al-Bukhari also reported similar.\nThe verse context includes several possible outcomes Allah may decree for the disbelievers, and Allah placed this parenthetical statement in the middle to emphasize that the Messenger ﷺ is only a conveyer: he does not control the affair, and he cannot demand that Allah take revenge for him in this world. Allah judges as He wills."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "يدعو البعض إلى جمع أبناء المجتمع الواحد على مبادئ أرضية بدعوى أن هذا\nيوحدهم، ولو على حساب التفريط في حق الله تعالى وتجاوز شرائعه وأحكامه .\nبينما يعلمنا القرآن أن ترك ما أخرج الله هذه الأمة لأجله، وترك التواصي\nبالتزام حدوده، يؤدي إلى تمزق المجتمع وضياع وحدته . اذكر آيتين متتاليتين\nيفيد تعاقبهما هذا المعنى.",
+      "question_en": "Some call people to unite on worldly principles even at the expense of Allah’s rights and laws. But the Qur’an teaches that abandoning what this ummah was raised for—and abandoning mutual enjoining of Allah’s limits—leads to division. Mention two consecutive verses whose sequence conveys this meaning.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          104,
+          105
+        ],
+        "ayah_ar": "وَلتَكُن مِنكُم أُمَّةٌ يَدعونَ إِلَى الخَيرِ وَيَأْمُرُونَ بِالمَعروفِ وَيَنْهَونَ عَنِ المُنكَرِ وَأُولئِكَ هُمُ المُفلِحونَ وَلا تَكونوا كَالَّذِينَ تَفَرَّقُوا وَاختَلَفُوا مِن بَعدِ مَا جَاءَهُمُ البَيِّنَاتُ وَأُولئِكَ لَهُمْ عَذَابٌ عَظِيمٌ﴾",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": " من حسن تعامل الإسلام مع الرقيق والإماء أنه سماهم بتسميات تكرمهم\nوتشعرهم بحسن الصلة مع من يمتلكونهم وكأنهم من أفراد العائلة . اذكر\nكلمتين متفرقتين من آية فيهما هذا المعنى.",
+      "question_en": "One of Islam’s good dealings with slaves is that it uses honorable terms that show closeness and dignity, as if they are part of the household. Mention two separate words from a verse that show this meaning.",
+      "answer": {
+        "surah": 4,
+        "ayahs": [
+          25
+        ],
+        "ayah_ar": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِن مَّا مَلَكَتْ أَيْمَانُكُم مِّن فَتَيَاتِكُمُ الْمُؤْمِنَاتِ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُم بَعْضُكُم مِّن بَعْضٍ فَانكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ﴾",
+        "commentary_ar": "سما هن الله فتيات وليس إماءً وقال عمن يملكهن أهلهن. وفي الحديث : (ولا يَقُلْ أَحَدُكُمْ عَبْدِي أَمَتِي ، وَلْيَقُلْ فَتايَ فَتاتي غلامي ) (رواه مسلم).",
+        "commentary_en": "Allah called them “فتيات” (young women) rather than degrading labels, and He referred to those who possess them as “أهلهن” (their household/people), which carries honor and closeness. In the hadith: “None of you should say: ‘my slave (male/female)’, but say: ‘my young man, my young woman, my servant-boy’” (Muslim)."
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": " المعصية سبب للهوان والمذلة . اذكر آية تدل على ذلك.",
+      "question_en": "Disobedience is a cause of humiliation and lowliness. Mention a verse that indicates this.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          112
+        ],
+        "ayah_ar": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ذَلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٌّ ذَلِكَ بِمَا عَصَوا وَكَانُوا يَعْتَدُونَ﴾",
+        "commentary_ar": "أي : ألزمهم الله الذلة والصغار أينما كانوا فلا يأمنون.",
+        "commentary_en": "Meaning: Allah made humiliation and lowliness cling to them wherever they were, so they do not feel secure—this came as a consequence of their disbelief, disobedience, and transgression."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": " يحاول البعض التوفيق بين خرافة التطور والإسلام متأولين بذلك الآيات\nتأولاً واضح البطلان . اذكر ثلاث كلمات من آية ، تبطل فكرة أن يكون والدا\nالبشرية قد تطورا عن كائنات أدنى.",
+      "question_en": "Some try to reconcile the theory of evolution with Islam by forcing false interpretations of verses. Mention three words from a verse that refute the idea that the parents of humanity evolved from lower beings.",
+      "answer": {
+        "surah": 4,
+        "ayahs": [
+          1
+        ],
+        "ayah_ar": "يا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِن نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوجَها وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ إِنَّ اللَّهَ كَانَ عَلَيْكُم رَقِيبًا﴾",
+        "commentary_ar": "فالله عز وجل يخبرنا أنه خلق حواء من آدم.",
+        "commentary_en": "Allah informs us that He created Hawwa’ (Eve) from Adam, and that humanity spread from the two of them—this is explicit creation, not descent from lower creatures."
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "من أهم ما ينجو به المسلم أن يكون معترفاً بذنبه إذا أذنب لا أن يدافع عنه،\nقال الله تعالى: ﴿وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا عَسَى\nاللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ﴾ [التوبة: 102] . لكن قد يخدر أحدنا\nنفسه بأنه معترف بذنبه فلا يقلع عنه . اذكر خمس كلمات تُكمل المعنى\nوتمنع من سوء الفهم هذا.",
+      "question_en": "One of the most important means of salvation is to admit one’s sin rather than defend it. But someone may claim “I admit it” while still not quitting. Mention five words that complete the meaning and prevent this misunderstanding.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          135
+        ],
+        "ayah_ar": "(وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّواْ عَلَى مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ)",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "شرك المرء سبب لخوفه من عدوه . اذكر آية تدل على هذا المعنى.",
+      "question_en": "A person’s shirk is a cause for fear of the enemy. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          151
+        ],
+        "ayah_ar": "(سَنُلقى في قُلوبِ الَّذِينَ كَفَرُوا الرُّعبَ بِما أَشْرَكُوا بِاللَّهِ مَا لَم يُنَزِّلُ بِهِ سُلطَانًا وَمَأْواهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمينَ)",
+        "commentary_ar": "فالله - تعالى - يخبرنا أنه ألقى هذا الرعب في قلوب الكافرين يوم أحد ، بسبب ما اتخذوا من دونه من الأنداد والأصنام بما أشركوا بِاللَّهِ مَا لَمْ يُنَزِّلَ بِهِ سُلطَانًا)، والباء هنا باء سببية.",
+        "commentary_en": "Allah tells us He cast this terror into the hearts of the disbelievers at Uhud because of their shirk—taking rivals and idols besides Him. The “بـ” in **﴿بِما أَشْرَكُوا﴾** indicates causation: their association of partners was the reason for the fear placed in their hearts."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "عدم الإيمان بالآخرة يجعل الإنسان يتحسر على مصائب الدنيا، وهي من\nعقوبات الله لهؤلاء . اذكر ست كلمات من آية تدل على هذا المعنى .",
+      "question_en": "Not believing in the Hereafter makes a person deeply regret worldly losses, and this can be a punishment from Allah. Mention six words from a verse that indicate this.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          156
+        ],
+        "ayah_ar": "يَا أَيُّهَا الَّذِينَ آمَنوا لا تكونوا كَالَّذِينَ كَفَرُوا وقالوا لإخوانِهِم إِذا ضَرَبُوا فِي الأَرْضِ أو كانوا غُزَّى لو كانوا عِندَنا ما ماتوا وَما قُتِلُوا لِيَجْعَلَ اللَّهُ ذَلِكَ حَسْرَةً فِي قُلُوبِهِم وَاللَّهُ يُحْيِي وَيُمِيتُ وَاللَّهُ بِما تَعْمَلُونَ بَصير)",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "الذي لا يرضى بقدر الله فإنه يدخل الغم على نفسه بنفسه . اذكر كلمتين من\nآية تدلان على هذا المعنى.",
+      "question_en": "Whoever is not content with Allah’s decree brings grief upon himself by himself. Mention two words from a verse indicating this meaning.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          154
+        ],
+        "ayah_ar": "(ثُمَّ أَنزَلَ عَلَيْكُم مِن بَعدِ الغَمَ أَمَنَةً نُعَاسًا يَغشى طائِفَةً مِنكُم وَطَائِفَةٌ قَد أَهَمَّتَهُم أَنفُسُهُم يَظُنُّونَ بِاللَّهِ غَيْرَ الحَقِّ ظَنَّ الجَاهِلِيَّةِ يَقولونَ هَل لَنَا مِنَ الْأَمْرِ مِن شَيْءٍ قُل إِنَّ الأَمْرَ كُلَّهُ لِلَّهِ يُخفونَ فى أَنفُسِهِم ما لا يُبدونَ لَكَ يَقُولُونَ لَو كَانَ لَنَا مِنَ الأَمرِ شَيء ما قُتلنا هاهنا قُل لَو كُنتُم فى بُيوتِكُم لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْمُ الْقَتْلُ إِلى مَضَاجِعِهِم وَلِيَبْتَلِيَ اللهُ ما فى صُدورِكُم وَلِيُمَحِّصَ ما في قُلُوبِكُمْ وَاللَّهُ عَلِيمٌ بِذَاتِ الصدور)",
+        "commentary_ar": "قال ابن عاشور: ومعنى أهمتهم أنفسهم أي حدثتهم أنفسهم بما يدخل عليهم الهم وذلك بعدم رضاهم بقدر الله ، وبشدة تلهفهم على ما أصابهم وتحسرهم على ما فاتهم مما يظنونه منجيا لهم لو عملوه .",
+        "commentary_en": "Ibn ‘Ashur explains that “أهمتهم أنفسهم” means their own souls preoccupied them and filled them with worry—because they were not content with Allah’s decree, and because of their intense regret over what happened and what they missed, imagining that a different choice would have saved them."
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "يتهاون البعض في الذنوب بينما يقول: \"لئن فُتح باب الجهاد ليرين الله ما\nأصنع ، أما الآن فليس عندي ما أقدمه \"... اذكر آية من الجزء الرابع تبين بها\nلهؤلاء أن التزام أوامر الله واجتناب نواهيه وعدم التهاون فيها سيكون خير\nمعين لهم في الثبات إذا فتح لهم باب الجهاد.",
+      "question_en": "Some people take sins lightly and say: “If jihad opens, Allah will see what I do—but right now I have nothing to offer.” Mention a verse from Juz 4 showing that obeying Allah and avoiding sins is the best support for steadfastness when trials and striving come.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          155
+        ],
+        "ayah_ar": "﴿إِنَّ الَّذِينَ تَوَلَّوْا مِنكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا وَلَقَدْ عَفَا اللَّهُ عَنْهُمْ إِنَّ اللَّهَ غَفُورٌ حَلِيمٌ﴾",
+        "commentary_ar": "قال السعدي: يخبر تعالى عن حال الذين انهزموا يوم \"أحد\" وما الذي أوجب لهم الفرار، وأنه من تسويل الشيطان، وأنه تسلط عليهم ببعض ذنوبهم.\nفهم الذين أدخلوه على أنفسهم، ومكنوه بما فعلوا من المعاصي، لأنها مَرْكِبه ومَدْخَله ، فلو اعتصموا بطاعة ربهم لما كان له عليهم من سلطان . قال تعالى : إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانُ) [الحجر : 42].",
+        "commentary_en": "As-Sa‘di explains that Allah describes those who fled at Uhud and clarifies why they slipped: it was from Satan’s enticement, and he gained power over them because of some of their sins. They themselves opened the door by disobedience—sin is Satan’s vehicle and entryway. If they had held firmly to obeying their Lord, Satan would not have had authority over them, as Allah says: “Indeed, My servants—you have no authority over them.” This shows that seriousness in obedience and avoiding sins is a major aid for steadfastness when hardship comes."
+      }
+    },
+    {
+      "qNum": 15,
+      "question_ar": "المال مهم للمسلمين أفراداً وجماعات، وذلك لأنه يُقام به فرائض الدين\nكالحج والجهاد وأعمال البر، وتستغني به الأمة عن الاحتياج المذل إلى غيرها\nمن الأمم، ولذلك أمرنا الله بصون المال عن تضييعه وإفساده. اذكر آية تدل\nعلى ذلك .",
+      "question_en": "Wealth matters for Muslims individually and collectively: it supports obligations like Hajj, jihad, and good works, and it protects the ummah from humiliating dependence. Mention a verse commanding that wealth be protected from being wasted or corrupted.",
+      "answer": {
+        "surah": 4,
+        "ayahs": [
+          5
+        ],
+        "ayah_ar": "وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ فِيهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَّعْرُوفًا)",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 16,
+      "question_ar": "من أبناء المسلمين من لا يعرف للتوحيد قدره ولا يقدر شناعة الكفر، فتراه\nيقول في أناس كفار أنهم ربما يكونون أفضل من بعض المسلمين عند الله\nبسبب \"أعمال مالية خيرية\" يعملونها . اذكر آية ترد بها على هؤلاء.",
+      "question_en": "Some Muslims do not value tawhid and do not grasp the ugliness of disbelief, so they claim disbelievers might be better than some Muslims because of “financial charity” they do. Mention a verse that refutes this idea.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          117
+        ],
+        "ayah_ar": "﴿مَثَلُ مَا يُنفِقُونَ فِي هَذِهِ الْحَيَاةِ الدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوا أَنفُسَهُمْ فَأَهْلَكَتْهُ وَمَا ظَلَمَهُمُ اللهُ وَلَكِنْ أَنفُسَهُمْ يَظْلِمُونَ﴾",
+        "commentary_ar": "قال ابن عاشور: (استئناف بياني، لأن قوله في الآية السابقة (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ﴾ [آل عمران : 116 ] يثير سؤال سائل عن إنفاقهم الأموال في الخير من إغاثة الملهوف وإعطاء الديات في الصلح عن القتلى . ضَرَبَ لأعمالهم المتعلقة بالأموال مثلاً، فشبه هيئة إنفاقهم المعجب ظاهرها ، المخيب آخرها، حين يحبطها الكفر، بهيئة زرع أصابته ريح باردة فأهلكته ).",
+        "commentary_en": "Ibn ‘Ashur explains that this verse answers a natural question raised by the prior verse: what about their spending on apparent good causes, like helping the distressed or paying blood-money to reconcile? Allah gives a parable for their wealth-related deeds: the outward form may impress, but the end is ruined when disbelief nullifies it—like a field struck by a freezing wind that destroys it. Allah does not wrong them; they wrong themselves by kufr."
+      }
+    },
+    {
+      "qNum": 17,
+      "question_ar": "على المسلم التأدب مع الله مهما بذل في سبيل الله كما قلنا عند قوله تعالى :\nأُوْلَئِكَ يَرْجُونَ رَحْمَتَ اللهِ) [البقرة: 218] . اذكر ثلاث كلمات تبين أن العبد\nيعمل أعظم الأعمال في الإسلام ويكون بعد ذلك في حاجة إلى مغفرة الله\nتعالى.",
+      "question_en": "A Muslim should maintain proper ادب with Allah no matter how much he sacrifices in Allah’s cause. Mention three words showing that even after great deeds, a servant still needs Allah’s forgiveness.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          195
+        ],
+        "ayah_ar": "فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِن دِيَارِهِمْ وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِنْ عِندِ اللَّهِ وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ)",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 18,
+      "question_ar": "يُنَفِّر المبطلون عن النهي عن المنكر بحجة أن ذلك يهدد النسيج المجتمعي\nويوقع الفتنة بين طوائفه. اذكر خمس كلمات من آية فيها رد على هؤلاء.",
+      "question_en": "Some try to repel people from forbidding evil by claiming it threatens social cohesion and causes conflict. Mention five words from a verse that refute them.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          104,
+          105
+        ],
+        "ayah_ar": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ وَلَا تَكُونُوا كَالَّذِينَ تَفَرَّقُوا وَاخْتَلَفُوا مِن بَعْدِ مَا جَاءَهُمُ الْبَيِّنَاتُ وَأُولَئِكَ لَهُمْ عَذَابٌ عَظِيمٌ﴾",
+        "commentary_ar": "فجعل الله تعالى الفرقة والاختلاف في مقابل الأمر بالمعروف والنهي عن المنكر. فترك فريضة النهي عن المنكر يوقع في الفرقة والاختلاف.",
+        "commentary_en": "Allah places unity and success alongside enjoining good and forbidding evil, and He places division and اختلاف as the opposite outcome. So abandoning the obligation of forbidding evil is what leads to fragmentation and discord—not fulfilling it."
+      }
+    },
+    {
+      "qNum": 19,
+      "question_ar": "آية نزلت في جماعة من الصحابة ، رغم أنها بدئت بما يشبه الذم ، إلا أنهم\nفرحوا بنزولها لكلمتين في هذه الآية . اذكر الكلمتين .",
+      "question_en": "A verse was revealed about a group of Companions; although it begins with something that sounds like blame, they were happy because of two words in it. Mention the two words.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          122
+        ],
+        "ayah_ar": "إِذْ هَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلا وَاللَّهُ وَلِيُّهُمَا وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ﴾",
+        "commentary_ar": "روى الْبُخَارِيُّ عن جَابِرَ بْنَ عَبْدِ اللَّهِ أنه قال : فِينَا نَزَلَتْ : إِذْ هَمَّتْ طَائِفَتَانِ مِنْكُمْ أَنْ تَفْشَلا وَاللَّهُ وَلِيُّهُمَا وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ قَالَ : نَحْنُ الطَّائِفَتَانِ : بَنُو حارثة وَبَنُو سَلَمَة، وَمَا نَحِب أَنَّها لَمْ تَنزِلْ ، لِقَوْلِ اللَّهِ تَعَالَى : وَاللَّهُ وَلِيُّهُمَا.\nقال السعدي : ( وَاللَّهُ وَلِيُّهُمَا ) [آل عمران : 122 ] أي: بولايته الخاصة، التي هي لطفه بأوليائه ، وتوفيقهم لما فيه صلاحهم وعصمتهم عما فيه مضرتهم، فمن توليه لهما أنهما لما هما بهذه المعصية العظيمة وهي الفشل والفرار عن رسول الله عصمهما، لما معهما من الإيمان، كما قال تعالى : اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ) [البقرة : 257].",
+        "commentary_en": "Al-Bukhari narrated from Jabir ibn ‘Abdillah that this verse was revealed about them: the two groups were Banu Harithah and Banu Salamah. He said they would not like the verse to have not been revealed, because Allah said: “وَاللَّهُ وَلِيُّهُمَا.”\nAs-Sa‘di explains that Allah’s “special wilayah” includes His لطف to His allies, guiding them to what benefits them and protecting them from harm. Part of Allah’s care for them is that although they nearly fell into a grave mistake (losing heart and retreating), Allah protected them due to the faith they had."
+      }
+    },
+    {
+      "qNum": 20,
+      "question_ar": "ترى أناساً ملئت قلوبهم باليقين، فلا يترددون في نصرة الحق على الرغم مما\nتعرضوا له في أثناء ذلك من جهد وبلاء، وهم مع ذلك صامدون شامخون على\nالدرب سائرون حتى لقاء الله تعالى . اذكر آية تشير إلى هذا المعنى.",
+      "question_en": "You see people whose hearts are filled with certainty; they do not hesitate to support the truth despite hardship and trials, and they remain steadfast until they meet Allah. Mention a verse that points to this meaning.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          146
+        ],
+        "ayah_ar": "وَكَأَتِن مِّن نَّبِي قَاتَلَ مَعَهُ رِبِيُّونَ كَثِيرٌ فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا وَاللَّهُ يُحِبُّ الصَّابِرِينَ)",
+        "commentary_ar": "وكان في هذه الآية القدوة والأسوة الحسنة للصحابة بذكر حال المؤمنين من أتباع الأنبياء السابقين الذين ثبتوا على الحق وجاهدوا مع أنبيائهم فما ضعفوا وما خضعوا لعدوهم، ففيها تثبيت وتصبير للصحابة بعد مصيبة معركة أحد.",
+        "commentary_en": "This verse provides a model and beautiful example for the Companions: it mentions believers from the followers of earlier prophets who stayed firm upon truth and strove alongside their prophets. They did not weaken or submit to the enemy. It was a source of strengthening and consolation for the Companions after the calamity of Uhud."
+      }
+    }
+  ]
+}

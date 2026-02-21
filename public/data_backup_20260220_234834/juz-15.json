@@ -1,0 +1,231 @@
+{
+  "juz": 15,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "موقف ثبات من النبي صلى الله عليه وسلم ينسب فيه القرآن الفضل إلى الله تعالى . اذكر ثلاث كلمات فيها هذه النسبة.",
+      "question_en": "A scene of steadfastness of the Prophet ﷺ where the Qur’an attributes the credit to Allah. Mention the three words that show this attribution.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          74
+        ],
+        "ayah_ar": "وَلَوْلَا أَن ثَبَّتْنَاكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا",
+        "ayah_en": "If We had not made you firm, you would have almost inclined to them a little.",
+        "commentary_ar": "الثلاث كلمات: (وَلَوْلَا أَن ثَبَّتْنَاكَ) وهي نسبةُ الثبات والفضل لله تعالى.",
+        "commentary_en": "The three words/phrase: “If We had not made you firm,” attributing steadfastness to Allah."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر آيتين فيهما خطاب للنبي بما يؤكد على أن كرامته على الله مقرونة بطاعته، وأنه إن أشرك فقد هذه الكرامة .",
+      "question_en": "Mention two verses addressed to the Prophet ﷺ showing that his honor with Allah is tied to obedience, and that shirk would forfeit it.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          22,
+          39
+        ],
+        "ayah_ar": "لَا تَجْعَلْ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا\nوَلَا تَجْعَلْ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتُلْقَىٰ فِي جَهَنَّمَ مَلُومًا مَّدْحُورًا",
+        "ayah_en": "Do not set up with Allah another god, lest you sit condemned and forsaken.\nAnd do not set up with Allah another god, lest you be cast into Hell, blameworthy and banished.",
+        "commentary_ar": "مع أن الخطاب للنبي ﷺ، فالمعنى تحذيرٌ للأمة كذلك: الشرف عند الله بالطاعة، والشرك يورث الذم والخذلان.",
+        "commentary_en": "Though addressed to the Prophet ﷺ, it is also a warning for the الأمة: honor is linked to obedience; shirk leads to blame and abandonment."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "قال تعالى في أهل النار: ﴿وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَى عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَلِكَ نَجْزِى كُلَّ كَفُورٍ) [فاطر: 36]. وهذا يُشعر بأن نار جهنم لا تخبو. اذكر آية فيها حرف واحد يحل ما قد يظهر أنه تعارض بين الآيتين.",
+      "question_en": "Surah Fatir 36 suggests Hellfire does not subside. Mention a verse where a single letter resolves the apparent conflict between that and another verse about ‘subsiding’.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          97
+        ],
+        "ayah_ar": "وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَاءَ مِن دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَّأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+        "ayah_en": "Whoever Allah guides is truly guided; and whoever He lets go astray—you will never find for them allies besides Him. We will gather them on the Day of Resurrection upon their faces—blind, mute, and deaf. Their refuge is Hell; whenever it subsides, We increase them in blazing fire.",
+        "commentary_ar": "الحلّ في حرف/لفظ (فيهم) المفهوم من السياق، ودلالة (زِدْنَاهُمْ) أن الازدياد راجعٌ عليهم؛ فـ(كلما خبت) لا يلزم منه خبوُّ أصل النار، بل خبوّ ما يتعلق بأجسادهم ثم يُزاد عليهم السعير.",
+        "commentary_en": "The key is that the increase is directed at *them* (“We increase *them* in blaze”), so ‘subsiding’ does not mean the Fire itself goes out; rather, what relates to their bodies subsides then is intensified upon them again."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "آية تُعين في حل المشاكل بين المسلمين، وتفسر وقوع الخلاف بين طرفين مريدين للخير.",
+      "question_en": "A verse that helps resolve problems between Muslims and explains how disputes can occur even between two sides intending good.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          53
+        ],
+        "ayah_ar": "وَقُل لِّعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ ۚ إِنَّ الشَّيْطَانَ يَنزَغُ بَيْنَهُمْ ۚ إِنَّ الشَّيْطَانَ كَانَ لِلْإِنسَانِ عَدُوًّا مُّبِينًا",
+        "ayah_en": "Tell My servants to say what is best. Indeed, Satan sows discord between them. Indeed, Satan is to man a clear enemy.",
+        "commentary_ar": "تفسير وقوع الخلاف: (إِنَّ الشَّيْطَانَ يَنزَغُ بَيْنَهُمْ) مع توجيه عملي: قول التي هي أحسن.",
+        "commentary_en": "It explains disputes by “Satan sows discord between them,” and gives a remedy: speak in the best manner."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "تشويه الصادقين بالألقاب وسيلة جاهلية ، يطلقون لقباً بالأمس يناقض لقب اليوم والمقصود واحد ، تشويه صورته وتنفير الناس عنه . اذكر مطلع آية تدل على تخبطهم في ذلك.",
+      "question_en": "Slandering truthful people through shifting labels is a pre-Islamic tactic—today one label, tomorrow its opposite, with the same aim. Mention the opening of a verse indicating their confusion.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          48
+        ],
+        "ayah_ar": "انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "ayah_en": "Look how they coin comparisons for you; they have gone astray and cannot find a way.",
+        "commentary_ar": "المطلع (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ) يدل على اضطرابهم في الاتهامات والألقاب.",
+        "commentary_en": "“Look how they coin comparisons for you” points to their inconsistent accusations and labels."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "اذكر كلمتين من آية تدلان على أدب نبي وتواضعه في تعامله مع من يقوم بخدمته .",
+      "question_en": "Mention two words from a verse showing a prophet’s etiquette and humility with someone serving him.",
+      "answer": {
+        "surah": 18,
+        "ayahs": [
+          62
+        ],
+        "ayah_ar": "فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًا",
+        "ayah_en": "When they had passed on, he said to his young servant, “Bring us our meal; we have certainly met fatigue from this journey.”",
+        "commentary_ar": "الكلمتان: (لِفَتَاهُ) وفيها لطف الخطاب، و(آتِنَا) بصيغة المشاركة لا التسلّط.",
+        "commentary_en": "Two indicative words: “his young servant (fatāhu)”—gentle address—and “bring *us*,” phrased without harshness."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "ست كلمات من آية تدل على أن الإنسان يرجع إلى ربه بلا مال ولا أهل ولا عشيرة . ما هي ؟",
+      "question_en": "Give six words from a verse showing that a person returns to their Lord without wealth, family, or clan.",
+      "answer": {
+        "surah": 18,
+        "ayahs": [
+          48
+        ],
+        "ayah_ar": "وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا ۖ لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ",
+        "ayah_en": "They will be presented before your Lord in rows: “You have come to Us just as We created you the first time.”",
+        "commentary_ar": "الست كلمات: (لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ).",
+        "commentary_en": "The six-word portion is: “You have come to Us just as We created you the first time.”"
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "جعل الله الدنيا مغرية ملهية ، ليرى أقواهم عزيمةً يُقدِّم حق ربه على شهوة نفسه . اذكر آية تدل على هذا المعنى.",
+      "question_en": "Allah made worldly life alluring as a test to see who is strongest in resolve—preferring Allah’s right over desire. Mention a verse indicating this.",
+      "answer": {
+        "surah": 18,
+        "ayahs": [
+          7
+        ],
+        "ayah_ar": "إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+        "ayah_en": "We have made what is on the earth an adornment for it so that We may test them as to which of them is best in deeds.",
+        "commentary_ar": "التزيين في الدنيا ابتلاءٌ يُظهر أحسنَ عملاً وأقوى عزيمة.",
+        "commentary_en": "Worldly adornment is a test that reveals who is best in deeds and strongest in resolve."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "لا تغتر بنفسك في أية رفعة أو خير تصل إليه ، فكل ما أنت فيه من خيرهو محض فضل من الله ، وهو سبحانه قادر على سلبه منك . اذكر آية تدل على هذا المعنى.",
+      "question_en": "Do not be deceived by any status or good you attain; it is pure favor from Allah, and He can remove it. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          86
+        ],
+        "ayah_ar": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَا إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلًا",
+        "ayah_en": "If We willed, We could surely take away what We have revealed to you; then you would find no one to defend you against Us.",
+        "commentary_ar": "الآية تربي على أن النعمة فضلٌ محض، وأن الله قادر على سلبها متى شاء.",
+        "commentary_en": "The verse teaches that blessings are pure favor, and Allah can withdraw them whenever He wills."
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "صاحبك يتقرب إلى الله بما لم يشرع . نصحته فقال لك : (المهم العمل بنية طيبة ) . اذكر كلمة من آية ترد بها عليه .",
+      "question_en": "A friend seeks closeness to Allah through unlegislated practices and says, “What matters is a good intention.” Mention a single word from a verse that refutes him.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          19
+        ],
+        "ayah_ar": "وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+        "ayah_en": "Whoever desires the Hereafter and strives for it with its due striving while being a believer—those are the ones whose striving is appreciated.",
+        "commentary_ar": "الكلمة: (سَعْيَهَا) أي السعي الموافق لما شُرع للآخرة، لا مجرد نية بلا متابعة للشرع.",
+        "commentary_en": "The key word is “its due striving (saʿyahā)”—i.e., striving in the proper, legislated way, not intention alone without following guidance."
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "قرأ قارئ قول الله تعالى : ﴿مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَن كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِن نَّصِيب) [الشورى: 20 ] فقال : لكن هناك طلاب دنيا حياتهم صعبة للغاية. فأين ما آتاهم الله منها ؟ فأجبته أن القرآن يفسر بعضه بعضاً وأن هناك كلمتين من آية تجيبان عن سؤاله . ما هما ؟",
+      "question_en": "Someone cites Shura 20 and asks: ‘But many worldly seekers have very hard lives—where is what Allah gives them?’ You replied the Qur’an explains itself, and two words from a verse answer him. What are they?",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          18
+        ],
+        "ayah_ar": "مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَّدْحُورًا",
+        "ayah_en": "Whoever desires the immediate (worldly life), We hasten for him therein what We will for whom We will; then We assign for him Hell, which he will enter disgraced and driven away.",
+        "commentary_ar": "الكلمتان الجواب: (مَا نَشَاءُ) أو مع تمام التقييد: (لِمَن نُّرِيدُ). فليس وعدًا بإعطاء كل طالب دنيا كل ما يريد.",
+        "commentary_en": "The answer is the restriction: “what We will” (and/or “for whom We will”). It is not a promise that every worldly seeker gets everything they want."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "اذكر آية أرخَ فيها القرآن لحادثة بعبارة تجمع بين الحساب بالسنين الشمسية والقمرية.",
+      "question_en": "Mention a verse where the Qur’an dates an event in a way that accommodates both solar and lunar year counts.",
+      "answer": {
+        "surah": 18,
+        "ayahs": [
+          25
+        ],
+        "ayah_ar": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        "ayah_en": "They remained in their cave three hundred years, and they added nine.",
+        "commentary_ar": "التعبير (ثلاث مائة سنين وازدادوا تسعًا) يجمع دلالة الحسابين؛ لأن الفرق بين القمري والشمسي يتراكم حتى يُفهم وجه الزيادة.",
+        "commentary_en": "“Three hundred years and added nine” can be understood in light of the accumulated difference between lunar and solar years."
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "من الناس من إذا لم يتيسر له أسباب طاعة من الطاعات فإنه يُسر ولا يرجو حصول أسبابها بل يقول : \"عملت ما علي\" . بينما يوجهنا القرآن إلى ألا نفوت فرصة الأعمال القلبية، بل نرجو تيسير أسباب الطاعة التي لم نتمكن منها . اذكر آية فيها هذا المعنى.",
+      "question_en": "Some people feel relieved when they cannot perform a good deed and stop hoping for its means. The Qur’an directs us to keep the heart-deed: hope for Allah to facilitate it later. Mention a verse with this meaning.",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          28
+        ],
+        "ayah_ar": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَاءَ رَحْمَةٍ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًا مَّيْسُورًا",
+        "ayah_en": "If you must turn away from them, seeking mercy from your Lord that you hope for, then speak to them a gentle word.",
+        "commentary_ar": "فيها تربية على (تَرْجُوهَا): رجاء رحمة الله وتيسير أسباب العطاء والطاعة مستقبلًا مع حسن القول.",
+        "commentary_en": "It teaches hope: “that you hope for”—maintain the inner hope in Allah’s mercy and future facilitation, while speaking kindly."
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "قال تعالى : (قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ بِالْفَحْشَاءِ﴾ [الأعراف: 28]. هناك آية يؤدي سوء فهمها إلى الظن بخلاف ذلك . ما هي ؟",
+      "question_en": "Allah says He does not command indecency )A‘raf 28(. Another verse, if misunderstood, could suggest otherwise. Which verse is it?",
+      "answer": {
+        "surah": 17,
+        "ayahs": [
+          16
+        ],
+        "ayah_ar": "وَإِذَا أَرَدْنَا أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا فِيهَا",
+        "ayah_en": "When We intend to destroy a town, We command its affluent ones, but they defiantly disobey therein...",
+        "commentary_ar": "سوء الفهم أن يُظن أن (أَمَرْنَا مُتْرَفِيهَا) أمرٌ بالفسق، والصواب: أمرناهم بالطاعة فعصوا وفسقوا.",
+        "commentary_en": "Misunderstanding is thinking Allah commanded sin. Correctly: He commanded obedience, but they rebelled and sinned."
+      }
+    },
+    {
+      "qNum": 15,
+      "question_ar": "آية يستدل بها المبطلون على إبطال حد الردة وكأن الإسلام يعطي الحرية لكل أحد أن يفعل في أمر الدين ما يشاء بلا تبعات ، بينما خاتمتها ترهيب مخيف، بالإضافة لكونها مكية في عهد الاستضعاف قبل أن يقيم نبينا دولة .",
+      "question_en": "A verse some misuse to deny apostasy consequences, claiming Islam allows unrestricted religious choice without repercussions—yet its ending is severe warning )and it is Makkan(. Mention it.",
+      "answer": {
+        "surah": 18,
+        "ayahs": [
+          29
+        ],
+        "ayah_ar": "وَقُلِ الْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَاءَ فَلْيُؤْمِن وَمَن شَاءَ فَلْيَكْفُرْ ۚ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا",
+        "ayah_en": "Say, “The truth is from your Lord.” So whoever wills—let him believe; and whoever wills—let him disbelieve. Indeed, We have prepared for the wrongdoers a Fire whose walls will surround them... and if they seek relief, they will be relieved with water like molten metal that scalds faces. Wretched is the drink, and evil is the resting place.",
+        "commentary_ar": "الآية ليست “إذنًا” بالكفر، بل أسلوب تهديد ووعيد بعد البيان: (فمن شاء فليؤمن ومن شاء فليكفر) ثم أعقبها الترهيب الشديد: (إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا...).",
+        "commentary_en": "This is not permission to disbelieve; it is a rhetorical threat after clear truth: ‘whoever wills…’ followed immediately by severe warning: ‘We have prepared for the wrongdoers a Fire…’"
+      }
+    }
+  ]
+}

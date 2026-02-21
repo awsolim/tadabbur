@@ -8,9 +8,7 @@ export default function Home() {
   return (
     <div style={{ maxWidth: 880, margin: "0 auto", padding: 16 }}>
       <h1 style={{ fontSize: 28, marginBottom: 8 }}>Tadabbur Halaqah</h1>
-      <p style={{ marginTop: 0, opacity: 0.8 }}>
-        Choose a Juz to view questions and answers (Arabic + English).
-      </p>
+
 
       <div
         style={{

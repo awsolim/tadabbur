@@ -1,0 +1,322 @@
+{
+  "juz": 10,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "قد يتصور البعض أن سبب الخلاف والتشاحن بين أفراد المجتمع الواحد من\nالمجتمعات الإنسانية هو اقتصادي بالدرجة الأولى، بحيث إذا ازدهر اقتصاد\nهذا المجتمع وسُدّت حاجات الناس وتحققت لهم الرفاهية فإن هذا كفيل بأن\nيقضي - على المشاكل الاجتماعية ويحدث الألفة والتماسك بين الأفراد. اذكر\nآية تدل على خلاف ذلك.",
+      "question_en": "Some may imagine that conflict and hostility within a single society is primarily economic—so that if the economy flourishes, needs are met, and people attain comfort, this would end social problems and create unity. Mention a verse indicating otherwise.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          63
+        ],
+        "ayah_ar": "وَأَلَّفَ بَيْنَ قُلُوبِهِم لَو أَنفَقتَ ما فِي الأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِم وَلَكِنَّ\nاللَّهَ أَلَّفَ بَينَهُم إِنَّهُ عَزِيزٌ حَكِيمٌ﴾ [الأنفال : 63].",
+        "ayah_en": "And He brought their hearts together. If you had spent all that is in the earth, you could not have brought their hearts together; but Allah brought them together. Indeed, He is Mighty and Wise.",
+        "commentary_ar": "فهذه الآية في الأوس والخزرج ، قال السعدي: (فاجتمعوا وائتلفوا، وازدادت\nقوتهم بسبب اجتماعهم، ولم يكن هذا بسعي أحد ، ولا بقوة غير قوة الله ، فلو\nأنفقت ما في الأرض جميعا من ذهب وفضة وغيرهما لتأليفهم بعد تلك\nالنفرة والفرقة الشديدة مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ) لأنه لا يقدر على تقليب\nالقلوب إلا الله تعالى).",
+        "commentary_en": "This verse concerns Al-Aws and Al-Khazraj. Al-Sa‘di said: They united and became harmonious, and their strength increased due to their unity. This was not achieved by anyone’s effort, nor by any power other than Allah’s power. Even if you spent all that is on the earth—gold, silver, and other than that—to reconcile them after that intense hostility and severe division, you would not have united their hearts (مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ), because none is able to turn and unite hearts except Allah تعالى."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "من أقبل بوجهه على الباطل وأهله وأعرض بظهره عن الحق وأهله فإن\nالجزاء يأتيه عند موته وفاقا . اذكر آية فيها هذا المعنى.",
+      "question_en": "Whoever turns his face toward falsehood and its people and turns his back on truth and its people—his recompense comes to him at death accordingly. Mention a verse with this meaning.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          50
+        ],
+        "ayah_ar": "وَلَو تَرى إِذ يَتَوَفَّى الَّذِينَ كَفَرُوا المَلائِكَةُ يَضْرِبُونَ وُجُوهَهُم وَأَدْبَارَهُم وذوقوا\nعذاب الحريق) [الأنفال : 50].",
+        "ayah_en": "And if you could but see when the angels take the souls of those who disbelieved—striking their faces and their backs, and [saying], “Taste the punishment of the Burning Fire.”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "قد يفكر المسلم بنقض عهده مع غير المسلمين ، متعذراً بأنهم أهل غدر. لكن\nهناك آية تمنعه، إذ هي تُطَمْئِن النبي صلى الله عليه وسلم إلى أن الله تعالى\nيكفيه شر الغادرين المخادعين . فالمسلم يتأسى بالنبي في الوفاء بالعهد مع\nالمشركين، ويرجو من الله أن يكفيه شر غدرهم . لكنه لا يغدر ولا يخون.",
+      "question_en": "A Muslim may think about breaking his covenant with non-Muslims, excusing it by saying they are treacherous. But a verse prevents this, reassuring the Prophet ﷺ that Allah suffices him against the harm of the treacherous deceivers. The Muslim follows the Prophet in fulfilling covenants and hopes Allah will suffice him against their betrayal—yet he himself does not betray. Mention the verse.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          62
+        ],
+        "ayah_ar": "وَإِن يُريدوا أَن يَخدَعوكَ فَإِنَّ حَسبَكَ اللَّهُ هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ)\n[الأنفال : 62].",
+        "ayah_en": "But if they intend to deceive you—then indeed Allah is sufficient for you. He is the One who supported you with His help and with the believers.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "اذكر آية جعل الله فيها غباوة الكفر منتقصة من قوة الكفار وإن كثروا.",
+      "question_en": "Mention a verse in which Allah made the foolishness of disbelief a factor that diminishes the strength of the disbelievers, even if they are many.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          65
+        ],
+        "ayah_ar": "يَا أَيُّهَا النَّبِيُّ حَرِضِ المُؤْمِنِينَ عَلَى القِتالِ إِن يَكُن مِنكُم عِشرون صابرون\nيَغْلِبُوا مِائَتَيْنِ وَإِن يَكُن مِنكُم مِائَةً يَغْلِبُوا أَلفًا مِنَ الَّذِينَ كَفَرُوا بِأَنَّهُم قَومُ لا\nيفقَهُونَ) [الأنفال : 65].",
+        "ayah_en": "O Prophet, urge the believers to battle. If there are among you twenty steadfast, they will overcome two hundred; and if there are among you one hundred, they will overcome one thousand of those who disbelieve—because they are a people who do not فهم.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "قد يترك أحدنا واجبًا أو يفعل محرمًا إكرامًا لنفسه أن ينالها الأذى مثلا، قد\nتتهرب الفتاة من لبس الحجاب الصحيح خوفا من استهزاء صديقاتها، وقد\nيستحي الشخص ذو المكانة العلمية والاجتماعية والثراء من أن ينكر على\nزملائه بعض الممارسات المحرمة لأن نظرتهم له ستختلف. لكن المؤمن بحق\nينبغي ألا يأنف من تحمل تبعات الدعوة والتضحية في سبيل الله . بل علينا أن\nنتذكر أن رسول الله - صلى الله عليه وسلم - أوذي في الله وشتم وضُرب\nوأغشي عليه ورمي بالحجارة وأُلْقِيَ على ظهره سلا الجزور وكذب وهدّد\nوحوصر في الشعب واضطر لترك بلده وأوذيت ابنتاه وافتري على أهل بيته\nوجاع وعطش وتحمل المشاق، فليس أحدنا أكرم نفسا ولا أرفع قدراً ولا أرهف\nحسا من رسول الله - صلى الله عليه وسلم - ، مهما كانت مكانته الاجتماعية\nوالعلمية والمادية . اذكر آية تدل على أنه لا يجوز للمسلم أن يترفع بنفسه عن\nأمر فعله رسول الله أو حصل له - عليه الصلاة والسلام .",
+      "question_en": "A person may leave an obligation or commit a prohibition to spare himself harm—such as a girl avoiding proper hijab out of fear of mockery, or a respected person being too shy to forbid a sinful practice because people’s view of him might change. But the true believer should not refuse the burdens of da‘wah and sacrifice for Allah. Remember how the Messenger ﷺ was harmed, insulted, struck, stoned, besieged, forced to leave his homeland, and endured hardship—no one is nobler or more refined than him ﷺ. Mention a verse showing that a Muslim must not hold himself above something the Messenger ﷺ did or endured.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          120
+        ],
+        "ayah_ar": "ما كانَ لأَهلِ المَدِينَةِ وَمَن حَولَهُم مِنَ الأَعرابِ أَن يَتَخَلَّفُوا عَن رَسُولِ اللَّهِ وَلَا\nيَرغَبُوا بِأَنفُسِهِم عَن نَفْسِهِ ذَلِكَ بِأَنَّهُم لا يُصِيبُهُم ظَمَأُ وَلَا نَصَبٌ وَلَا تَحْمَصَةً في\nسَبِيلِ اللَّهِ وَلَا يَطَمُونَ مَوطِئًا يَغِيظُ الكُفَّارَ وَلا يَنالُونَ مِن عَدُةٍ نَيْلًا إِلَّا كُتِبَ لَهُم\nبِهِ عَمَلَ صَالِحٌ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ المُحْسِنِينَ) [التوبة : 120 ]",
+        "ayah_en": "It was not for the people of Madinah and those around them of the Bedouins to remain behind after the Messenger of Allah, nor to prefer themselves over him. That is because they are not afflicted by thirst, nor fatigue, nor hunger in the way of Allah, nor do they tread any step that enrages the disbelievers, nor do they obtain from an enemy any gain—except that a righteous deed is recorded for them by it. Indeed, Allah does not allow the reward of the doers of good to be lost.",
+        "commentary_ar": "قال الحسن : لا يرغبوا بأنفسهم أن يصيبهم من الشدائد فيختاروا الخفض\nوالدعة، ورسول الله صلى الله عليه وسلم في مشقة السفر ومقاساة التعب.",
+        "commentary_en": "Al-Hasan said: “(وَلَا يَرغَبُوا بِأَنفُسِهِم عَن نَفْسِهِ) means they should not prefer to spare themselves from hardships—choosing ease and comfort—while the Messenger of Allah ﷺ is in the hardship of travel and enduring fatigue.”"
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "من أعظم أسباب هزيمة الأمة فساد ذات بينها في الجزئيات في زمن صراع\nالكليات . اذكر خمس كلمات من آية تدل على ذلك.",
+      "question_en": "Among the greatest causes of the الأمة’s defeat is the فساد between its members over secondary matters during a time of major conflict. Mention five words from a verse indicating this.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          46
+        ],
+        "ayah_ar": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلا تَنازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُم وَاصْبِرُوا إِنَّ اللَّهَ مَعَ\nالصَّابِرِينَ) [الأنفال : 46]",
+        "ayah_en": "And obey Allah and His Messenger, and do not dispute lest you lose courage and your strength depart; and be patient. Indeed, Allah is with the patient.",
+        "commentary_ar": "قال السعدي: (قوله - تعالى - وَلَا تَنَازَعُوا ) تنازعا يوجب تشتت القلوب\nوتفرقها ، فَتَفْشَلُوا) أي : تجبنوا وَتَذْهَبَ رِيحُكُمْ) أي : تنحل عزائمكم،\nوتفرق قوتكم، ويرفع ما وعدتم به من النصر على طاعة الله ورسوله).",
+        "commentary_en": "Al-Sa‘di said: Allah’s statement (وَلَا تَنَازَعُوا) refers to disputing in a way that causes hearts to scatter and split apart. Then (فَتَفْشَلُوا) means: you become weak and cowardly. And (وَتَذْهَبَ رِيحُكُمْ) means: your resolve collapses, your strength becomes divided, and what you were promised of victory—upon obedience to Allah and His Messenger—is taken away."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "عند سهولة التكاليف ويسر الطاعات يمكن لأي شخص كان ادعاء الإيمان\nوالامتثال . لكن لا يتبين المؤمن الحقيقي من المنافق أو ضعيف الإيمان إلا في\nالشدائد والتكاليف الصعبة . اذكر آية تدل على هذا المعنى.",
+      "question_en": "When duties are easy and acts of worship are light, anyone can claim faith and compliance. But the true believer is only distinguished from the hypocrite or weak believer during hardships and difficult obligations. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          42
+        ],
+        "ayah_ar": "لَو كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَا تَّبَعُوكَ وَلكِن بَعُدَت عَلَيْهِمُ الشُّقَّةُ\nوَسَيَحْلِفُونَ بِاللَّهِ لَوِ اسْتَطَعْنا لَخَرَجْنَا مَعَكُم يُهْلِكُونَ أَنفُسَهُم وَاللَّهُ يَعْلَمُ إِنَّهُم\nلكاذبون) [التوبة : 42]",
+        "ayah_en": "If it had been an immediate gain and an easy journey, they would have followed you; but the distance was too far for them. And they will swear by Allah, “If we were able, we would have gone out with you.” They destroy themselves, and Allah knows that they are surely liars.",
+        "commentary_ar": "قال البغوي : قوله - تعالى - لو كانَ عَرَضًا قَريبًا) ، أي : لو كان ما تدعون إليه\nالمنافقين غنيمة قريبة المتناول ، وَسَفَرًا قاصدًا) أي قريبا هينا ، (لَا تَبَعوك)\nلخرجوا معك ، وَلكِن بَعْدَت عَلَيْهِمُ الشُّقَّةُ ) أي : المسافة ، والشقة : السفر\nالبعيد.",
+        "commentary_en": "Al-Baghawi said: Allah’s statement (لَو كَانَ عَرَضًا قَرِيبًا) means: if what you were calling the hypocrites to was an accessible booty close at hand. And (وَسَفَرًا قَاصِدًا) means: a near and easy journey. Then (لَا تَّبَعُوكَ) means: they would have gone out with you. But (وَلكِن بَعُدَت عَلَيْهِمُ الشُّقَّةُ) means: the distance was far; and “الشُّقَّة” refers to long, distant travel."
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "الأمر بالمعروف والنهي عن المنكر ليس مهمة الدعاة والعلماء فقط، بل مهمة\nكل مؤمن ، بما فيهم النساء . اذكر آية تدل على ذلك.",
+      "question_en": "Enjoining what is right and forbidding what is wrong is not only the task of callers and scholars; it is the task of every believer, including women. Mention a verse indicating this.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          71
+        ],
+        "ayah_ar": "وَالمُؤْمِنونَ وَالمُؤْمِنَاتُ بَعضُهُم أَولِياءُ بَعضٍ يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنهَونَ عَنِ\nالمُنكَرِ وَيُقيمونَ الصَّلاةَ وَيُؤتونَ الزَّكَاةَ وَيُطيعونَ اللَّهَ وَرَسُولَهُ أُولَبِكَ سَيَرْحَمُهُمُ اللَّهُ\nإِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ﴾ [ التوبة : 71].",
+        "ayah_en": "The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong, establish prayer, give zakah, and obey Allah and His Messenger. Those—Allah will have mercy upon them. Indeed, Allah is Mighty and Wise.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "كثيراً ما نتطلع إلى نعم زائدة على ما في أيدينا، وننسى أن الله تعالى إن آتانا\nهذه النعم فقد لا نستطيع الوفاء بحقها، فتتحول هذه النعم إلى سبب فتنة\nلقلوبنا يهلكنا في أخرانا . اذكر مطلع ثلاث آيات متتابعات تبين ذلك.",
+      "question_en": "We often look toward additional blessings beyond what we already have, forgetting that if Allah grants them, we may fail to fulfill their due—so those blessings become a trial for our hearts that ruins us in the Hereafter. Mention the beginning of three consecutive verses that show this.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          75,
+          76,
+          77
+        ],
+        "ayah_ar": ".. وَمِنْهُم مَن عَاهَدَ اللَّهَ لَبِن آتانا مِن فَضْلِهِ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ الصَّالِحِينَ فَلَمَّا\nآتَاهُم مِن فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوا وَهُم مُعْرِضُونَ فَأَعْقَبَهُم نِفَاقًا فِي قُلُوبِهِم إِلى يَوْمِ\nيَلقَونَهُ بِما أَخلَفُوا اللَّهَ ما وَعَدُوهُ وَبِما كانوا يكذبون} [التوبة : 75-77].",
+        "ayah_en": "And among them are those who made a covenant with Allah: “If He gives us from His bounty, we will surely give charity and we will surely be among the righteous.” But when He gave them from His bounty, they became stingy with it and turned away while they were refusing. So He caused hypocrisy to follow in their hearts until the Day they will meet Him—because they broke their promise to Allah which they had made, and because they used to lie.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "كلمتان وردتا في آية كانتا بمثابة شهادة من الله على صدق الصحابة رضوان\nالله عليهم. ما هما ؟",
+      "question_en": "Two words in a verse served as a kind of testimony from Allah to the truthfulness of the Companions رضي الله عنهم. What are they?",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          61
+        ],
+        "ayah_ar": "وَمِنْهُمُ الَّذِينَ يُؤذونَ النَّبِيَّ وَيَقولونَ هُو أُذُنُ قُل أُذُنُ خَيْرٍ لَكُم يُؤْمِنُ بِاللَّهِ وَيُؤْمِنُ\nلِلْمُؤْمِنِينَ وَرَحْمَةٌ لِلَّذِينَ آمَنوا مِنكُم وَالَّذِينَ يُؤذونَ رَسُولَ اللَّهِ لَهُم عَذَابٌ أَلِيمٌ)\n[ التوبة : 61 ]",
+        "ayah_en": "And among them are those who harm the Prophet and say, “He is an ear.” Say, “An ear of good for you.” He believes in Allah and believes the believers, and is a mercy to those who believe among you. And those who harm the Messenger of Allah—for them is a painful punishment.",
+        "commentary_ar": "قال ابن عاشور : ( والإيمان للمؤمنين تصديقهم في ما يخبرونه ، يقال : آمن\nلفلان بمَعْنى صدقه ، ولذلك عُدّي باللام دون الباء كما في قوله - تعالى -\nحكاية عن إخوة يوسف : وما أَنْتَ بِمُؤْمِنٍ لَنا ولَوْ كُنَّا صادِقِينَ) [يوسف: 17]\nفتصديقه إياهم لأنهم صادقون لا يكذبون ؛ لأنَّ الإيمان وازِعُ لَهُم عَنْ أَنْ\nيُخْبِرُوهُ الكذب ، فكما أن الرسول لا يؤاخذ أحدًا بخبر الكاذب فهو يُعامل الناس\nبشهادة المؤمنين ، فقوله : ويُؤْمِنُ لِلْمُؤْمِنِينَ) ثناء عليه بِذَلِكَ يتضمن الأمر\nبه ، فهو ضد قَوْلِهِ : يا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُم فَاسِقٌ بِنَبَأَ فَتَبَيَّنُوا)\n[الحجرات : 6]).",
+        "commentary_en": "Ibn ‘Ashur said: “Believing the believers (الإيمان للمؤمنين) means accepting and confirming what they report. It is said: ‘Āmana li-fulān’ meaning: he believed him and considered him truthful. That is why it is governed with the letter ‘لِـ’ rather than ‘بِـ’, as in Allah’s statement—quoting the brothers of Yusuf: (وما أَنْتَ بِمُؤْمِنٍ لَنا ولَوْ كُنَّا صادِقِينَ) [يوسف: 17].\n\nSo the Prophet’s believing them is because they are truthful and do not lie—since faith acts as a restraint preventing them from reporting lies. And just as the Messenger does not hold someone accountable based on the report of a liar, he deals with people based on the testimony of the believers. Therefore His statement: (ويُؤْمِنُ لِلْمُؤْمِنِينَ) is praise of him, and it contains an instruction to adopt this approach. It is the opposite of Allah’s statement: (يا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُم فَاسِقٌ بِنَبَأَ فَتَبَيَّنُوا) [الحجرات: 6].”"
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "من أفضل الطرق لمواجهة كلمات التهكم هو أن تستخدمها ذاتها وتغير\nمسارها ، فكما قد تستخدم الكلمة للذم والقدح ، فإنه يمكن استخدامها في\nسياق آخر للمدح ورفع شأن صاحبها . هناك كلمة وردت مرتين في آية واحدة\nفجاءت مرة في سياق السخرية ثم أصبحت في سياق المدح والرفعة، ما هي\nهذه الكلمة ؟",
+      "question_en": "One of the best ways to respond to mocking words is to use the same word but redirect it—since a word used for insult can be used in another context for praise and honor. A single word appears twice in one verse: once in a context of ridicule and then in a context of praise and elevation. What is this word?",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          61
+        ],
+        "ayah_ar": "وَمِنْهُمُ الَّذِينَ يُؤذونَ النَّبِيَّ وَيَقولونَ هُوَ أُذُنٌ قُل أُذُنُ خَيْرٍ لَكُم يُؤْمِنُ بِاللَّهِ وَيُؤْمِنُ\nلِلْمُؤْمِنِينَ وَرَحْمَةٌ لِلَّذِينَ آمَنوا مِنكُم وَالَّذِينَ يُؤذونَ رَسُولَ اللَّهِ لَهُم عَذَابٌ أَلِيمٌ)\n[التوبة : 61 ]",
+        "ayah_en": "And among them are those who harm the Prophet and say, “He is an ear.” Say, “An ear of good for you.” He believes in Allah and believes the believers, and is a mercy to those who believe among you. And those who harm the Messenger of Allah—for them is a painful punishment.",
+        "commentary_ar": "قال السعدي : قول - تعالى - وَيَقولونَ هُوَ أُذُنٌ يعني كان يقول المنافقون عن\nالنبي - صلى الله عليه وسلم - أنه يقبل كل ما يقال له ، لا يميز بين صادق\nوكاذب، فرد الله عليهم قُل أُذُنُ خَيْرٍ لَكُم) أي : يقبل من قال له خيرا\nوصدقًا . وأما إعراضه وعدم تعنيفه لكثير من المنافقين المعتذرين بالأعذار\nالكذب، فلسعة خلقه، وعدم اهتمامه بشأنهم.\nقال ابن عاشور : وجُمْلَةٌ قُل أُذُنُ خَيْرٍ لَكُم جُمْلَةُ قُلْ مُسْتَأْنَفَةُ اسْتِثْنَافًا\nابْتِدَائِيًّا، عَلَى طَرِيقَةِ المُقاوَلَةِ والمُحاوَرَةِ، لِإِبْطالِ قَوْلِهِمْ بِقَلْبٍ مَقْصِدِهِمْ\nإغاظَةً لَهم ، وكَمْدًا لِمَقاصِدِهِمْ ، وهو مِنَ الأُسْلُوبِ الحَكِيمِ الَّذِي يَحْمِلُ فِيهِ\nالمُخاطَبُ كَلامَ المُتَكَلِّمِ عَلى غَيْرِ مَا يُرِيدُهُ ، تَنْبِيرًا لَهُ عَلَى أَنَّهُ الْأَوْلَى بِأَنْ يُراد.",
+        "commentary_en": "Al-Sa‘di said: Allah’s statement (وَيَقولونَ هُوَ أُذُنٌ) means the hypocrites used to say about the Prophet ﷺ that he accepts everything said to him and does not distinguish between a truthful person and a liar. So Allah replied to them: (قُل أُذُنُ خَيْرٍ لَكُم) meaning: he accepts what is good and true from the one who speaks to him. As for his overlooking and not harshly rebuking many of the hypocrites who excuse themselves with lying excuses—this is due to the vastness of his character and his lack of concern for their status.\n\nIbn ‘Ashur said: The sentence (قُل أُذُنُ خَيْرٍ لَكُم) is a newly initiated statement—an ابتداء—on the manner of direct exchange and dialogue, to invalidate their statement by flipping their intended meaning: as a way of enraging them and frustrating their aims. This is from the “wise style” (الأُسْلُوبِ الحَكِيمِ) in which the speech of the interlocutor is carried to a meaning other than what he intended—alerting him that what is more appropriate is what should have been intended."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "من كمال علم الله تعالى أنه يعلم ما كان وما يكون وما سيكون وما لم يكن لو\nكان كيف كان يكون هناك آية يؤدي سوء فهمها إلى ظن أن الله تعالى يستجد\nله من تغير أحوال الناس علم لم يكن يعلمه من قبل . اذكر الكلمات الأربعة\nالتي قد تفهم هكذا.",
+      "question_en": "From the perfection of Allah’s knowledge is that He knows what was, what is, what will be, and what would have been had it been—how it would have been. There is a verse that, if misunderstood, could lead someone to think that Allah gains new knowledge after people’s circumstances change. Mention the four words that could be understood that way.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          66
+        ],
+        "ayah_ar": "الآنَ خَفَّفَ اللَّهُ عَنكُم وَعَلِمَ أَنَّ فِيكُم ضَعفًا فَإِن يَكُن مِنكُم مِائَةٌ صَابِرَةٌ\nيَعْلِبوا مِائَتَيْنِ وَإِن يَكُن مِنكُم أَلفُ يَغلِبوا أَلفَينِ بِإِذْنِ اللَّهِ وَاللَّهُ مَعَ الصَّابِرِينَ)\n[الأنفال : 66]",
+        "ayah_en": "Now Allah has lightened [the burden] for you, and He knew that within you is weakness. So if there are among you one hundred steadfast, they will overcome two hundred; and if there are among you one thousand, they will overcome two thousand by permission of Allah. And Allah is with the steadfast.",
+        "commentary_ar": "(يمكن أن نفهم معنى وَعَلِمَ ) أو (لنعلم) بمعنى أن الله أبدى وأظهر ما كان يكنه\nمن علمه الخاص الذي لم يطلع عليه رسول فاستبدل بالأمر أمرا. والذي\nيؤيد هذا الفهم وليس كما يتوهمه البعض من أن الله لم يكن يعلم ثم يحصل\nله العلم بعد ذلك ، وإنما يراد به التمييز والإظهار والذي يؤيد إرادة ذلك\nويمكن فهم هذه الآية بفهم الآيتين القادمتين . قال تعالى: ﴿وَمِنَ النَّاسِ مَن\nيَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِن جَاءَ نَصْرُ\nمِن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ اللهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ)\n[العنكبوت : 9 ]\nفإن الآية بعد أن صرحت أن الله تعالى أعلم بما في صدور العالمين قالت :\nوَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ) [العنكبوت : 10 ]\nمما يكشف كشفا قطعيا عن أن المراد من قوله (وَلَيَعْلَمَنَّ اللَّهُ ليس هو العلم\nبعد الجهل وإلا فكيف يكون أعلم بما في صدور العالمين ثم يقول في ذات\nالوقت أنه لا يعلم بالمؤمنين والمنافقين وأنه يبتليهم حتى يحصل له العلم.\nوكذلك يمكن التأييد بقوله تعالى :\nوَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ)\n[آل عمران : 154 ]\nفقد أفادت الآية أنه يبتلي ما في صدورهم وهو من مكنون الغيب ويمحص\nما في قلوبهم وهو من مكنون الغيب ، ثم يقول أنه عَلِيمٌ بِذَاتِ الصُّدُورِ فَإِذا\nكان يعلم ما في صدورهم فلماذا الابتلاء والتمحيص لو لم يكن الغرض منه\nالتمييز والإظهار، وليس تحصيل العلم لأنه صرح في ذيل الآية أنه عَلِيمٌ بِذَاتِ\nالصُّدُور)). [ مستفاد من موقع الرد على الإلحاد ].",
+        "commentary_en": "It is possible to understand the meaning of (وَعَلِمَ) — or phrases like (لِنَعْلَمَ) — as meaning that Allah brought forth and made manifest what He already possessed of His own knowledge, which no messenger had been informed of, and thus He replaced one command with another. This is what supports the correct understanding—contrary to what some might imagine, that Allah did not know and then later came to know. Rather, what is intended is distinction and manifestation (التمييز والإظهار).\n\nThis is supported by understanding it alongside the following verses. Allah تعالى said: ﴾وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِن جَاءَ نَصْرُ مِن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ اللهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ) [العنكبوت: 9].\n\nAfter the verse explicitly states that Allah تعالى is most knowing of what is within the breasts of all creation, it then says: (وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ) [العنكبوت: 10]. This conclusively shows that the intent of (وَلَيَعْلَمَنَّ اللَّهُ) is not “knowledge after ignorance.” Otherwise, how could He be (بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ) and then at the same time be described as not knowing the believers and hypocrites until He tests them to gain knowledge?\n\nAnd it can likewise be supported by Allah’s statement: (وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ) [آل عمران: 154]. The verse indicates that He tests what is within their breasts and purifies what is within their hearts—both from the unseen—then concludes that He is (عَلِيمٌ بِذَاتِ الصُّدُورِ). So if He already knows what is in their breasts, why would there be testing and purification unless the purpose is distinction and manifestation (التمييز والإظهار), not acquiring knowledge—since He explicitly states at the end that He is (عَلِيمٌ بِذَاتِ الصُّدُورِ). (مستفاد من موقع الرد على الإلحاد)."
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "أعظم النعيم في الجنة هو النعيم الروحي بتحصيل مرضاة الله تعالى . اذكر أربع\nكلمات تدل على هذا المعنى.",
+      "question_en": "The greatest نعيم in Paradise is the spiritual نعيم of attaining Allah’s pleasure. Mention four words indicating this meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          72
+        ],
+        "ayah_ar": "وَعَدَ اللهُ المُؤْمِنِينَ وَالمُؤمِناتِ جَنَّاتٍ تَجرى مِن تَحْتِهَا الأنهار خالدين فيها\nوَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ وَرِضوانٌ مِنَ اللَّهِ أَكْبَرُ ذَلِكَ هُوَ الفَوزُ العَظِيمُ)\n[التوبة : 7].",
+        "ayah_en": "Allah has promised the believing men and believing women gardens beneath which rivers flow, abiding therein, and pleasant dwellings in Gardens of perpetual residence. But pleasure from Allah is greater. That is the great success.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "نفرح بهلاك المجرمين الذين لطالموا حاربوا الدين لكن يحزننا أن يكون هلاكهم\nعلى يدي من ليس خيرا منهم فالمسلم لا ينتظر غيره من البشر ليشفي غليله .\nاذكر آية فيها هذا المعنى.",
+      "question_en": "We rejoice at the destruction of criminals who long fought the religion, but it saddens us if their destruction comes at the hands of those who are not better than them. The Muslim does not wait for other humans to satisfy his anger. Mention a verse with this meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          52
+        ],
+        "ayah_ar": "قُل هَل تَرَبَّصُونَ بِنا إلا إحدى الحُسنَيَيْنِ وَنَحْنُ نَتَرَبَّصُ بِكُم أَن يُصيبَكُمُ اللَّهُ\nبِعَذَابٍ مِن عِندِهِ أَو بِأَيدينا فَتَرَبَّصُوا إِنَّا مَعَكُم مُتَرَبِّصُونَ) [التوبة : 52].",
+        "ayah_en": "Say, “Do you await for us except one of the two best outcomes? While we await for you that Allah will strike you with punishment from Himself or at our hands. So wait; indeed, we with you are waiting.”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 15,
+      "question_ar": "عندما يقاتل المؤمن فإنما يقاتل لنصر دين الله ودفع أعدائه وإعزاز الإسلام،\nوليس لتوسعة ملك أو زيادة سلطان أو لطلب مغنم ومال، فعلى هذا الأساس\nتبنى قرارات المؤمن في الحرب أو السلم وما يترتب على أي منهما . اذكر آية تشير\nإلى هذا المعنى.",
+      "question_en": "When a believer fights, he fights to support Allah’s religion, repel its enemies, and honor Islam—not to expand a kingdom, increase power, or seek wealth and spoils. On this basis a believer’s decisions in war and peace are built. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          67
+        ],
+        "ayah_ar": "مَا كَانَ لِنَبِيّ أَن يَكُونَ لَهُ أَسْرَى حَتَّى يُشْخِنَ فِي الْأَرْضِ تُرِيدُونَ عَرَضَ الدُّنْيَا\nوَاللَّهُ يُرِيدُ الْآخِرَةُ وَاللَّهُ عَزِيزٌ حَكِيمٌ) [الأنفال: 67]",
+        "ayah_en": "It is not for a prophet to have captives until he has thoroughly subdued [the enemy] in the land. You desire the goods of this world, but Allah desires the Hereafter. And Allah is Mighty and Wise.",
+        "commentary_ar": "قال ابن عاشور : والمعنى أن النبي إذا قاتل فقتاله متمحض لغاية واحدة : هي\nنصر الدين ودفع عدائه، وليس قتاله للملك والسلطان.",
+        "commentary_en": "Ibn ‘Ashur said: The meaning is that when a prophet fights, his fighting is devoted purely to one goal: the support of the religion and repelling its enemies. His fighting is not for kingdom or سلطنة."
+      }
+    },
+    {
+      "qNum": 16,
+      "question_ar": "إذا عجز المؤمن عن بلوغ ذروة خير ما ، فليجتهد في تحصيل ما يمكن تحصيله منه،\nوإن لم يقدر على أداء واجب ما ، فلعله يقدر على شيء منه أو مساعدة من\nيؤدونه . اذكر آية فيها مثال على هذا المعنى .",
+      "question_en": "If a believer cannot reach the highest level of a certain good, then let him strive to attain whatever he can of it. And if he cannot fulfill an obligation, perhaps he can fulfill part of it or assist those who do. Mention a verse containing an example of this meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          91
+        ],
+        "ayah_ar": "(لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَى وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا\nنَصَحُوا لِلَّهِ وَرَسُولِهِ مَا عَلَى الْمُحْسِنِينَ مِن سَبِيلٍ وَاللَّهُ غَفُورٌ رَّحِيمٌ) [التوبة :91].",
+        "ayah_en": "There is no blame upon the weak or upon the sick or upon those who do not find what to spend, if they are sincere to Allah and His Messenger. There is no way [of blame] upon the doers of good. And Allah is Forgiving and Merciful.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 17,
+      "question_ar": "اذكر آية عذر الله بها طائفة من المؤمنين لصدق رغبتهم في نصرة الدين وإن لم\nيباشروها في الظاهر.",
+      "question_en": "Mention a verse in which Allah excused a group of believers because of the truthfulness of their desire to support the religion, even though they could not outwardly participate.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          92
+        ],
+        "ayah_ar": "(وَلَا عَلَى الَّذِينَ إِذَا مَا أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَا أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا وَأَعْيُنُهُمْ\nتَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنفِقُونَ) [التوبة : 92].",
+        "ayah_en": "Nor [is there blame] upon those who, when they came to you so that you might provide them mounts, you said, “I cannot find for you something to ride upon,” and they turned away while their eyes overflowed with tears out of grief that they could not find something to spend.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 18,
+      "question_ar": "هناك صفات يمكن أن تكون كمالاً، ويمكن أن تكون نقصاً، على حسب الحال\nالتي تذكر فيها . فهذه لا يوصف الله تعالى بها على سبيل الإطلاق، ولا تنفى عن\n\nالله تعالى على سبيل الإطلاق، بل يجب التفصيل ، ففي الحال التي تكون كمالاً\nيوصف الله تعالى بها، وفي الحال التي تكون نقصاً لا يوصف الله تعالى بها .\nومثال هذا المكر والخديعة ، والاستهزاء، والسخرية . لذلك تجد أن الله تعالى\nيذكر ما يبدر من الكفار والمنافقين من مكر وخديعة واستهزاء وسخرية ثم يبين\nأنه يمكر بهم وهو خادعهم ويستهزئ بهم ويسخر منهم.\nلكن هناك أفعال وردت عن الكفار ولم يقابلها الله بنفس الكلمة لأنها نقص لا\nكمال فيه . ما هو ؟",
+      "question_en": "Some attributes may be perfection in one context and deficiency in another, so they are neither affirmed for Allah absolutely nor negated absolutely; rather, there must be تفصيل. Examples include مكر, خديعة, استهزاء, and سخرية: Allah mentions these from disbelievers and hypocrites, then states that He deals with them accordingly. But there is an action mentioned about disbelievers that Allah did not respond to using the same word because it is pure deficiency with no perfection in it. What is it?",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          71
+        ],
+        "ayah_ar": "(وَإِن يُرِيدُوا خِيَانَتَكَ فَقَدْ خَانُوا اللَّهَ مِن قَبْلُ فَأَمْكَنَ مِنْهُمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ)\n.]71 : الأنفال[",
+        "ayah_en": "But if they intend betrayal of you—then they have betrayed Allah before, so He gave [you] power over them. And Allah is Knowing and Wise.",
+        "commentary_ar": "ولم يقل : فخانهم، فالخيانة فلا يوصف الله بها أبداً، لأنها ذم بكل حال، إذ\nإنها مكر في موضع الائتمان ، وهو مذموم . أما المكر والخديعة والاستهزاء\nبالعدوصفة كمال، لأن ذلك يدل على كمال العلم والقدرة والسلطان، ونحو\nذلك . أما مكر الكفار بالمؤمنين الصادقين فهو صفة نقص . ولذلك لم يرد\nوصف الله تعالى بهذه الصفات على سبيل الإطلاق، وإنما ورد مقيداً بما\nيجعله كمالاً.\nتأمل هذه الآيات :\nأ. قال الله تعالى : (إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ [النساء : 142 ]\nفهذا خداع بالمنافقين.\nب. وقال: (وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ\nوَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ) [الأنفال: 30]. وهذا مكر بأعداء\nالله الذين كانوا يمكرون برسول الله ﷺ.\nج . وقال في المنافقين : (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَى شَيَاطِينِهِمْ\nقَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ\nيَعْمَهُونَ) [البقرة : 14 - 15 ] وهذا استهزاء بالمنافقين.\nد. (الَّذِينَ يَلْمِزُونَ الْمُطَوَعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ وَالَّذِينَ لَا يَجِدُونَ إِلَّا\nجُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ اللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ) [التوبة : 79 ] وهذه\nسخرية بالمنافقين . (مستفاد من فتاوى ابن عثيمين ) .",
+        "commentary_en": "He did not say “فخانهم” — because betrayal (الخيانة) is never described as an attribute of Allah at all, since it is blameworthy in every case: it is a kind of plotting in a place of trust (موضع الائتمان), and that is مذموم. As for مكر, خديعة, استهزاء, and سخرية against the enemy, they can be attributes of كمال, because they indicate perfect knowledge, power, authority, and the like. أما مكر الكفار بالمؤمنين الصادقين فهو صفة نقص. Therefore, these are not attributed to Allah absolutely; rather, they are mentioned in a restricted way that makes them كمالاً.\n\nReflect upon these verses:\nأ. Allah تعالى said: (إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ) [النساء: 142] — this is deception against the hypocrites.\nب. And He said: (وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ) [الأنفال: 30] — this is plotting against the enemies of Allah who were plotting against the Messenger of Allah ﷺ.\nج. And He said regarding the hypocrites: (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَى شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ) [البقرة: 14-15] — this is mockery against the hypocrites.\nد. (الَّذِينَ يَلْمِزُونَ الْمُطَوَعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ وَالَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ اللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ) [التوبة: 79] — this is ridicule against the hypocrites. (مستفاد من فتاوى ابن عثيمين)."
+      }
+    },
+    {
+      "qNum": 19,
+      "question_ar": "ما الآية التي فيها معنى هذا الحديث : تَعِسَ عبد الدِّينَارِ، وَعَبْدُ الدَّرْهَمِ ، وَعَبْدُ\nالخَمِيصَةِ ، إِنْ أُعْطِيَ رَضِيَ ، وَإِنْ لَمْ يُعْطَ سَخِطَ ، تَعِسَ وَانْتَكَسَ، وَإِذَا\nشِيكَ فلا\nانْتَقَشَ ) ؟",
+      "question_en": "Which verse carries the meaning of this hadith: “Wretched is the slave of the dinar, the slave of the dirham, and the slave of fine clothing: if he is given, he is pleased; and if he is not given, he is displeased…”?",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          58
+        ],
+        "ayah_ar": "وَمِنْهُم مَّن يَلْمِرُكَ فِي الصَّدَقَاتِ فَإِنْ أُعْطُوا مِنْهَا رَضُوا وَإِن لَّمْ يُعْطَوْا مِنْهَا إِذَا هُمْ\nيَسْخَطُونَ) [التوبة : 58 ]",
+        "ayah_en": "And among them are those who criticize you concerning the charities: if they are given from them, they are pleased; but if they are not given from them, then at once they become angry.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 20,
+      "question_ar": "قال الله تعالى : (وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَا نَفَضُّوا مِنْ حَوْلِكَ) [آل\nعمران : 159 ] ، ومع ذلك أمر بالغلظة على أقوام. اذكر الآية .",
+      "question_en": "Allah said: “If you had been harsh and hard-hearted, they would have dispersed from around you” )3:159(. Yet He also commanded harshness toward certain people. Mention the verse.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          73
+        ],
+        "ayah_ar": "(يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ\nالْمَصِيرُ [ التوبة : 73]",
+        "ayah_en": "O Prophet, strive against the disbelievers and the hypocrites and be harsh with them. And their refuge is Hell, and wretched is the destination.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 21,
+      "question_ar": "ذكرنا كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ) [الأنعام: 110] وخطورة الإعراض بعد تبين\nالهدى. اذكر آية تبين حرمان إنسان من شرف طاعة إذا لم يمتثل الأمر في أول\nمرة يُكلف بها .",
+      "question_en": "We mentioned: “as they did not believe in it the first time” )6:110( and the danger of turning away after guidance becomes clear. Mention a verse showing that a person is deprived of the honor of obedience if he does not comply the first time he is commanded.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          83
+        ],
+        "ayah_ar": "إِنَّكُمْ رَضِيتُم بِالْقُعُودِ أَوَّلَ مَرَّةٍ فَاقْعُدُوا مَعَ الْخَالِفِينَ) [التوبة: 83]",
+        "ayah_en": "You were satisfied with sitting back the first time, so sit with those who remain behind.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    }
+  ]
+}

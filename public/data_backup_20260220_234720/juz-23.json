@@ -1,0 +1,122 @@
+{
+  "juz": 23,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "من أخطر وسائل المبطلين في تمرير باطلهم وإفسادهم أنهم يظهرونه في ثوب طاعة وقربى، حتى يحسب المغتر بهم أنهم يعملون خيرا، وحقيقة الأمر أنه يبتعدون بهذا الفعل أو الاعتقاد عن الله تعالى . اذكر آية يمكن فهمها بهذا المعنى.",
+      "question_en": "One of the most dangerous tactics of falsehood is to present it in the guise of obedience and devotion, so the deceived think they are doing good—while in reality it takes them farther from Allah. Mention a verse that can be understood with this meaning.",
+      "answer": {
+        "surah": 37,
+        "ayahs": [28],
+        "ayah_ar": "قَالُوا إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
+        "ayah_en": "They will say, “Indeed, you used to come at us from the right.”",
+        "commentary_ar": "قال ابن عاشور: (ومن المعاني التي تحتملها الآية أن يريدوا: تأتوننا من الجهة التي يحسنها تمويهكم وإغواؤكم وتظهرون فيها أنها جهة الرشد).\nوقال الإمام الطبري: يقول تعالى ذكره: قالت الإنس للجن: إنكم أيها الجن كنتم تأتوننا من قبل الدين والحق فتخدعوننا بأقوى الوجوه.",
+        "commentary_en": "Ibn ‘Ashur mentioned that the verse may mean: “You used to approach us from the side by which your deception and temptation looked good, making it appear to be the path of right guidance.”\nAl-Tabari explained it as humans saying to the jinn: “You used to come to us by way of religion and truth, then deceive us with the strongest forms of persuasion.”"
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "هناك لحظة سعادة غامرة يحس بها المؤمن يوم القيامة عند إدراك حقيقة عظيمة : أن لا فناء بعد هذه اللحظة، ولا عذاب يُخاف أبدا، بل هو الخلود في النعيم المقيم. اذكر الآية التي يغبط فيها المؤمن نفسه متعجبا على هذه النعمة، نعمة أن لا موت ولا عذاب بعد اليوم.",
+      "question_en": "There is a moment of overwhelming joy on the Day of Resurrection when the believer realizes a great truth: there will be no death after this, and no fear of punishment—only eternal bliss. Mention the verse where the believer marvels at this blessing (no death, no punishment).",
+      "answer": {
+        "surah": 37,
+        "ayahs": [58, 59],
+        "ayah_ar": "أَفَمَا نَحْنُ بِمَيِّتِينَ ۝ إِلَّا مَوْتَتَنَا الْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+        "ayah_en": "So are we not to die—except for our first death—and are we not to be punished?",
+        "commentary_ar": "هذه الآية تُظهر دهشة أهل الجنة وفرحتهم بحقيقة الخلود: لا موت بعد اليوم ولا عذاب يُخاف.",
+        "commentary_en": "These verses capture the people of Paradise marveling in joy at the reality of everlasting life: no death after this moment and no fear of punishment."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "من أساليب المبطلين أنهم يدعون تناقضا في القرآن من خلال تطبيق قواعد دنيوية على الآخرة! اذكر آية فعل معها أبو جهل ذلك.",
+      "question_en": "A tactic of falsehood is to claim contradictions in the Qur’an by applying worldly rules to the Hereafter. Mention the verse in which Abu Jahl used this approach.",
+      "answer": {
+        "surah": 37,
+        "ayahs": [62, 63],
+        "ayah_ar": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ الزَّقُّومِ ۝ إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ",
+        "ayah_en": "Is that better as hospitality, or the tree of Zaqqūm? Indeed, We have made it a trial for the wrongdoers.",
+        "commentary_ar": "قال القرطبي: (لما خُوّفوا بها قال أبو جهل استهزاء: هذا محمد يتوعدكم بنار تحرق الحجارة، ثم يزعم أنها تنبت الشجر، والنار تأكل الشجر...).",
+        "commentary_en": "Al-Qurtubi mentioned that when they were warned of it, Abu Jahl mocked: “Muhammad threatens you with a fire that burns stones, then claims it grows trees—while fire consumes trees.” (i.e., applying worldly assumptions to the Hereafter)."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "قال الله تعالى: (وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا) [الفرقان: 20]. اذكر آية تثبت جهل بعض الناس بهذه الحكمة الإلهية أو تجاهلهم لها.",
+      "question_en": "Allah says: “And We have made some of you a trial for others—will you be patient?” Mention a verse showing that some people ignore or fail to understand this divine wisdom.",
+      "answer": {
+        "surah": 36,
+        "ayahs": [47],
+        "ayah_ar": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَن لَّوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ مُّبِينٍ",
+        "ayah_en": "And when it is said to them, “Spend from what Allah has provided you,” those who disbelieve say to those who believe, “Should we feed one whom Allah could have fed if He willed? You are only in clear error.”",
+        "commentary_ar": "هذه الآية تُظهر جهلهم بحكمة الابتلاء والتكليف: يتذرعون بالقدر لترك الإنفاق، ويتجاهلون أن الله ابتلى الغني بالعطاء والفقير بالصبر.",
+        "commentary_en": "This verse shows their ignorance of the wisdom of trial and responsibility: they use destiny as an excuse to avoid charity, ignoring that Allah tests the wealthy with giving and the poor with patience."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "من العذاب النفسي لأهل النار اكتشافهم خطأ موازينهم التي كانوا يقيسون الناس بها في الدنيا، اذكر آية تحمل هذا المعنى.",
+      "question_en": "A psychological torment for the people of Hell is realizing the false standards by which they judged people in worldly life. Mention a verse that conveys this meaning.",
+      "answer": {
+        "surah": 38,
+        "ayahs": [62],
+        "ayah_ar": "وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ الْأَشْرَارِ",
+        "ayah_en": "And they will say, “Why do we not see men whom we used to count among the wicked?”",
+        "commentary_ar": "فيه انكشاف خطأ الموازين: كانوا يصفون أهل الإيمان والحق بأنهم أشرار، ثم في الآخرة يتعذبون نفسياً بظهور الحقيقة.",
+        "commentary_en": "It reflects the collapse of their worldly standards: they labeled the people of truth as “wicked,” then in the Hereafter they are distressed when reality becomes unmistakable."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "يذكر الله تغير أحوال الإنسان في الحياة الدنيا وتردي الحال بعد قوته ليعلم أنه خُلق لدار أخرى لا تبدل لحاله فيها. اذكر آية تشير إلى هذا المعنى.",
+      "question_en": "Allah mentions how human conditions change in worldly life—decline after strength—so one realizes they were created for another realm where conditions do not deteriorate. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 36,
+        "ayahs": [68],
+        "ayah_ar": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+        "ayah_en": "And whoever We grant long life—We reverse him in creation. So will they not reason?",
+        "commentary_ar": "هذه الدار دار زوال وانتقال، وتبدل حال الإنسان فيها دليل على أنه خُلق لدارٍ أخرى: الآخرة، التي لا زوال فيها.",
+        "commentary_en": "Worldly life is a realm of change and decline; this reversal with age points to the Hereafter as the enduring abode without such deterioration."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "اتخاذك للقرار الصائب بمخالفة الصاحب المضل سيكون مصدر بهجة وسرور يوم القيامة. اذكر آيتين فيهما خطاب للصاحب الضال يعبّر عن هذه البهجة.",
+      "question_en": "Choosing correctly to oppose a misguided companion will be a source of joy on the Day of Resurrection. Mention verses where the believer addresses that misguided companion, expressing this joy.",
+      "answer": {
+        "surah": 37,
+        "ayahs": [51, 52, 53, 54, 55, 56, 57],
+        "ayah_ar": "قَالَ قَائِلٌ مِّنْهُمْ إِنِّي كَانَ لِي قَرِينٌ ۝ يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ ۝ أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ ۝ قَالَ هَلْ أَنتُم مُّطَّلِعُونَ ۝ فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ ۝ قَالَ تَاللَّهِ إِن كِدتَّ لَتُرْدِينِ ۝ وَلَوْلَا نِعْمَةُ رَبِّي لَكُنتُ مِنَ الْمُحْضَرِينَ",
+        "ayah_en": "A speaker among them will say, “Indeed, I had a companion who used to say: ‘Are you truly of those who believe? When we die and become dust and bones—will we really be repaid?’” He will say, “Would you like to look?” Then he will look and see him in the midst of Hellfire. He will say, “By Allah! You almost ruined me. And if not for the favor of my Lord, I would have been among those brought in.”",
+        "commentary_ar": "في هذا الموضع يظهر سرور المؤمن بنجاته من صحبة السوء، ويخاطب قرينه الضال بما يدل على بهجته بنعمة الله عليه: (تَاللَّهِ إِن كِدتَّ لَتُرْدِينِ) و(وَلَوْلَا نِعْمَةُ رَبِّي لَكُنتُ مِنَ الْمُحْضَرِينَ).",
+        "commentary_en": "These verses show the believer’s joy at being saved from bad companionship, addressing the misguided companion with grateful astonishment: “You almost ruined me,” and “Had it not been for my Lord’s favor, I would have been brought in as well.”"
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "تَعَلَّق أمر رباني بمأمورين، فسأل أحدهما الآخر بما قد يبدو أنه توقف في الاستجابة لأمر الله إلى حين موافقة بشر، وليس كذلك. ما هي الكلمات الثلاثة التي قد يبدو منها ذلك؟",
+      "question_en": "A divine command involved two people; one asked the other in a way that might seem like he was delaying obedience until receiving a human’s approval (though that is not the intent). What are the three words that might give that impression?",
+      "answer": {
+        "surah": 37,
+        "ayahs": [102],
+        "ayah_ar": "قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَىٰ",
+        "ayah_en": "He said, “O my son, indeed I have seen in a dream that I am to sacrifice you, so look—what do you think?”",
+        "commentary_ar": "الكلمات الثلاث: (فَانظُرْ مَاذَا تَرَىٰ).\nوقد بيّن المفسرون أن هذا ليس استئذاناً عن تردد في طاعة الله، وإنما لإظهار صبر الابن وثباته وابتلائه، مع أن إبراهيم ماضٍ لأمر الله على كل حال.",
+        "commentary_en": "The three words/phrase are: “فَانظُرْ مَاذَا تَرَىٰ” (“so look—what do you think?”).\nExegetes clarify that this is not hesitation in obeying Allah, but a way to test the son’s patience and resolve and to ease the matter—while Ibrahim remains fully committed to carrying out Allah’s command."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "من أساليب أهل الباطل في محاربة الحق والصد عنه إيهام جمهورهم بأن صاحب الحق هو صاحب أجندة خارجية، وأنه يعمل ضمن مؤامرة لإفساد أمر المجتمع والناس. اذكر أربع كلمات فيها مثال آخر على ذلك.",
+      "question_en": "A tactic of falsehood is to convince the masses that the person upon truth has an outside agenda—part of a conspiracy to corrupt society—so people doubt the clear truth. Mention four words that provide another example of this.",
+      "answer": {
+        "surah": 38,
+        "ayahs": [6],
+        "ayah_ar": "وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ",
+        "ayah_en": "And the chiefs among them went forth saying, “Go on, and remain steadfast to your gods. Indeed, this is something intended.”",
+        "commentary_ar": "الأربع كلمات هي: (إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ).\nقال ابن عاشور: (وجملة: إن هذا لشيء يُراد تعليل للأمر بالصبر على آلهتهم لقصد تقوية شكهم في صحة دعوة النبي ﷺ بأنها شيء أراده لغرض، أي ليس صادقاً ولكنه مصنوع مراد منه مقصد، كما يقال: هذا أمر دُبر بليل).",
+        "commentary_en": "The four-word example is: “إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ” (“Indeed, this is something intended.”).\nIbn ‘Ashur explained it as: they used this as a pretext to strengthen suspicion about the Prophet’s call—claiming it was fabricated for some ulterior motive (like saying, “This was plotted at night”)."
+      }
+    }
+  ]
+}

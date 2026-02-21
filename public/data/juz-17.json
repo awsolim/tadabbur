@@ -7,7 +7,9 @@
       "question_en": "Since Shayṭān cannot cause the Qur’anic revelation itself to be lost (because Allah has decreed its preservation), his attempt is to corrupt the meaning through misunderstanding. Mention a verse that conveys this meaning.",
       "answer": {
         "surah": 22,
-        "ayahs": [52],
+        "ayahs": [
+          52
+        ],
         "ayah_ar": "وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ ۖ فَيَنسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
         "ayah_en": "We did not send before you any messenger or prophet except that when he recited/proposed, Shayṭān cast into it; but Allah abolishes what Shayṭān casts, then Allah perfects His verses. And Allah is All-Knowing, All-Wise.",
         "commentary_ar": "المعنى أن الشيطان يحاول إلقاء الشبهات والإلباس، فيُذهب الله ذلك ويُحكم آياته، فيبقى الحق صافياً ويُبتلى الناس في الفهم والاتباع.",
@@ -20,7 +22,9 @@
       "question_en": "Truth is one, while falsehood comes in many conflicting forms. Mention a verse showing disbelievers wavering among multiple false claims.",
       "answer": {
         "surah": 21,
-        "ayahs": [5],
+        "ayahs": [
+          5
+        ],
         "ayah_ar": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ ۖ بَلِ افْتَرَاهُ ۖ بَلْ هُوَ شَاعِرٌ ۖ فَلْيَأْتِنَا بِآيَةٍ كَمَا أُرْسِلَ الْأوَّلُونَ",
         "ayah_en": "Rather, they say: ‘Confused dreams!’ Rather, ‘He invented it!’ Rather, ‘He is a poet!’ So let him bring us a sign like those sent to the former peoples.",
         "commentary_ar": "الآية تُظهر اضطرابهم: مرة يصفونه بالأحلام، ومرة بالافتراء، ومرة بالشعر؛ وكلها دعاوى متناقضة.",
@@ -33,7 +37,9 @@
       "question_en": "A tactic of falsehood is to evade the truth by attacking the person who speaks it. Mention a verse that reflects this.",
       "answer": {
         "surah": 21,
-        "ayahs": [36],
+        "ayahs": [
+          36
+        ],
         "ayah_ar": "وَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا ۚ أَهَٰذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ ۖ وَهُم بِذِكْرِ الرَّحْمَٰنِ هُمْ كَافِرُونَ",
         "ayah_en": "When the disbelievers see you, they take you only in mockery: ‘Is this the one who speaks against your gods?’ while they themselves disbelieve in the mention of the Most Merciful.",
         "commentary_ar": "بدل أن يجيبوا عن الحق، ينتقلون إلى السخرية من الداعي والطعن فيه.",
@@ -46,7 +52,9 @@
       "question_en": "Mention a verse (outside this juz’) showing that the Qur’an cannot be mixed with falsehood or anything other than truth (in addition to being preserved).",
       "answer": {
         "surah": 41,
-        "ayahs": [42],
+        "ayahs": [
+          42
+        ],
         "ayah_ar": "لَا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ",
         "ayah_en": "Falsehood cannot approach it—neither from before it nor from behind it. It is a revelation from One All-Wise, All-Praised.",
         "commentary_ar": "دلالة صريحة على امتناع امتزاج الوحي بالباطل أو دخول الزور عليه بأي وجه.",
@@ -59,7 +67,10 @@
       "question_en": "Mention a passage showing that the reality of Paradise being reserved for believers should be sufficient ‘provision’ to sustain worshippers on their journey to Allah.",
       "answer": {
         "surah": 21,
-        "ayahs": [105, 106],
+        "ayahs": [
+          105,
+          106
+        ],
         "ayah_ar": "وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ۝ إِنَّ فِي هَٰذَا لَبَلَاغًا لِّقَوْمٍ عَابِدِينَ",
         "ayah_en": "We have written in the Psalms after the Reminder that the land will be inherited by My righteous servants. Indeed, in this is sufficient conveyance/provision for a people devoted to worship.",
         "commentary_ar": "يفهم من (لَبَلَاغًا) أنه ما يكفي العابدين ويبلّغهم مقصودهم، ومنه تسليتهم بحقيقة أن العاقبة للصالحين.",
@@ -72,7 +83,9 @@
       "question_en": "Mention a verse portraying a moment of peak regret for the wrongdoers and their certainty about what they previously denied.",
       "answer": {
         "surah": 21,
-        "ayahs": [46],
+        "ayahs": [
+          46
+        ],
         "ayah_ar": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
         "ayah_en": "If only a breath of your Lord’s punishment touches them, they will surely say: ‘Woe to us! Indeed, we were wrongdoers.’",
         "commentary_ar": "تصوير لانتقالهم من الإنكار إلى اليقين والاعتراف عند أدنى مسٍّ من العذاب.",
@@ -85,7 +98,10 @@
       "question_en": "Mention two consecutive verses describing a moment when truth flashed clearly to a people, yet they still rejected it.",
       "answer": {
         "surah": 21,
-        "ayahs": [64, 65],
+        "ayahs": [
+          64,
+          65
+        ],
         "ayah_ar": "فَرَجَعُوا إِلَىٰ أَنفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنتُمُ الظَّالِمُونَ ۝ ثُمَّ نُكِسُوا عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰؤُلَاءِ يَنطِقُونَ",
         "ayah_en": "So they returned to themselves and said, ‘Indeed, you are the wrongdoers.’ Then they were turned upside down again and said, ‘You certainly know these do not speak.’",
         "commentary_ar": "لمعت لهم الحجة حين اعترفوا بالظلم، ثم انتكسوا إلى العناد مع علمهم بوضوح بطلان أصنامهم.",
@@ -98,7 +114,9 @@
       "question_en": "A word meaning ‘We restrain/tighten (i.e., We constrict)’ occurs in a verse in this juz’; misunderstanding it causes a major misreading. Mention that word.",
       "answer": {
         "surah": 21,
-        "ayahs": [87],
+        "ayahs": [
+          87
+        ],
         "ayah_ar": "وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
         "ayah_en": "And [mention] the man of the fish, when he went off angry and thought We would not ‘naqdir’ him; then he called out in the darkness: ‘There is no god but You; glory be to You; indeed I was among the wrongdoers.’",
         "commentary_ar": "الكلمة هي: «نَّقْدِرَ» أي نُضيّق عليه (كما في: وَمَن قُدِرَ عَلَيْهِ رِزْقُهُ). وسوء فهمها قد يوهم معنى باطلاً.",
@@ -111,7 +129,9 @@
       "question_en": "A verse shows that beings who do not commit sins (and strive in obedience) still fear Allah—so what about us? Mention four words indicating that.",
       "answer": {
         "surah": 21,
-        "ayahs": [28],
+        "ayahs": [
+          28
+        ],
         "ayah_ar": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِ مُشْفِقُونَ",
         "ayah_en": "He knows what is before them and what is behind them, and they do not intercede except for whom He approves—and they are, from fear of Him, apprehensive.",
         "commentary_ar": "الأربع كلمات هي: «وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ» وهي في الملائكة، فكيف بالعبد المقصر؟",
@@ -124,7 +144,9 @@
       "question_en": "Mention two words indicating that this Qur’an is an honor for those who live by it.",
       "answer": {
         "surah": 21,
-        "ayahs": [10],
+        "ayahs": [
+          10
+        ],
         "ayah_ar": "لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ",
         "ayah_en": "We have certainly sent down to you a Book in which is your ‘dhikr’ (your mention/honor). Will you not reason?",
         "commentary_ar": "الكلمتان هما: «ذِكْرُكُمْ» أي شرفكم ورفعتكم.",
@@ -137,7 +159,9 @@
       "question_en": "Mention four words from a verse to show someone that he has deviated from the method commanded to the Prophet ﷺ (i.e., warning by revelation, not speculative philosophy).",
       "answer": {
         "surah": 21,
-        "ayahs": [45],
+        "ayahs": [
+          45
+        ],
         "ayah_ar": "قُلْ إِنَّمَا أُنذِرُكُم بِالْوَحْيِ ۚ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنذَرُونَ",
         "ayah_en": "Say: I only warn you by revelation. And the deaf do not hear the call when they are warned.",
         "commentary_ar": "الأربع كلمات هي: «إِنَّمَا أُنذِرُكُم بِالْوَحْيِ» أي منهج الإنذار مرتبط بالوحي لا بالبدائل الذهنية المجردة.",
@@ -150,7 +174,9 @@
       "question_en": "Abandoning worship is humiliation for the one who abandons it. Mention seven words from a verse that remind you of this meaning.",
       "answer": {
         "surah": 22,
-        "ayahs": [18],
+        "ayahs": [
+          18
+        ],
         "ayah_ar": "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِّنَ النَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ ۗ وَمَن يُهِنِ اللَّهُ فَمَا لَهُ مِن مُّكْرِمٍ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ",
         "ayah_en": "Do you not see that to Allah prostrates whoever is in the heavens and whoever is on the earth… and many of mankind—and many upon whom punishment is justified. And whoever Allah humiliates—there is none to honor him. Indeed, Allah does what He wills.",
         "commentary_ar": "السبع كلمات هي: «وَمَن يُهِنِ اللَّهُ فَمَا لَهُ مِن مُّكْرِمٍ» وفيها تذكير بذل من حُرم العبادة والكرامة.",
@@ -163,7 +189,9 @@
       "question_en": "Mention a verse that mocks (in effect) the one who thinks victory will not be for this religion.",
       "answer": {
         "surah": 22,
-        "ayahs": [15],
+        "ayahs": [
+          15
+        ],
         "ayah_ar": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ",
         "ayah_en": "Whoever thinks Allah will not support him in this world and the Hereafter—let him stretch a rope to the ceiling/sky, then cut it, and see whether his plan removes what enrages him.",
         "commentary_ar": "فيها أسلوب تحدٍّ وتهكم: إن ظن أنه لا نصر، فليجرب ما شاء ولن يغيّر قدر الله.",
@@ -176,7 +204,9 @@
       "question_en": "The hatred and rage in disbelievers’ hearts shows on their faces. Mention a verse expressing this.",
       "answer": {
         "surah": 22,
-        "ayahs": [72],
+        "ayahs": [
+          72
+        ],
         "ayah_ar": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ تَعْرِفُ فِي وُجُوهِ الَّذِينَ كَفَرُوا الْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ۚ النَّارُ ۚ وَعَدَهَا اللَّهُ الَّذِينَ كَفَرُوا ۖ وَبِئْسَ الْمَصِيرُ",
         "ayah_en": "When Our clear verses are recited to them, you recognize on the faces of those who disbelieve the denial/hostility; they almost assault those who recite Our verses to them…",
         "commentary_ar": "صرّحت الآية بأن (المنكر) يُعرف في وجوههم عند سماع الآيات، حتى يقاربوا الاعتداء.",
@@ -189,7 +219,9 @@
       "question_en": "Mention the two different words (one of them from this juz’) used to describe the punishment of those who plotted evil against a prophet, with each word fitting its context.",
       "answer": {
         "surah": 21,
-        "ayahs": [70],
+        "ayahs": [
+          70
+        ],
         "ayah_ar": "وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ",
         "ayah_en": "They intended for him a plot, but We made them the greatest losers.",
         "commentary_ar": "الكلمتان هما: «الْأَخْسَرِينَ» (الأنبياء: 70) و«الْأَسْفَلِينَ» (الصافات: 98). ذُكرت «الأخسرين» حيث تقابل الكيدان فعاد كيدهم عليهم بالخسران، وذُكرت «الأسفلين» في سياق الإلقاء من علوّ فجاء الجزاء من جنس العمل.",

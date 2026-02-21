@@ -7,7 +7,9 @@
       "question_en": "In Surah Al-Isra (17:16), one interpretation says “We commanded its affluent ones” means: we commanded them with faith and obedience (an implied, omitted object understood from context). Mention a verse in this Juz that proves a similar kind of contextual omission/ellipsis.",
       "answer": {
         "surah": 25,
-        "ayahs": [36],
+        "ayahs": [
+          36
+        ],
         "ayah_ar": "﴿فَقُلْنَا اذْهَبَا إِلَى الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا فَدَمَّرْنَاهُمْ تَدْمِيرًا﴾\n[الفرقان: 36]",
         "ayah_en": "So We said, “Go to the people who denied Our signs,” then We destroyed them utterly. (The text omits the intervening events—going, delivering the message, the response—yet the meaning is understood.)",
         "commentary_ar": "لاحظ كيف أن هنالك حذفاً كبيراً في هذه الآية ما بين ذهابهما وإهلاك قومهما.",
@@ -20,7 +22,9 @@
       "question_en": "Mention a verse that refutes the idea that ‘humanitarianism’ alone (morals or worldly benefit) is the sole standard of merit regardless of one’s relationship with Allah—i.e., a verse indicating no worth for the one who turns away from Allah.",
       "answer": {
         "surah": 25,
-        "ayahs": [77],
+        "ayahs": [
+          77
+        ],
         "ayah_ar": "﴿قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًا﴾\n[الفرقان: 77]",
         "ayah_en": "Say: My Lord would not care for you were it not for your worship/supplication—yet you have denied, so the consequence will surely come.",
         "commentary_ar": "قال ابن كثير: (أي : لا يبالي ولا يكترث بكم إذا لم تعبدوه فإنه إنما خلق الخلق ليعبدوه ويوحدوه ويسبحوه بكرة وأصيلا).",
@@ -33,7 +37,9 @@
       "question_en": "Mention a verse showing that a believer should not treat a tyrant’s ‘kindness’ to him as a favor if that tyrant oppresses others—i.e., being spared personally doesn’t erase the injustice done to the rest.",
       "answer": {
         "surah": 26,
-        "ayahs": [22],
+        "ayahs": [
+          22
+        ],
         "ayah_ar": "﴿وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدْتَ بَنِي إِسْرَائِيلَ﴾\n[الشعراء: 22]",
         "ayah_en": "And is that a favor you hold over me—that you enslaved the Children of Israel?",
         "commentary_ar": "قال ابن كثير: (أي : وما أحسنت إلي وربيتني مقابل ما أسأت إلى بني إسرائيل، فجعلتهم عبيدا وخدما، تصرفهم في أعمالك ومشاق رعيتك، أفي إحسانك إلى رجل واحد منهم بما أسأت إلى مجموعهم؟ أي : ليس ما ذكرته شيئا بالنسبة إلى ما فعلت بهم).",
@@ -46,7 +52,9 @@
       "question_en": "Mention a verse showing how falsehood-people manipulate labels: they praise their own stubbornness and condemn the call to truth in the same breath.",
       "answer": {
         "surah": 25,
-        "ayahs": [42],
+        "ayahs": [
+          42
+        ],
         "ayah_ar": "﴿إِنْ كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلَا أَنْ صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا﴾\n[الفرقان: 42]",
         "ayah_en": "He nearly led us away from our gods—if only we had not ‘held firm’ to them! And they will soon know, when they see the punishment, who is truly farthest from the path.",
         "commentary_ar": "",
@@ -59,7 +67,9 @@
       "question_en": "Mention a verse showing that the demands of those who deny the Messenger are driven by arrogance.",
       "answer": {
         "surah": 25,
-        "ayahs": [21],
+        "ayahs": [
+          21
+        ],
         "ayah_ar": "﴿وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا﴾\n[الفرقان: 21]",
         "ayah_en": "Those who do not expect to meet Us say: “Why aren’t angels sent down to us, or why don’t we see our Lord?” They have certainly grown arrogant within themselves and rebelled enormously.",
         "commentary_ar": "",
@@ -72,7 +82,9 @@
       "question_en": "Tawhid comes before mere ‘unity.’ Mention a verse showing how a prophet’s call divided his people into opposing groups (because one side accepted truth and the other rejected it).",
       "answer": {
         "surah": 27,
-        "ayahs": [45],
+        "ayahs": [
+          45
+        ],
         "ayah_ar": "﴿وَلَقَدْ أَرْسَلْنَا إِلَىٰ ثَمُودَ أَخَاهُمْ صَالِحًا أَنِ اعْبُدُوا اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ﴾\n[النمل: 45]",
         "ayah_en": "We sent to Thamud their brother Salih: “Worship Allah.” Then they became two disputing factions.",
         "commentary_ar": "",
@@ -85,7 +97,9 @@
       "question_en": "Blessings make people of faith more humble and grateful, unlike tyrants who deny favors. Mention a part of a verse in this Juz expressing that meaning.",
       "answer": {
         "surah": 27,
-        "ayahs": [40],
+        "ayahs": [
+          40
+        ],
         "ayah_ar": "﴿هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ﴾\n[النمل: 40]",
         "ayah_en": "This is from my Lord’s فضل (bounty), to test me: will I be grateful or ungrateful?",
         "commentary_ar": "قال السعدي: (فلم يغتر عليه السلام بملكه وسلطانه وقدرته... بل علم أن ذلك اختبار من ربه فخاف أن لا يقوم بشكر هذه النعمة... وأن الشكر لا ينتفع الله به وإنما يرجع نفعه إلى صاحبه... وأن كفر النعمة داع لزوالها).",
@@ -98,7 +112,9 @@
       "question_en": "A small corrupt minority can cause the ruin of an entire town when they are not restrained. Mention a verse in this Juz indicating that meaning.",
       "answer": {
         "surah": 27,
-        "ayahs": [48],
+        "ayahs": [
+          48
+        ],
         "ayah_ar": "﴿وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ﴾\n[النمل: 48]",
         "ayah_en": "In the city there were nine men who spread corruption in the land and did not reform.",
         "commentary_ar": "فقوم صالح هلكوا جميعاً بسبب تسعة؛ لأنّ المجموع كانوا متورطين سكوتاً أو إقراراً أو حثاً.",
@@ -111,7 +127,9 @@
       "question_en": "One of the most important and widely accessible forms of jihad is mentioned in a verse—what is the verse?",
       "answer": {
         "surah": 25,
-        "ayahs": [52],
+        "ayahs": [
+          52
+        ],
         "ayah_ar": "﴿فَلَا تُطِعِ الْكَافِرِينَ وَجَاهِدْهُمْ بِهِ جِهَادًا كَبِيرًا﴾\n[الفرقان: 52]",
         "ayah_en": "Do not obey the disbelievers; strive against them with it (the Qur’an) with a great striving.",
         "commentary_ar": "جهاد (بِهِ) أي بالقرآن: بالحجة والبيان وتبليغ الوحي، ومقاومة الشبهات والطعنات بالعلم النافع ووسائل التأثير.",
@@ -124,7 +142,9 @@
       "question_en": "The believer has high aspirations. Mention three words from a verse showing this high ambition—seeking lofty ranks from Allah.",
       "answer": {
         "surah": 25,
-        "ayahs": [74],
+        "ayahs": [
+          74
+        ],
         "ayah_ar": "﴿وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا﴾\n[الفرقان: 74]",
         "ayah_en": "And make us leaders (examples) for the righteous.",
         "commentary_ar": "قال السعدي: (أي أوصلنا إلى درجة الإمامة في الدين وأن نكون قدوة للمتقين).",

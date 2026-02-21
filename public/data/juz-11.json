@@ -1,314 +1,314 @@
 {
   "juz": 10,
   "items": [
-  {
-    "qNum": 1,
-    "question_ar": "يستخدم بعض الناس عبارة ( لا بيرحم ولا بيخلي من يرحم ولا بيخلي رحمة\nالله تنزل ) لوصف شخص عديم الرحمة، لكن هذه العبارة غير مقبولة\nشرعا . اذكر آية تبطل هذا العبارة وتبين أنه لا يستطيع أحد أن يمنع رحمة\nالله .",
-    "question_en": "Some people use the phrase “He neither shows mercy nor lets others show mercy, nor does he let Allah’s mercy come down” to describe a merciless person, but this wording is not acceptable Islamically. Mention a verse that refutes this idea and shows that no one can prevent Allah’s mercy.",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        107
-      ],
-      "ayah_ar": "﴿وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍ فَلا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن يُرِدكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ\nيُصِيبُ بِهِ مَن يَشَاءُ مِن عِبادِهِ وَهُوَ الغَفُورُ الرَّحيم) [يونس : 107].",
-      "commentary_ar": "",
-      "commentary_en": ""
+    {
+      "qNum": 1,
+      "question_ar": "يستخدم بعض الناس عبارة ( لا بيرحم ولا بيخلي من يرحم ولا بيخلي رحمة\nالله تنزل ) لوصف شخص عديم الرحمة، لكن هذه العبارة غير مقبولة\nشرعا . اذكر آية تبطل هذا العبارة وتبين أنه لا يستطيع أحد أن يمنع رحمة\nالله .",
+      "question_en": "Some people use the phrase “He neither shows mercy nor lets others show mercy, nor does he let Allah’s mercy come down” to describe a merciless person, but this wording is not acceptable Islamically. Mention a verse that refutes this idea and shows that no one can prevent Allah’s mercy.",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          107
+        ],
+        "ayah_ar": "﴿وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍ فَلا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن يُرِدكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ\nيُصِيبُ بِهِ مَن يَشَاءُ مِن عِبادِهِ وَهُوَ الغَفُورُ الرَّحيم) [يونس : 107].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "قد تجد إنسانا ظالما فيكون منك شدة عليه بل وتحاربه ويتضرر هو من حربك\nله . حتى إذا خضع طيبت خاطره بقولك : لم يكن هينا علي أن أفعل ما فعلته\nبك ، ولم يكن هينا علي أن أرى المشقة التي لحقت بك والضرر الذي آلمك ،\nلكني ما فعلت الذي فعلته بك إلا رغبة في خيرك وحسن العاقبة لك. اذكر آية\nتذكر بهذا الموقف.",
+      "question_en": "You may be harsh toward an oppressor and even fight him, causing him hardship. Then when he yields, you might say: “It was not easy for me to do what I did to you, nor to see the hardship and pain that reached you, but I only did it seeking your good and a good outcome for you.” Mention a verse that reminds of this kind of meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          128
+        ],
+        "ayah_ar": "﴿لَقَد جَاءَكُمْ رَسُولٌ مِن أَنفُسِكُم عَزيزٌ عَلَيْهِ مَا عَنِتُم حَرِيصٌ عَلَيْكُم\nبِالمُؤمِنينَ رَءُوفٌ رَحِيمٌ﴾ [التوبة : 128 ]",
+        "commentary_ar": "فقد جاء في تفسير الطبري : (قال أبو جعفر : وأولى القولين في ذلك بالصواب،\nقول ابن عباس. وذلك أن الله عم بالخبر عن نبي الله أنه عزيز عليه ما عنت\nقومه، ولم يخصص أهل الإيمان به. فكان صلى الله عليه وسلم [كما جاء\nالخبر من ] الله به، عزيز عليه عَنَتُ جمعهم.\nفإن قال قائل : وكيف يجوز أن يوصف صلى الله عليه وسلم بأنه كان عزيزا\nعليه عنت جميعهم، وهو يقتل كفارهم، ويسبي ذراريهم، ويسلبهم\nأموالهم؟\nقيل : إن إسلامهم، لو كانوا أسلموا، كان أحب إليه من إقامتهم على كفرهم\nوتكذيبهم إياه، حتى يستحقوا ذلك من الله. وإنما وصفه الله جل ثناؤه بأنه\nعزيز عليه عنتهم، لأنه كان عزيزًا عليه أن يأتوا ما يُعنتهم، وذلك أن يضلوا\nفيستوجبوا العنت من الله بالقتل والسبي).",
+        "commentary_en": "As mentioned in al-Tabari’s tafsir: Abu Ja‘far said that the strongest view here is the view of Ibn ‘Abbas. This is because Allah spoke generally, informing about His Prophet that ﴿عَزيزٌ عَلَيْهِ مَا عَنِتُم﴾ — that the hardship and distress of his people was heavy upon him — and He did not restrict this meaning only to the believers. So the Prophet ﷺ truly was, as Allah described him, deeply pained by the hardship of all of them.\n\nIf someone asks: How can he be described as being pained by the hardship of all of them, when he fought their disbelievers, took captives, and took their wealth? The answer is: Their Islam — if they had accepted Islam — would have been more beloved to him than their remaining upon disbelief and denying him until they deserved from Allah what they deserved. Allah described him as ﴿عَزيزٌ عَلَيْهِ مَا عَنِتُم﴾ because it was heavy upon him that they would do what would bring them hardship — namely, that they go astray and thereby become deserving of hardship from Allah, such as killing and captivity."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "قد يعمل أحدنا معصية فتبقى تُحدث شكاً في قلبه - خاصة ما كان منها في\nمعاونة الكافرين أو الإضرار بالإسلام والمسلمين - مع أن صاحبها قد يكون\nنسيها فلا يفطن إلى هذا المصدر من مصادر مرض قلبه . اذكر آية تذكر حالة\nكهذه.",
+      "question_en": "A person may commit a sin that continues to produce doubt in his heart—especially sins involving aiding disbelievers or harming Islam and the Muslims—while he may have forgotten it and not realize it is a source of his heart’s sickness. Mention a verse that describes such a state.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          110
+        ],
+        "ayah_ar": "لا يَزالُ بُنيانُهُمُ الَّذى بَنَوا رِيبَةً في قُلُوبِهِم إِلَّا أَن تَقَطَّعَ قُلُوبُهُم وَاللَّهُ عَلِيمٌ\nحكيم) [ التوبة : 110 ]",
+        "commentary_ar": "أي أن بنيانهم للمسجد الضرار أورث شكا ونفاقا في قلوبهم.",
+        "commentary_en": "Meaning: their construction of Masjid al-Dirar left behind ﴿رِيبَةً﴾ — doubt and hypocrisy — within their hearts, lingering as a continuing illness rather than something that simply ends."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "الذي يعترف بذنبه ترجى له المغفرة بخلاف من يُبَرّر ويُشرعن معصيته . اذكر\nآية تدل على هذا.",
+      "question_en": "The one who admits his sin is hoped to receive forgiveness, unlike the one who justifies and rationalizes his disobedience. Mention a verse that indicates this.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          102
+        ],
+        "ayah_ar": "وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِم خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا عَسَى اللَّهُ أَن يَتوبَ\nعَلَيْهِم إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ﴾ [التوبة : 102].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "قد تُدعى إلى قناة تلفزيونية توجهها العام سيئ ، تُدعى إليها لتتكلم عن\nموضوع من مواضيع الخير التي فيها منفعة للناس . اذكر آية تجعلك تميل إلى\nعدم الظهور في هذه القناة.",
+      "question_en": "You may be invited onto a TV channel whose overall direction is bad, even if you are invited to speak about a beneficial good topic. Mention a verse that would make you lean toward not appearing on that channel.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          108
+        ],
+        "ayah_ar": "لا تَقُم فِيهِ أَبَدًا لَمَسْجِدٌ أُسِّسَ عَلَى التَّقوى مِن أَوَّلِ يَومٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ\nرجالٌ يُحِبّونَ أَن يَتَطَهَّرُوا وَاللهُ يُحِبُّ المُطَّهِّرِينَ) [التوبة : 108]",
+        "commentary_ar": "جاء في تفسير البغوي : لا تَقُم فيهِ أَبَدًا قال ابن عباس : \"لا تصل فيه\" منع\nالله تعالى نبيه صلى الله عليه وسلم أن يصلي في مسجد الضرار).",
+        "commentary_en": "In al-Baghawi’s tafsir: ﴿لَا تَقُم فِيهِ أَبَدًا﴾ — Ibn ‘Abbas said: “Do not pray in it.” Allah prevented His Prophet ﷺ from praying in Masjid al-Dirar. The lesson is that a place (or platform) founded upon فساد and wrong foundations should not be honored or strengthened by one’s presence, even if some outward benefit is claimed."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "اذكر آية تدل على أن آيات القرآن إن لم تنفع أحدا ولم ترفعه وتطهره فهذا\nلخلل فيه لا لخلل في الآيات.",
+      "question_en": "Mention a verse showing that if the verses of the Qur’an do not benefit someone, elevate him, or purify him, then the fault lies in him—not in the verses.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          125
+        ],
+        "ayah_ar": "وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ فَزَادَتهُم رِجسًا إلى رجسهم وماتوا وَهُم كافرون)\n]125 :التوبة[",
+        "commentary_ar": "جاء في تفسير الطبري : (وَأَمَّا الَّذِينَ في قُلُوبِهِم مَرَضٌ)، نفاق وشك في دين الله ،\nفإن السورة التي أنزلت = ( زادتهم رجسًا إلى رجسهم)، وذلك أنهم شكوا في\nأنها من عند الله ، فلم يؤمنوا بها ولم يصدقوا ، فكان ذلك زيادة شك حادثةً في\nتنزيل الله ، لزمهم الإيمان به عليهم، بل ارتابوا بذلك، فكان ذلك زيادة نتن\nمن أفعالهم).",
+        "commentary_en": "In al-Tabari’s tafsir: ﴿وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ﴾ means: hypocrisy and doubt regarding Allah’s religion. So the surah that was revealed ﴿زَادَتْهُمْ رِجْسًا إِلَى رِجْسِهِمْ﴾ because they doubted that it was from Allah, so they did not believe in it or affirm it. That produced an additional, newly-formed doubt about Allah’s revelation—despite the obligation upon them to believe—so they fell into further suspicion, and this became an added فساد and filth in their deeds. The point is: the defect is in the قلب المريض, not in the آيات."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "إذا رأيت إنسانا يزيغ وينحرف بعد أن كان على هدى فيما يظهر ، فلا تسئ\nالظن بالله تعالى أنه لم يعط هؤلاء فرصاً، أو أنه لم يوضح لهم الهدى من\nالضلال، بل انحرافهم هذا لعيب فيهم وإهمالهم لما فصل الله أن يعملوا به .\nاذكر آية تدل على ذلك.",
+      "question_en": "If you see someone deviate after seeming to be guided, do not think poorly of Allah—thinking He did not give them chances or did not clarify guidance from misguidance. Rather, their deviation is due to a fault in them and their neglect of what Allah clarified they must follow. Mention a verse indicating this.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          115
+        ],
+        "ayah_ar": "﴿وَمَا كَانَ اللَّهُ لِيُضِلَّ قَوْمًا بَعدَ إِذْ هَداهُم حَتَّى يُبَيِّنَ لَهُم مَا يَتَّقُونَ إِنَّ اللَّهَ بِكُلِّ\nشَيْءٍ عَلِيمٌ﴾ [التوبة : 115].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "آية يأمر الله فيها عباده بأمر ويضمن لهم فيها ضمانا ، لكنه تعالى عقب\nالضمان بعبارة تبين للمؤمنين أن عليهم طاعة الله في أمره هذا بغض النظر\nعن الضمان . أي أنهم ليس لهم أن يطالبوا الله بالضمان ليلتزموا الأمر، فإنما\nالضمان تفضّل من الله تعالى . اذكر هذه الجزء من الآية تحديدا (من كلمتين ).",
+      "question_en": "A verse in which Allah commands His servants and gives them a guarantee, but He then attaches the guarantee to wording that teaches believers they must obey regardless of the guarantee—meaning they are not entitled to demand a guarantee before obeying; the guarantee is purely Allah’s فضل. Mention the exact two-word phrase.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          28
+        ],
+        "ayah_ar": "يَا أَيُّهَا الَّذِينَ آمَنوا إِنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسجِدَ الحَرامَ بَعدَ عَامِهِم\nهذا وَإِن خِفْتُم عَيْلَةً فَسَوفَ يُغنيكُمُ اللَّهُ مِن فَضْلِهِ إِن شَاءَ إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ)\n[التوبة: 28].",
+        "commentary_ar": "قال البيضاوي : (قيده بالمشيئة لتنقطع الآمال إلى الله تعالى ولينبه على أنه\nتعالى متفضل في ذلك وأن الغنى الموعود يكون لبعض دون بعض وفي عام دون\nعام).",
+        "commentary_en": "The intended two-word phrase is ﴿إِن شَاءَ﴾. Al-Baydawi said: He attached it to ﴿المشيئة﴾ so that hopes remain directed to Allah alone, and to highlight that Allah is the One who bestows this as pure فضل. Also, the promised sufficiency may occur for some and not others, and in one year and not another."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "قيل : إذا أردت أن تعرف عند الله مقامك فانظر فيما أقامك . وقال ابن القيم:\nمن أراد من العمال أن يعرف قدره عند السلطان فلينظر ماذا يوليه من العمل\nوبأي شيء يشغله . اذكر آية تبين أن من هان على الله فإن الله تعالى لا يوفقه\nللطاعات العظيمة.",
+      "question_en": "It is said: If you want to know your status with Allah, look at what He has placed you in. Ibn al-Qayyim said: Whoever wants to know his worth with the ruler should look at what tasks the ruler assigns him. Mention a verse showing that whoever is insignificant to Allah, Allah will not grant him success in great acts of obedience.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          46
+        ],
+        "ayah_ar": "﴿وَلَوْ أَرَادُوا الخروج لَأَعَدُّوا لَهُ عُدَّةً وَلكِن كَرِهَ اللهُ انبعاثَهُم فَثَبَّطَهُم وَقِيلَ اقْعُدوا\nمَعَ القاعدين) [التوبة : 46].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "اذكر آية ترد بها على من يجعل مقياس المفاضلة بين الناس على أساس\n\"الإنسانية \" ويهون من شأن التوحيد في ذلك .",
+      "question_en": "Mention a verse to respond to someone who makes the standard of superiority among people merely “humanity,” while downplaying the importance of tawhid in that matter.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          19
+        ],
+        "ayah_ar": "أَجَعَلْتُم سِقَايَةَ الحاج وَعِمَارَةَ المَسجِدِ الحَرامِ كَمَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَجَاهَدَ\nفي سَبِيلِ اللَّهِ لا يَستَوونَ عِندَ اللَّهِ وَاللَّهُ لا يَهْدِي القَومَ الظَّالِمِينَ) [التوبة : 19 ]",
+        "commentary_ar": "قال السعدي في تفسيره : ( لما اختلف بعض المسلمين، أو بعض المسلمين\nوبعض المشركين، في تفضيل عمارة المسجد الحرام، بالبناء والصلاة والعبادة\nفيه وسقاية الحاج، على الإيمان بالله والجهاد في سبيله، أخبر الله تعالى\n\nبالتفاوت بينهما، فقال : ( أَجَعَلْتُم سِقَايَةَ الحاج وَعِمَارَةَ المَسْجِدِ الْحَرَامِ كَمَنْ آمَنَ\nبِاللَّهِ وَاليَومِ الآخِرِ وَجَاهَدَ في سَبِيلِ اللَّهِ لَا يَستَوونَ عِندَ اللَّهِ).\nفالجهاد والإيمان بالله أفضل من سقاية الحاج وعمارة المسجد الحرام\nبدرجات كثيرة، لأن الإيمان أصل الدين، وبه تقبل الأعمال، وتزكو الخصال).\nفكان هذا رد من الله تعالى على من يفاضل بين عمارة المسجد الحرام والإيمان\nبالله ، فكيف بمن يفاضل بين الإيمان بالله وأعمال دون ذلك بكثير ؟ !",
+        "commentary_en": "Al-Sa‘di said in his tafsir: When some Muslims—or some Muslims and some polytheists—disputed about preferring “maintenance of al-Masjid al-Haram” (through building, prayer, and worship) and “giving water to pilgrims” over “faith in Allah” and “jihad in His path,” Allah clarified the difference between them. He said: ﴿أَجَعَلْتُمْ سِقَايَةَ الحَاجِّ وَعِمَارَةَ المَسْجِدِ الحَرَامِ كَمَنْ آمَنَ بِاللَّهِ وَاليَوْمِ الآخِرِ وَجَاهَدَ فِي سَبِيلِ اللَّهِ لَا يَسْتَوُونَ عِندَ اللَّهِ﴾.\n\nSo jihad and belief in Allah are far superior—by many degrees—because faith is the foundation of the religion, by which deeds are accepted and virtues are purified. This is a refutation of anyone who equates outward “good works” or broad “humanitarian” acts with tawhid and iman. If this is the case regarding major outward acts like serving pilgrims, then how much more so for deeds far below that."
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "من كرم الله تعالى أنه يثيب المؤمن على ما يعانيه في سبيل الغايات العظيمة،\nوعلى أفعال لا يقصد بها الأجر بذاتها، لكن الله تعالى يثيبه باعتبار شرف\nالغاية منها . ولتأكيد هذا المعنى زاد الله في خاتمة آية ثلاث كلمات تميزها عن\nالآية التي بعدها . ما هي هذه الكلمات الثلاثة ؟",
+      "question_en": "From Allah’s generosity is that He rewards the believer for hardships he endures for noble goals, and even for actions not done intending reward in themselves—yet Allah rewards them due to the honor of their purpose. To reinforce this, Allah added three words at the end of a verse that distinguishes it from the verse after it. What are these three words?",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          120
+        ],
+        "ayah_ar": "ما كانَ لِأَهْلِ المَدِينَةِ وَمَن حَولَهُم مِنَ الأَعرابِ أَن يَتَخَلَّفُوا عَن رَسُولِ اللَّهِ وَلَا\nيَرغَبُوا بِأَنفُسِهِم عَن نَفْسِهِ ذَلِكَ بِأَنَّهُم لا يُصِيبُهُم ظَمَأُ وَلَا نَصَبٌ وَلَا مَحْمَصَةٌ فِي\nسَبِيلِ اللَّهِ وَلَا يَطَعُونَ مَوطِئًا يَغِيظُ الكُفَّارَ وَلا يَنالُونَ مِن عَدُةٍ نَيْلًا إِلَّا كُتِبَ لَهُم\nبِهِ عَمَلَ صَالِحٌ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ المُحسنينَ) [التوبة : 120 ]",
+        "commentary_ar": "فالله عز وجل عدد بعض المشاق التي يبلغها المجاهد في سبيل الله (لا يُصيبهم\nظَمَا) يعني عطش ، (وَلا نَصَبٌ) أي تعب ، (وَلا مَخمَصَةٌ) أي مجاعة، في سبيل\nالله).\nفكل هذه المشاق التي تكون في سبيل الله يثاب المرء عليها لشرف الغاية منها\nإِلَّا كُتِبَ لَهُم بِهِ عَمَلٌ صالِحُ) ، وزيادةُ (عَمَل صالح) لتأكيد الإثابة على هذه\nالأعمال.",
+        "commentary_en": "Allah—Most High—listed some of the hardships a mujahid reaches in the path of Allah: ﴿لَا يُصِيبُهُمْ ظَمَأٌ﴾ meaning thirst, ﴿وَلَا نَصَبٌ﴾ meaning fatigue, and ﴿وَلَا مَخْمَصَةٌ﴾ meaning hunger, all ﴿فِي سَبِيلِ اللَّهِ﴾.\n\nEvery such hardship in Allah’s path is rewarded due to the nobility of its goal. Then Allah said: ﴿إِلَّا كُتِبَ لَهُم بِهِ عَمَلٌ صَالِحٌ﴾. The extra phrase ﴿عَمَلٌ صَالِحٌ﴾ is an added emphasis to confirm that these burdens—though not “acts” in themselves like prayer—are still recorded as righteous deeds because of their مقصد and شرف الغاية."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "كلمة جاءت تصريحا في موضع الضمير دلالة على أن ما ينعم به الله تعالى على\nعباده إنما هو محض تكرم منه سبحانه . ما هي هذه الكلمة.",
+      "question_en": "A word was stated explicitly in place of a pronoun to indicate that what Allah bestows upon His servants is purely from His generosity. What is that word?",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          107
+        ],
+        "ayah_ar": "وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍ فَلا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن يُرِدكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ\nيُصِيبُ بِهِ مَن يَشَاءُ مِن عِبادِهِ وَهُوَ الغَفُورُ الرَّحِيمُ) [يونس : 107].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "من الأساليب العربية أسلوب التهييج والإلهاب . كأن تقول لشخص : إن لم\nترد مساعدتي فلا تفعل، وأنت تعلم أنه يريد مساعدتك ولا يظن به إلا هذا.\nلكن كأنك تهيجه وتلهب حماسته ليقول لك : بل أساعدك بلا تردد. اذكر آية\nفيها تهييج وإلهاب للنبي صلى الله عليه وسلم .",
+      "question_en": "One rhetorical style in Arabic is provocation and stirring zeal: like telling someone, “If you don’t want to help me, then don’t,” even though you know he does want to help—so you are stirring him to respond eagerly. Mention a verse containing this kind of stirring addressed to the Prophet ﷺ.",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          94
+        ],
+        "ayah_ar": "فَإِن كُنتَ فِي شَكٍّ مِمَّا أَنزَلنا إِلَيْكَ فَاسْأَلِ الَّذِينَ يَقْرَءُونَ الكِتَابَ مِن قَبْلِكَ لَقَد\nجاءَكَ الحَقُّ مِن رَبِّكَ فَلا تَكُونَنَّ مِنَ المُمتَرينَ) [يونس : 94].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "خمس كلمات تتوسط آية كريمة، تشير إلى أن زمن تبدل الحال على هذه\nالأرض من الإقبال إلى الإدبار يكون في ذروة شعور الأقوام بالقوة والغلبة\nوالتمكين . ما هي هذه الكلمات ؟",
+      "question_en": "Five words in the middle of a noble verse indicate that the moment conditions shift in this world—from ease to downfall—often comes at the peak of people’s feeling of power, dominance, and control. What are these five words?",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          24
+        ],
+        "ayah_ar": "إِنَّمَا مَثَلُ الحَياةِ الدُّنيا كَمَاءٍ أَنزَلْناهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ\nالنَّاسُ وَالأَنْعَامُ حَتَّى إِذا أَخَذَتِ الأَرضُ زُخْرُفَها وَازَّيَّنَت وَظَنَّ أَهْلُهَا أَنَّهُم قَادِرُونَ\nعليها أتاها أمرنا ليلًا أو نَهَارًا فَجَعَلناها خصيدًا كَأَن لَم تَعْنَ بِالْأَمْسِ كَذلِكَ\nنُفَصِّلُ الآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ) [يونس : 24].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 15,
+      "question_ar": "من أساليب القرآن إطماع الكافرين والمنافقين بإشعارهم أن طلبهم أجيب،\nحتى إذا تأملوا وجدوا ما ظنّوه إجابةً عكس ما طلبوا ! اذكر كلمتين من آية\nفيهما هذا الأسلوب.",
+      "question_en": "One Qur’anic style is to lure disbelievers and hypocrites by making them feel their request was granted—then, upon reflection, they find what they thought was an answer is actually the opposite of what they wanted. Mention two words from a verse that contain this style.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          95
+        ],
+        "ayah_ar": "سَيَحْلِفُونَ بِاللَّهِ لَكُم إِذَا انقَلَبْتُم إِلَيْهِم لِتُعرضوا عَنْهُم فَأَعْرِضُوا عَنْهُم إِنَّهُم\nرِجْسٌ وَمَأواهُم جَهَنَّمُ جَزَاءً بِما كانوا يكسبون) [التوبة : 95].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 16,
+      "question_ar": "من أساليب القرآن في الاستهزاء بأهل الباطل \"الاستثناء التهكمي \" ، وهو من\nقبيل تأكيد الشيء بما يشبه ضده.. كقوله تعالى في الأعراف: {إِنَّ الَّذِينَ كَذَّبُوا\nبِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّى يَلِجَ\nالْجَمَلُ فِي سَمِّ الْخِيَاطِ} [الأعراف: 40] . فاستحالة ولوج الجمل في سم الخياط\nتؤكد على خلودهم في العذاب واستحالة دخولهم الجنة. اذكر أربع كلمات\nمن آية فهم منها بعض أهل العلم استثناءا تهكميا مشابها .",
+      "question_en": "A Qur’anic style of mocking falsehood is the “sarcastic exception,” a way of emphasizing something through what resembles its opposite—like in al-A‘raf: {…they will not enter Paradise until the camel passes through the eye of a needle}. Mention four words from a verse that some scholars understood as a similar sarcastic exception.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          110
+        ],
+        "ayah_ar": "لا يَزالُ بُنيانُهُمُ الَّذى بَنَوا رِيبَةً في قُلُوبِهِم إِلَّا أَن تَقَطَّعَ قُلُوبُهُم وَاللَّهُ عَلِيمٌ حَكِيمٌ)\n]110 :التوبة[",
+        "commentary_ar": "قال ابن عاشور في تفسيره : ( وقَوْلُهُ : (إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ) استثناءُ تَهَكُمِيُّ.\nوهو من قبيل تأكيد الشَّيْءِ بما يشبه ضدَّهُ كَقولهِ - تَعالى : ولا يَدْخُلُونَ الجَنَّةَ\nحَتَّى يَلِجَ الجَمَلُ في سَمَّ الخياط ) [الأعراف : 40] ، أي يَبْقى ريبة أَبَدًا إِلَّا أَنْ تُقَطَّعَ\nقلوبهم منهم وما هي بِمُقَطَّعَةٍ ).\nوقد قيل في تفسيرها أيضا أقوال وجيهة منها أن التقطع جاء بمعنى الندم\nالشديد (قاله السعدي) ، وقيل بأنه الموت (تفسير ابن كثير).",
+        "commentary_en": "Ibn ‘Ashur said in his tafsir: His statement ﴿إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ﴾ is an ﴿استثناءُ تَهَكُمِيُّ﴾ (a sarcastic exception). It is a form of emphasizing something by what resembles its opposite—like Allah’s statement: “and they will not enter Paradise until the camel passes through the eye of a needle” [الأعراف : 40]. Meaning: their structure remains ﴿رِيبَةً﴾ forever, “except” if their hearts are cut to pieces—yet they will not be cut to pieces in that literal sense. The point is permanence.\n\nIt was also explained in other sound ways: that “cutting” refers to intense regret (as al-Sa‘di said), or that it refers to death (as in Ibn Kathir’s tafsir)."
+      }
+    },
+    {
+      "qNum": 17,
+      "question_ar": "ذم الله في الكفار أنهم سرعان ما يؤمنون بالأصنام رغم عدم يقينهم ، بل هم\nيظنون ظناً ولا يقين في قلوبهم تجاه معبوداتهم الباطلة . اذكر آية توضح هذا\nالمعنى وتشير إلى أن المؤمن ينبغى أن يكون إيمانه يقينيا .",
+      "question_en": "Allah criticized the disbelievers for quickly believing in idols despite lacking certainty; they only follow conjecture with no true conviction toward their false deities. Mention a verse that shows this, and indicates that a believer’s faith should be based on certainty.",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          36
+        ],
+        "ayah_ar": "وَمَا يَتَّبِعُ أَكْثَرُهُم إِلَّا ظَنَّا إِنَّ الظَّنَّ لا يُغنى مِنَ الْحَقِّ شَيْئًا إِنَّ اللَّهَ عَلِيمٌ بِمَا\nيفعلونَ) [يونس : 36].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 18,
+      "question_ar": "اذكر آية تحض على كل أنواع علوم الطبيعة النافعة.",
+      "question_en": "Mention a verse that encourages all beneficial natural sciences.",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          101
+        ],
+        "ayah_ar": "قُل انظروا ماذا في السَّماواتِ وَالأَرْضِ وَما تُغني الآياتُ وَالنُّذُرُ عَن قَوْمٍ لَا يُؤْمِنُونَ)\n]101:يونس[",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 19,
+      "question_ar": "اذكر آية تعيب على الإنسان أن يسارع إلى إنكار ما يجهله .",
+      "question_en": "Mention a verse that criticizes a person for hastily denying what he does not know.",
+      "answer": {
+        "surah": 10,
+        "ayahs": [
+          39
+        ],
+        "ayah_ar": "بَل كَذَّبُوا بِما لَم يُحيطوا بِعِلمِهِ وَلَمَّا يَأْتِهِم تَأويلُهُ كَذلِكَ كَذَّبَ الَّذِينَ مِن قَبْلِهِم\nفانظر كيف كان عاقِبَةُ الظَّالِمينَ) [ يونس : 39].",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 20,
+      "question_ar": "تجد في بعض الخصومات بين البشر أن أحدهم يحقد على الآخر ويسعى في\nأذيته والتخلص منه . أما في القرآن فإنك تجد البغض للكافرين والمنافقين\nمقرونا بسوء أفعالهم لا بأشخاصهم، بحيث هم بغيضون ما بقوا على كفرهم\nومعصيتهم، لكن القرآن يفتح لهم المجال لينفكوا عن هذا الكفر والمعصية\nفيزول عنهم المقت والغضب . اذكر جزءاً من آية يشير إلى هذا المعنى.",
+      "question_en": "In some human disputes, someone may hate another personally and seek to harm or eliminate him. But in the Qur’an, hatred of disbelievers and hypocrites is linked to their actions, not their persons—so they are detested as long as they remain on disbelief and sin, yet the Qur’an leaves the door open for them to leave that disbelief and disobedience, removing anger and hatred. Mention part of a verse indicating this meaning.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          96
+        ],
+        "ayah_ar": "يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ فَإِن تَرْضَوْا عَنْهُمْ فَإِنَّ اللَّهَ لَا يَرْضَى عَنِ الْقَوْمِ\nالْفَاسِقِينَ) [التوبة : 96]",
+        "commentary_ar": "قال السعدي : ولم يقل : \" فإن الله لا يرضى عنهم \" ليدل ذلك على أن باب\nالتوبة مفتوح، وأنهم إذا تابوا هم أو غيرهم، فإن الله يتوب عليهم، ويرضى\nعنهم. وأما ما داموا فاسقين، فإن الله لا يرضى عليهم، لوجود المانع من\nرضاه، وهو خروجهم عن ما رضيه الله لهم من الإيمان والطاعة، إلى ما\nيغضبه من الشرك، والنفاق، والمعاصي. ومثيلها : مَن كَانَ عَدُوًّا لِلَّهِ وَمَلَا بِكَتِهِ\nوَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ) [البقرة : 98]).\nفينبغي للمؤمن أن تكون خصومته للكفار والفاسقين مرتبطة بكفرهم أو\nفسوقهم، لا أن يعاملهم كمن لا ترجى منه توبة.",
+        "commentary_en": "Al-Sa‘di said: Allah did not say “Allah is not pleased with them,” but rather He said ﴿لَا يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ﴾ to indicate that the door of repentance remains open. If they—or others—repent, then Allah will accept their repentance and be pleased with them. But as long as they remain ﴿فَاسِقِينَ﴾, Allah is not pleased with them, because the مانع of His pleasure is present: their خروج from what Allah is pleased with—faith and obedience—into what angers Him: shirk, hypocrisy, and sins.\n\nA similar example is: ﴿فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ﴾ [البقرة : 98]. So a believer’s خصومة should be tied to their كفر or فسق, not treated as if repentance is impossible."
+      }
+    },
+    {
+      "qNum": 21,
+      "question_ar": "فعل تكرر ثلاث مرات بشكل ملفت في آيتين متتاليتين بما يدل على حاجة \nالعبد الماسة إلى توفيق الله ، ومذكرا إيانا بقوله تعالى : (وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ \nبَيْنَ الْمَرْءِ وَقَلْبِهِ) [الأنفال : 24]. اذكر الموطن الذي فيه ذكر الفعل بتصريفين\nمتقاربين.",
+      "question_en": "A verb is repeated three times in a striking way across two consecutive verses, indicating a servant’s intense need for Allah’s tawfiq, and reminding us of: ﴿وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ﴾ [al-Anfal: 24]. Mention the exact place where the verb appears in two close conjugations.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          117,
+          118
+        ],
+        "ayah_ar": "لَقَد تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِن\nبَعْدِ مَا كَادَ يَزِيعُ قُلُوبُ فَرِيقٍ مِنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ وَعَلَى\nالثَّلَاثَةِ الَّذِينَ خُلِفُوا حَتَّى إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ\nأَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللَّهَ هُوَ\nالتَّوَّابُ الرَّحِيمُ) [ التوبة : 117 - 118 ]",
+        "commentary_ar": "جاء في تفسير ابن قيم الجوزية : ( وَتَوْبَةُ العَبْدِ إلى اللَّهِ مَحْفُوفَةٌ بِتَوْبَةٍ مِنَ اللَّهِ\nعَلَيْهِ قَبْلَها ، وتَوْبَةٍ مِنْهُ بَعْدَها ، فَتَوْبَتُهُ بَيْنَ تَوْبَتَيْنِ مِن رَبِّهِ ، سابقةٍ ولاحِقَةٍ ،\nفَإِنَّهُ تَابَ عَلَيْهِ أَوَّلاً إِذْناً وتَوْفِيقاً وإلهاماً ، فَتابَ العَبْدُ ، فَتَابَ اللَّهُ عَلَيْهِ ثَانِيا ،\nقبُولاً وإثابَةً . قَالَ اللَّهُ سُبْحَانَهُ وتَعالى (لَقَد تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ\nوَالْأَنصَارِ فَأَخْبَرَ سُبْحانَهُ أَنَّ تَوْبَتَهُ عَلَيْهِمْ سَبَقَتْ تَوْبَتَهُمْ، وَأَنَّهَا هِي الَّتِي\nجَعَلَتْهُم تَائِبِينَ ) .",
+        "commentary_en": "Ibn al-Qayyim mentioned in his tafsir-like explanation: The servant’s repentance to Allah is surrounded by two repentances from Allah upon him—one before it, and one after it. So the servant’s tawbah is between two tawbahs from his Lord: a preceding one and a following one.\n\nAllah ﴿تَابَ عَلَيْهِ﴾ first—meaning: by granting permission, tawfiq, and inspiring him—so the servant repents. Then Allah ﴿تَابَ عَلَيْهِ﴾ a second time—meaning: by accepting and rewarding. Allah—Glorified and Exalted—said: ﴿لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ﴾, thus informing that His ﴿تَوْبَتَهُ عَلَيْهِمْ﴾ preceded their repentance, and that it is the very thing that made them repentant. This is why the verb appears repeatedly: ﴿تَابَ﴾ … ﴿ثُمَّ تَابَ عَلَيْهِمْ﴾ … ﴿ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا﴾—showing the servant’s need for Allah’s enabling grace."
+      }
+    },
+    {
+      "qNum": 22,
+      "question_ar": "بعض الناس يقنط من رحمة الله لأنه يعاود الذنوب الفينة بعد الفينة \nفيتهم نفسه بالنفاق بدعوى أن ضعفه وتكراره للذنوب دليل على عدم خوفه\nمن الله وعلى عدم جدوى الأعمال الصالحة مع وجود المعاصي . اذكر آية\nتفتح له باب الرجاء في رحمة الله طالما أنه يعمل الصالحات ويقر بأن ذنوبه\nذنوب ولا يدافع عنها.",
+      "question_en": "Some people despair of Allah’s mercy because they fall into sins from time to time, accusing themselves of hypocrisy—claiming that their weakness and repeated sins prove they do not fear Allah and that righteous deeds are useless alongside sins. Mention a verse that opens for them the door of hope in Allah’s mercy, so long as they do righteous deeds and admit their sins as sins without defending them.",
+      "answer": {
+        "surah": 9,
+        "ayahs": [
+          102
+        ],
+        "ayah_ar": "( وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا عَسَى اللَّهُ أَن يَتُوبَ\na\nعَلَيْهِمْ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ ) [التوبة: 102]",
+        "commentary_ar": "قال ابن كثير : ( وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ أَي : أَقَرُّوا بِهَا وَاعْتَرَفُوا فِيمَا بَيْنَهُمْ\nوَبَيْنَ رَبِّهِم ، وَلَهُمْ أَعْمَالُ أُخرَ صَالِحَة ، خَلَطُوا هَذِهِ بِتِلْكَ ، فَهَؤُلَاءِ تَحْتَ عَفْوِ اللَّهِ\nوَغُفْرَانِهِ . وَهَذِهِ الْآيَةُ - وَإِنْ كَانَتْ نَزَلَتْ فِي أُنَاسٍ مُعَيَّنِينَ إِلَّا أَنَّهَا عَامَّةُ فِي كل\nالمذنبين الخاطئين المخلصين الْمُتَلَوِّثِينَ ) .",
+        "commentary_en": "Ibn Kathir said: ﴿وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ﴾ meaning: they admitted them and confessed between themselves and their Lord. And they have other righteous deeds; they ﴿خَلَطُوا﴾ these with those—mixing صالح with سيئ. Such people are under Allah’s ﴿عَفْو﴾ and ﴿غُفْرَان﴾.\n\nAnd this verse—although it was revealed regarding specific people—is general for all sinful, mistaken, sincere people who are stained by sins yet do not justify them: they acknowledge them as sins and still strive with righteous deeds, so the door of ﴿عَسَى اللَّهُ أَن يَتُوبَ عَلَيْهِمْ﴾ remains open."
+      }
     }
-  },
-  {
-    "qNum": 2,
-    "question_ar": "قد تجد إنسانا ظالما فيكون منك شدة عليه بل وتحاربه ويتضرر هو من حربك\nله . حتى إذا خضع طيبت خاطره بقولك : لم يكن هينا علي أن أفعل ما فعلته\nبك ، ولم يكن هينا علي أن أرى المشقة التي لحقت بك والضرر الذي آلمك ،\nلكني ما فعلت الذي فعلته بك إلا رغبة في خيرك وحسن العاقبة لك. اذكر آية\nتذكر بهذا الموقف.",
-    "question_en": "You may be harsh toward an oppressor and even fight him, causing him hardship. Then when he yields, you might say: “It was not easy for me to do what I did to you, nor to see the hardship and pain that reached you, but I only did it seeking your good and a good outcome for you.” Mention a verse that reminds of this kind of meaning.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        128
-      ],
-      "ayah_ar": "﴿لَقَد جَاءَكُمْ رَسُولٌ مِن أَنفُسِكُم عَزيزٌ عَلَيْهِ مَا عَنِتُم حَرِيصٌ عَلَيْكُم\nبِالمُؤمِنينَ رَءُوفٌ رَحِيمٌ﴾ [التوبة : 128 ]",
-      "commentary_ar": "فقد جاء في تفسير الطبري : (قال أبو جعفر : وأولى القولين في ذلك بالصواب،\nقول ابن عباس. وذلك أن الله عم بالخبر عن نبي الله أنه عزيز عليه ما عنت\nقومه، ولم يخصص أهل الإيمان به. فكان صلى الله عليه وسلم [كما جاء\nالخبر من ] الله به، عزيز عليه عَنَتُ جمعهم.\nفإن قال قائل : وكيف يجوز أن يوصف صلى الله عليه وسلم بأنه كان عزيزا\nعليه عنت جميعهم، وهو يقتل كفارهم، ويسبي ذراريهم، ويسلبهم\nأموالهم؟\nقيل : إن إسلامهم، لو كانوا أسلموا، كان أحب إليه من إقامتهم على كفرهم\nوتكذيبهم إياه، حتى يستحقوا ذلك من الله. وإنما وصفه الله جل ثناؤه بأنه\nعزيز عليه عنتهم، لأنه كان عزيزًا عليه أن يأتوا ما يُعنتهم، وذلك أن يضلوا\nفيستوجبوا العنت من الله بالقتل والسبي).",
-      "commentary_en": "As mentioned in al-Tabari’s tafsir: Abu Ja‘far said that the strongest view here is the view of Ibn ‘Abbas. This is because Allah spoke generally, informing about His Prophet that ﴾عَزيزٌ عَلَيْهِ مَا عَنِتُم﴿ — that the hardship and distress of his people was heavy upon him — and He did not restrict this meaning only to the believers. So the Prophet ﷺ truly was, as Allah described him, deeply pained by the hardship of all of them.\n\nIf someone asks: How can he be described as being pained by the hardship of all of them, when he fought their disbelievers, took captives, and took their wealth? The answer is: Their Islam — if they had accepted Islam — would have been more beloved to him than their remaining upon disbelief and denying him until they deserved from Allah what they deserved. Allah described him as ﴾عَزيزٌ عَلَيْهِ مَا عَنِتُم﴿ because it was heavy upon him that they would do what would bring them hardship — namely, that they go astray and thereby become deserving of hardship from Allah, such as killing and captivity."
-    }
-  },
-  {
-    "qNum": 3,
-    "question_ar": "قد يعمل أحدنا معصية فتبقى تُحدث شكاً في قلبه - خاصة ما كان منها في\nمعاونة الكافرين أو الإضرار بالإسلام والمسلمين - مع أن صاحبها قد يكون\nنسيها فلا يفطن إلى هذا المصدر من مصادر مرض قلبه . اذكر آية تذكر حالة\nكهذه.",
-    "question_en": "A person may commit a sin that continues to produce doubt in his heart—especially sins involving aiding disbelievers or harming Islam and the Muslims—while he may have forgotten it and not realize it is a source of his heart’s sickness. Mention a verse that describes such a state.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        110
-      ],
-      "ayah_ar": "لا يَزالُ بُنيانُهُمُ الَّذى بَنَوا رِيبَةً في قُلُوبِهِم إِلَّا أَن تَقَطَّعَ قُلُوبُهُم وَاللَّهُ عَلِيمٌ\nحكيم) [ التوبة : 110 ]",
-      "commentary_ar": "أي أن بنيانهم للمسجد الضرار أورث شكا ونفاقا في قلوبهم.",
-      "commentary_en": "Meaning: their construction of Masjid al-Dirar left behind ﴾رِيبَةً﴿ — doubt and hypocrisy — within their hearts, lingering as a continuing illness rather than something that simply ends."
-    }
-  },
-  {
-    "qNum": 4,
-    "question_ar": "الذي يعترف بذنبه ترجى له المغفرة بخلاف من يُبَرّر ويُشرعن معصيته . اذكر\nآية تدل على هذا.",
-    "question_en": "The one who admits his sin is hoped to receive forgiveness, unlike the one who justifies and rationalizes his disobedience. Mention a verse that indicates this.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        102
-      ],
-      "ayah_ar": "وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِم خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا عَسَى اللَّهُ أَن يَتوبَ\nعَلَيْهِم إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ﴾ [التوبة : 102].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 5,
-    "question_ar": "قد تُدعى إلى قناة تلفزيونية توجهها العام سيئ ، تُدعى إليها لتتكلم عن\nموضوع من مواضيع الخير التي فيها منفعة للناس . اذكر آية تجعلك تميل إلى\nعدم الظهور في هذه القناة.",
-    "question_en": "You may be invited onto a TV channel whose overall direction is bad, even if you are invited to speak about a beneficial good topic. Mention a verse that would make you lean toward not appearing on that channel.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        108
-      ],
-      "ayah_ar": "لا تَقُم فِيهِ أَبَدًا لَمَسْجِدٌ أُسِّسَ عَلَى التَّقوى مِن أَوَّلِ يَومٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ\nرجالٌ يُحِبّونَ أَن يَتَطَهَّرُوا وَاللهُ يُحِبُّ المُطَّهِّرِينَ) [التوبة : 108]",
-      "commentary_ar": "جاء في تفسير البغوي : لا تَقُم فيهِ أَبَدًا قال ابن عباس : \"لا تصل فيه\" منع\nالله تعالى نبيه صلى الله عليه وسلم أن يصلي في مسجد الضرار).",
-      "commentary_en": "In al-Baghawi’s tafsir: ﴾لَا تَقُم فِيهِ أَبَدًا﴿ — Ibn ‘Abbas said: “Do not pray in it.” Allah prevented His Prophet ﷺ from praying in Masjid al-Dirar. The lesson is that a place (or platform) founded upon فساد and wrong foundations should not be honored or strengthened by one’s presence, even if some outward benefit is claimed."
-    }
-  },
-  {
-    "qNum": 6,
-    "question_ar": "اذكر آية تدل على أن آيات القرآن إن لم تنفع أحدا ولم ترفعه وتطهره فهذا\nلخلل فيه لا لخلل في الآيات.",
-    "question_en": "Mention a verse showing that if the verses of the Qur’an do not benefit someone, elevate him, or purify him, then the fault lies in him—not in the verses.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        125
-      ],
-      "ayah_ar": "وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ فَزَادَتهُم رِجسًا إلى رجسهم وماتوا وَهُم كافرون)\n]125 :التوبة[",
-      "commentary_ar": "جاء في تفسير الطبري : (وَأَمَّا الَّذِينَ في قُلُوبِهِم مَرَضٌ)، نفاق وشك في دين الله ،\nفإن السورة التي أنزلت = ( زادتهم رجسًا إلى رجسهم)، وذلك أنهم شكوا في\nأنها من عند الله ، فلم يؤمنوا بها ولم يصدقوا ، فكان ذلك زيادة شك حادثةً في\nتنزيل الله ، لزمهم الإيمان به عليهم، بل ارتابوا بذلك، فكان ذلك زيادة نتن\nمن أفعالهم).",
-      "commentary_en": "In al-Tabari’s tafsir: ﴾وَأَمَّا الَّذِينَ فِي قُلُوبِهِم مَرَضٌ﴿ means: hypocrisy and doubt regarding Allah’s religion. So the surah that was revealed ﴾زَادَتْهُمْ رِجْسًا إِلَى رِجْسِهِمْ﴿ because they doubted that it was from Allah, so they did not believe in it or affirm it. That produced an additional, newly-formed doubt about Allah’s revelation—despite the obligation upon them to believe—so they fell into further suspicion, and this became an added فساد and filth in their deeds. The point is: the defect is in the قلب المريض, not in the آيات."
-    }
-  },
-  {
-    "qNum": 7,
-    "question_ar": "إذا رأيت إنسانا يزيغ وينحرف بعد أن كان على هدى فيما يظهر ، فلا تسئ\nالظن بالله تعالى أنه لم يعط هؤلاء فرصاً، أو أنه لم يوضح لهم الهدى من\nالضلال، بل انحرافهم هذا لعيب فيهم وإهمالهم لما فصل الله أن يعملوا به .\nاذكر آية تدل على ذلك.",
-    "question_en": "If you see someone deviate after seeming to be guided, do not think poorly of Allah—thinking He did not give them chances or did not clarify guidance from misguidance. Rather, their deviation is due to a fault in them and their neglect of what Allah clarified they must follow. Mention a verse indicating this.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        115
-      ],
-      "ayah_ar": "﴿وَمَا كَانَ اللَّهُ لِيُضِلَّ قَوْمًا بَعدَ إِذْ هَداهُم حَتَّى يُبَيِّنَ لَهُم مَا يَتَّقُونَ إِنَّ اللَّهَ بِكُلِّ\nشَيْءٍ عَلِيمٌ﴾ [التوبة : 115].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 8,
-    "question_ar": "آية يأمر الله فيها عباده بأمر ويضمن لهم فيها ضمانا ، لكنه تعالى عقب\nالضمان بعبارة تبين للمؤمنين أن عليهم طاعة الله في أمره هذا بغض النظر\nعن الضمان . أي أنهم ليس لهم أن يطالبوا الله بالضمان ليلتزموا الأمر، فإنما\nالضمان تفضّل من الله تعالى . اذكر هذه الجزء من الآية تحديدا (من كلمتين ).",
-    "question_en": "A verse in which Allah commands His servants and gives them a guarantee, but He then attaches the guarantee to wording that teaches believers they must obey regardless of the guarantee—meaning they are not entitled to demand a guarantee before obeying; the guarantee is purely Allah’s فضل. Mention the exact two-word phrase.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        28
-      ],
-      "ayah_ar": "يَا أَيُّهَا الَّذِينَ آمَنوا إِنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسجِدَ الحَرامَ بَعدَ عَامِهِم\nهذا وَإِن خِفْتُم عَيْلَةً فَسَوفَ يُغنيكُمُ اللَّهُ مِن فَضْلِهِ إِن شَاءَ إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ)\n[التوبة: 28].",
-      "commentary_ar": "قال البيضاوي : (قيده بالمشيئة لتنقطع الآمال إلى الله تعالى ولينبه على أنه\nتعالى متفضل في ذلك وأن الغنى الموعود يكون لبعض دون بعض وفي عام دون\nعام).",
-      "commentary_en": "The intended two-word phrase is ﴾إِن شَاءَ﴿. Al-Baydawi said: He attached it to ﴾المشيئة﴿ so that hopes remain directed to Allah alone, and to highlight that Allah is the One who bestows this as pure فضل. Also, the promised sufficiency may occur for some and not others, and in one year and not another."
-    }
-  },
-  {
-    "qNum": 9,
-    "question_ar": "قيل : إذا أردت أن تعرف عند الله مقامك فانظر فيما أقامك . وقال ابن القيم:\nمن أراد من العمال أن يعرف قدره عند السلطان فلينظر ماذا يوليه من العمل\nوبأي شيء يشغله . اذكر آية تبين أن من هان على الله فإن الله تعالى لا يوفقه\nللطاعات العظيمة.",
-    "question_en": "It is said: If you want to know your status with Allah, look at what He has placed you in. Ibn al-Qayyim said: Whoever wants to know his worth with the ruler should look at what tasks the ruler assigns him. Mention a verse showing that whoever is insignificant to Allah, Allah will not grant him success in great acts of obedience.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        46
-      ],
-      "ayah_ar": "﴿وَلَوْ أَرَادُوا الخروج لَأَعَدُّوا لَهُ عُدَّةً وَلكِن كَرِهَ اللهُ انبعاثَهُم فَثَبَّطَهُم وَقِيلَ اقْعُدوا\nمَعَ القاعدين) [التوبة : 46].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 10,
-    "question_ar": "اذكر آية ترد بها على من يجعل مقياس المفاضلة بين الناس على أساس\n\"الإنسانية \" ويهون من شأن التوحيد في ذلك .",
-    "question_en": "Mention a verse to respond to someone who makes the standard of superiority among people merely “humanity,” while downplaying the importance of tawhid in that matter.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        19
-      ],
-      "ayah_ar": "أَجَعَلْتُم سِقَايَةَ الحاج وَعِمَارَةَ المَسجِدِ الحَرامِ كَمَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَجَاهَدَ\nفي سَبِيلِ اللَّهِ لا يَستَوونَ عِندَ اللَّهِ وَاللَّهُ لا يَهْدِي القَومَ الظَّالِمِينَ) [التوبة : 19 ]",
-      "commentary_ar": "قال السعدي في تفسيره : ( لما اختلف بعض المسلمين، أو بعض المسلمين\nوبعض المشركين، في تفضيل عمارة المسجد الحرام، بالبناء والصلاة والعبادة\nفيه وسقاية الحاج، على الإيمان بالله والجهاد في سبيله، أخبر الله تعالى\n\nبالتفاوت بينهما، فقال : ( أَجَعَلْتُم سِقَايَةَ الحاج وَعِمَارَةَ المَسْجِدِ الْحَرَامِ كَمَنْ آمَنَ\nبِاللَّهِ وَاليَومِ الآخِرِ وَجَاهَدَ في سَبِيلِ اللَّهِ لَا يَستَوونَ عِندَ اللَّهِ).\nفالجهاد والإيمان بالله أفضل من سقاية الحاج وعمارة المسجد الحرام\nبدرجات كثيرة، لأن الإيمان أصل الدين، وبه تقبل الأعمال، وتزكو الخصال).\nفكان هذا رد من الله تعالى على من يفاضل بين عمارة المسجد الحرام والإيمان\nبالله ، فكيف بمن يفاضل بين الإيمان بالله وأعمال دون ذلك بكثير ؟ !",
-      "commentary_en": "Al-Sa‘di said in his tafsir: When some Muslims—or some Muslims and some polytheists—disputed about preferring “maintenance of al-Masjid al-Haram” (through building, prayer, and worship) and “giving water to pilgrims” over “faith in Allah” and “jihad in His path,” Allah clarified the difference between them. He said: ﴾أَجَعَلْتُمْ سِقَايَةَ الحَاجِّ وَعِمَارَةَ المَسْجِدِ الحَرَامِ كَمَنْ آمَنَ بِاللَّهِ وَاليَوْمِ الآخِرِ وَجَاهَدَ فِي سَبِيلِ اللَّهِ لَا يَسْتَوُونَ عِندَ اللَّهِ﴿.\n\nSo jihad and belief in Allah are far superior—by many degrees—because faith is the foundation of the religion, by which deeds are accepted and virtues are purified. This is a refutation of anyone who equates outward “good works” or broad “humanitarian” acts with tawhid and iman. If this is the case regarding major outward acts like serving pilgrims, then how much more so for deeds far below that."
-    }
-  },
-  {
-    "qNum": 11,
-    "question_ar": "من كرم الله تعالى أنه يثيب المؤمن على ما يعانيه في سبيل الغايات العظيمة،\nوعلى أفعال لا يقصد بها الأجر بذاتها، لكن الله تعالى يثيبه باعتبار شرف\nالغاية منها . ولتأكيد هذا المعنى زاد الله في خاتمة آية ثلاث كلمات تميزها عن\nالآية التي بعدها . ما هي هذه الكلمات الثلاثة ؟",
-    "question_en": "From Allah’s generosity is that He rewards the believer for hardships he endures for noble goals, and even for actions not done intending reward in themselves—yet Allah rewards them due to the honor of their purpose. To reinforce this, Allah added three words at the end of a verse that distinguishes it from the verse after it. What are these three words?",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        120
-      ],
-      "ayah_ar": "ما كانَ لِأَهْلِ المَدِينَةِ وَمَن حَولَهُم مِنَ الأَعرابِ أَن يَتَخَلَّفُوا عَن رَسُولِ اللَّهِ وَلَا\nيَرغَبُوا بِأَنفُسِهِم عَن نَفْسِهِ ذَلِكَ بِأَنَّهُم لا يُصِيبُهُم ظَمَأُ وَلَا نَصَبٌ وَلَا مَحْمَصَةٌ فِي\nسَبِيلِ اللَّهِ وَلَا يَطَعُونَ مَوطِئًا يَغِيظُ الكُفَّارَ وَلا يَنالُونَ مِن عَدُةٍ نَيْلًا إِلَّا كُتِبَ لَهُم\nبِهِ عَمَلَ صَالِحٌ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ المُحسنينَ) [التوبة : 120 ]",
-      "commentary_ar": "فالله عز وجل عدد بعض المشاق التي يبلغها المجاهد في سبيل الله (لا يُصيبهم\nظَمَا) يعني عطش ، (وَلا نَصَبٌ) أي تعب ، (وَلا مَخمَصَةٌ) أي مجاعة، في سبيل\nالله).\nفكل هذه المشاق التي تكون في سبيل الله يثاب المرء عليها لشرف الغاية منها\nإِلَّا كُتِبَ لَهُم بِهِ عَمَلٌ صالِحُ) ، وزيادةُ (عَمَل صالح) لتأكيد الإثابة على هذه\nالأعمال.",
-      "commentary_en": "Allah—Most High—listed some of the hardships a mujahid reaches in the path of Allah: ﴾لَا يُصِيبُهُمْ ظَمَأٌ﴿ meaning thirst, ﴾وَلَا نَصَبٌ﴿ meaning fatigue, and ﴾وَلَا مَخْمَصَةٌ﴿ meaning hunger, all ﴾فِي سَبِيلِ اللَّهِ﴿.\n\nEvery such hardship in Allah’s path is rewarded due to the nobility of its goal. Then Allah said: ﴾إِلَّا كُتِبَ لَهُم بِهِ عَمَلٌ صَالِحٌ﴿. The extra phrase ﴾عَمَلٌ صَالِحٌ﴿ is an added emphasis to confirm that these burdens—though not “acts” in themselves like prayer—are still recorded as righteous deeds because of their مقصد and شرف الغاية."
-    }
-  },
-  {
-    "qNum": 12,
-    "question_ar": "كلمة جاءت تصريحا في موضع الضمير دلالة على أن ما ينعم به الله تعالى على\nعباده إنما هو محض تكرم منه سبحانه . ما هي هذه الكلمة.",
-    "question_en": "A word was stated explicitly in place of a pronoun to indicate that what Allah bestows upon His servants is purely from His generosity. What is that word?",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        107
-      ],
-      "ayah_ar": "وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍ فَلا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن يُرِدكَ بِخَيْرٍ فَلَا رَادَّ لِفَضْلِهِ\nيُصِيبُ بِهِ مَن يَشَاءُ مِن عِبادِهِ وَهُوَ الغَفُورُ الرَّحِيمُ) [يونس : 107].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 13,
-    "question_ar": "من الأساليب العربية أسلوب التهييج والإلهاب . كأن تقول لشخص : إن لم\nترد مساعدتي فلا تفعل، وأنت تعلم أنه يريد مساعدتك ولا يظن به إلا هذا.\nلكن كأنك تهيجه وتلهب حماسته ليقول لك : بل أساعدك بلا تردد. اذكر آية\nفيها تهييج وإلهاب للنبي صلى الله عليه وسلم .",
-    "question_en": "One rhetorical style in Arabic is provocation and stirring zeal: like telling someone, “If you don’t want to help me, then don’t,” even though you know he does want to help—so you are stirring him to respond eagerly. Mention a verse containing this kind of stirring addressed to the Prophet ﷺ.",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        94
-      ],
-      "ayah_ar": "فَإِن كُنتَ فِي شَكٍّ مِمَّا أَنزَلنا إِلَيْكَ فَاسْأَلِ الَّذِينَ يَقْرَءُونَ الكِتَابَ مِن قَبْلِكَ لَقَد\nجاءَكَ الحَقُّ مِن رَبِّكَ فَلا تَكُونَنَّ مِنَ المُمتَرينَ) [يونس : 94].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 14,
-    "question_ar": "خمس كلمات تتوسط آية كريمة، تشير إلى أن زمن تبدل الحال على هذه\nالأرض من الإقبال إلى الإدبار يكون في ذروة شعور الأقوام بالقوة والغلبة\nوالتمكين . ما هي هذه الكلمات ؟",
-    "question_en": "Five words in the middle of a noble verse indicate that the moment conditions shift in this world—from ease to downfall—often comes at the peak of people’s feeling of power, dominance, and control. What are these five words?",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        24
-      ],
-      "ayah_ar": "إِنَّمَا مَثَلُ الحَياةِ الدُّنيا كَمَاءٍ أَنزَلْناهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ\nالنَّاسُ وَالأَنْعَامُ حَتَّى إِذا أَخَذَتِ الأَرضُ زُخْرُفَها وَازَّيَّنَت وَظَنَّ أَهْلُهَا أَنَّهُم قَادِرُونَ\nعليها أتاها أمرنا ليلًا أو نَهَارًا فَجَعَلناها خصيدًا كَأَن لَم تَعْنَ بِالْأَمْسِ كَذلِكَ\nنُفَصِّلُ الآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ) [يونس : 24].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 15,
-    "question_ar": "من أساليب القرآن إطماع الكافرين والمنافقين بإشعارهم أن طلبهم أجيب،\nحتى إذا تأملوا وجدوا ما ظنّوه إجابةً عكس ما طلبوا ! اذكر كلمتين من آية\nفيهما هذا الأسلوب.",
-    "question_en": "One Qur’anic style is to lure disbelievers and hypocrites by making them feel their request was granted—then, upon reflection, they find what they thought was an answer is actually the opposite of what they wanted. Mention two words from a verse that contain this style.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        95
-      ],
-      "ayah_ar": "سَيَحْلِفُونَ بِاللَّهِ لَكُم إِذَا انقَلَبْتُم إِلَيْهِم لِتُعرضوا عَنْهُم فَأَعْرِضُوا عَنْهُم إِنَّهُم\nرِجْسٌ وَمَأواهُم جَهَنَّمُ جَزَاءً بِما كانوا يكسبون) [التوبة : 95].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 16,
-    "question_ar": "من أساليب القرآن في الاستهزاء بأهل الباطل \"الاستثناء التهكمي \" ، وهو من\nقبيل تأكيد الشيء بما يشبه ضده.. كقوله تعالى في الأعراف: {إِنَّ الَّذِينَ كَذَّبُوا\nبِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّى يَلِجَ\nالْجَمَلُ فِي سَمِّ الْخِيَاطِ} [الأعراف: 40] . فاستحالة ولوج الجمل في سم الخياط\nتؤكد على خلودهم في العذاب واستحالة دخولهم الجنة. اذكر أربع كلمات\nمن آية فهم منها بعض أهل العلم استثناءا تهكميا مشابها .",
-    "question_en": "A Qur’anic style of mocking falsehood is the “sarcastic exception,” a way of emphasizing something through what resembles its opposite—like in al-A‘raf: {…they will not enter Paradise until the camel passes through the eye of a needle}. Mention four words from a verse that some scholars understood as a similar sarcastic exception.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        110
-      ],
-      "ayah_ar": "لا يَزالُ بُنيانُهُمُ الَّذى بَنَوا رِيبَةً في قُلُوبِهِم إِلَّا أَن تَقَطَّعَ قُلُوبُهُم وَاللَّهُ عَلِيمٌ حَكِيمٌ)\n]110 :التوبة[",
-      "commentary_ar": "قال ابن عاشور في تفسيره : ( وقَوْلُهُ : (إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ) استثناءُ تَهَكُمِيُّ.\nوهو من قبيل تأكيد الشَّيْءِ بما يشبه ضدَّهُ كَقولهِ - تَعالى : ولا يَدْخُلُونَ الجَنَّةَ\nحَتَّى يَلِجَ الجَمَلُ في سَمَّ الخياط ) [الأعراف : 40] ، أي يَبْقى ريبة أَبَدًا إِلَّا أَنْ تُقَطَّعَ\nقلوبهم منهم وما هي بِمُقَطَّعَةٍ ).\nوقد قيل في تفسيرها أيضا أقوال وجيهة منها أن التقطع جاء بمعنى الندم\nالشديد (قاله السعدي) ، وقيل بأنه الموت (تفسير ابن كثير).",
-      "commentary_en": "Ibn ‘Ashur said in his tafsir: His statement ﴾إِلَّا أَنْ تَقَطَّعَ قُلُوبُهُمْ﴿ is an ﴾استثناءُ تَهَكُمِيُّ﴿ (a sarcastic exception). It is a form of emphasizing something by what resembles its opposite—like Allah’s statement: “and they will not enter Paradise until the camel passes through the eye of a needle” [الأعراف : 40]. Meaning: their structure remains ﴾رِيبَةً﴿ forever, “except” if their hearts are cut to pieces—yet they will not be cut to pieces in that literal sense. The point is permanence.\n\nIt was also explained in other sound ways: that “cutting” refers to intense regret (as al-Sa‘di said), or that it refers to death (as in Ibn Kathir’s tafsir)."
-    }
-  },
-  {
-    "qNum": 17,
-    "question_ar": "ذم الله في الكفار أنهم سرعان ما يؤمنون بالأصنام رغم عدم يقينهم ، بل هم\nيظنون ظناً ولا يقين في قلوبهم تجاه معبوداتهم الباطلة . اذكر آية توضح هذا\nالمعنى وتشير إلى أن المؤمن ينبغى أن يكون إيمانه يقينيا .",
-    "question_en": "Allah criticized the disbelievers for quickly believing in idols despite lacking certainty; they only follow conjecture with no true conviction toward their false deities. Mention a verse that shows this, and indicates that a believer’s faith should be based on certainty.",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        36
-      ],
-      "ayah_ar": "وَمَا يَتَّبِعُ أَكْثَرُهُم إِلَّا ظَنَّا إِنَّ الظَّنَّ لا يُغنى مِنَ الْحَقِّ شَيْئًا إِنَّ اللَّهَ عَلِيمٌ بِمَا\nيفعلونَ) [يونس : 36].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 18,
-    "question_ar": "اذكر آية تحض على كل أنواع علوم الطبيعة النافعة.",
-    "question_en": "Mention a verse that encourages all beneficial natural sciences.",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        101
-      ],
-      "ayah_ar": "قُل انظروا ماذا في السَّماواتِ وَالأَرْضِ وَما تُغني الآياتُ وَالنُّذُرُ عَن قَوْمٍ لَا يُؤْمِنُونَ)\n]101:يونس[",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 19,
-    "question_ar": "اذكر آية تعيب على الإنسان أن يسارع إلى إنكار ما يجهله .",
-    "question_en": "Mention a verse that criticizes a person for hastily denying what he does not know.",
-    "answer": {
-      "surah": 10,
-      "ayahs": [
-        39
-      ],
-      "ayah_ar": "بَل كَذَّبُوا بِما لَم يُحيطوا بِعِلمِهِ وَلَمَّا يَأْتِهِم تَأويلُهُ كَذلِكَ كَذَّبَ الَّذِينَ مِن قَبْلِهِم\nفانظر كيف كان عاقِبَةُ الظَّالِمينَ) [ يونس : 39].",
-      "commentary_ar": "",
-      "commentary_en": ""
-    }
-  },
-  {
-    "qNum": 20,
-    "question_ar": "تجد في بعض الخصومات بين البشر أن أحدهم يحقد على الآخر ويسعى في\nأذيته والتخلص منه . أما في القرآن فإنك تجد البغض للكافرين والمنافقين\nمقرونا بسوء أفعالهم لا بأشخاصهم، بحيث هم بغيضون ما بقوا على كفرهم\nومعصيتهم، لكن القرآن يفتح لهم المجال لينفكوا عن هذا الكفر والمعصية\nفيزول عنهم المقت والغضب . اذكر جزءاً من آية يشير إلى هذا المعنى.",
-    "question_en": "In some human disputes, someone may hate another personally and seek to harm or eliminate him. But in the Qur’an, hatred of disbelievers and hypocrites is linked to their actions, not their persons—so they are detested as long as they remain on disbelief and sin, yet the Qur’an leaves the door open for them to leave that disbelief and disobedience, removing anger and hatred. Mention part of a verse indicating this meaning.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        96
-      ],
-      "ayah_ar": "يَحْلِفُونَ لَكُمْ لِتَرْضَوْا عَنْهُمْ فَإِن تَرْضَوْا عَنْهُمْ فَإِنَّ اللَّهَ لَا يَرْضَى عَنِ الْقَوْمِ\nالْفَاسِقِينَ) [التوبة : 96]",
-      "commentary_ar": "قال السعدي : ولم يقل : \" فإن الله لا يرضى عنهم \" ليدل ذلك على أن باب\nالتوبة مفتوح، وأنهم إذا تابوا هم أو غيرهم، فإن الله يتوب عليهم، ويرضى\nعنهم. وأما ما داموا فاسقين، فإن الله لا يرضى عليهم، لوجود المانع من\nرضاه، وهو خروجهم عن ما رضيه الله لهم من الإيمان والطاعة، إلى ما\nيغضبه من الشرك، والنفاق، والمعاصي. ومثيلها : مَن كَانَ عَدُوًّا لِلَّهِ وَمَلَا بِكَتِهِ\nوَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ) [البقرة : 98]).\nفينبغي للمؤمن أن تكون خصومته للكفار والفاسقين مرتبطة بكفرهم أو\nفسوقهم، لا أن يعاملهم كمن لا ترجى منه توبة.",
-      "commentary_en": "Al-Sa‘di said: Allah did not say “Allah is not pleased with them,” but rather He said ﴾لَا يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ﴿ to indicate that the door of repentance remains open. If they—or others—repent, then Allah will accept their repentance and be pleased with them. But as long as they remain ﴾فَاسِقِينَ﴿, Allah is not pleased with them, because the مانع of His pleasure is present: their خروج from what Allah is pleased with—faith and obedience—into what angers Him: shirk, hypocrisy, and sins.\n\nA similar example is: ﴾فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ﴿ [البقرة : 98]. So a believer’s خصومة should be tied to their كفر or فسق, not treated as if repentance is impossible."
-    }
-  },
-  {
-    "qNum": 21,
-    "question_ar": "فعل تكرر ثلاث مرات بشكل ملفت في آيتين متتاليتين بما يدل على حاجة \nالعبد الماسة إلى توفيق الله ، ومذكرا إيانا بقوله تعالى : (وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ \nبَيْنَ الْمَرْءِ وَقَلْبِهِ) [الأنفال : 24]. اذكر الموطن الذي فيه ذكر الفعل بتصريفين\nمتقاربين.",
-    "question_en": "A verb is repeated three times in a striking way across two consecutive verses, indicating a servant’s intense need for Allah’s tawfiq, and reminding us of: ﴾وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ﴿ [al-Anfal: 24]. Mention the exact place where the verb appears in two close conjugations.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        117,
-        118
-      ],
-      "ayah_ar": "لَقَد تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِن\nبَعْدِ مَا كَادَ يَزِيعُ قُلُوبُ فَرِيقٍ مِنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُ بِهِمْ رَءُوفٌ رَّحِيمٌ وَعَلَى\nالثَّلَاثَةِ الَّذِينَ خُلِفُوا حَتَّى إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ\nأَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا إِنَّ اللَّهَ هُوَ\nالتَّوَّابُ الرَّحِيمُ) [ التوبة : 117 - 118 ]",
-      "commentary_ar": "جاء في تفسير ابن قيم الجوزية : ( وَتَوْبَةُ العَبْدِ إلى اللَّهِ مَحْفُوفَةٌ بِتَوْبَةٍ مِنَ اللَّهِ\nعَلَيْهِ قَبْلَها ، وتَوْبَةٍ مِنْهُ بَعْدَها ، فَتَوْبَتُهُ بَيْنَ تَوْبَتَيْنِ مِن رَبِّهِ ، سابقةٍ ولاحِقَةٍ ،\nفَإِنَّهُ تَابَ عَلَيْهِ أَوَّلاً إِذْناً وتَوْفِيقاً وإلهاماً ، فَتابَ العَبْدُ ، فَتَابَ اللَّهُ عَلَيْهِ ثَانِيا ،\nقبُولاً وإثابَةً . قَالَ اللَّهُ سُبْحَانَهُ وتَعالى (لَقَد تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ\nوَالْأَنصَارِ فَأَخْبَرَ سُبْحانَهُ أَنَّ تَوْبَتَهُ عَلَيْهِمْ سَبَقَتْ تَوْبَتَهُمْ، وَأَنَّهَا هِي الَّتِي\nجَعَلَتْهُم تَائِبِينَ ) .",
-      "commentary_en": "Ibn al-Qayyim mentioned in his tafsir-like explanation: The servant’s repentance to Allah is surrounded by two repentances from Allah upon him—one before it, and one after it. So the servant’s tawbah is between two tawbahs from his Lord: a preceding one and a following one.\n\nAllah ﴾تَابَ عَلَيْهِ﴿ first—meaning: by granting permission, tawfiq, and inspiring him—so the servant repents. Then Allah ﴾تَابَ عَلَيْهِ﴿ a second time—meaning: by accepting and rewarding. Allah—Glorified and Exalted—said: ﴾لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنصَارِ﴿, thus informing that His ﴾تَوْبَتَهُ عَلَيْهِمْ﴿ preceded their repentance, and that it is the very thing that made them repentant. This is why the verb appears repeatedly: ﴾تَابَ﴿ … ﴾ثُمَّ تَابَ عَلَيْهِمْ﴿ … ﴾ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا﴿—showing the servant’s need for Allah’s enabling grace."
-    }
-  },
-  {
-    "qNum": 22,
-    "question_ar": "بعض الناس يقنط من رحمة الله لأنه يعاود الذنوب الفينة بعد الفينة \nفيتهم نفسه بالنفاق بدعوى أن ضعفه وتكراره للذنوب دليل على عدم خوفه\nمن الله وعلى عدم جدوى الأعمال الصالحة مع وجود المعاصي . اذكر آية\nتفتح له باب الرجاء في رحمة الله طالما أنه يعمل الصالحات ويقر بأن ذنوبه\nذنوب ولا يدافع عنها.",
-    "question_en": "Some people despair of Allah’s mercy because they fall into sins from time to time, accusing themselves of hypocrisy—claiming that their weakness and repeated sins prove they do not fear Allah and that righteous deeds are useless alongside sins. Mention a verse that opens for them the door of hope in Allah’s mercy, so long as they do righteous deeds and admit their sins as sins without defending them.",
-    "answer": {
-      "surah": 9,
-      "ayahs": [
-        102
-      ],
-      "ayah_ar": "( وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا عَسَى اللَّهُ أَن يَتُوبَ\na\nعَلَيْهِمْ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ ) [التوبة: 102]",
-      "commentary_ar": "قال ابن كثير : ( وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ أَي : أَقَرُّوا بِهَا وَاعْتَرَفُوا فِيمَا بَيْنَهُمْ\nوَبَيْنَ رَبِّهِم ، وَلَهُمْ أَعْمَالُ أُخرَ صَالِحَة ، خَلَطُوا هَذِهِ بِتِلْكَ ، فَهَؤُلَاءِ تَحْتَ عَفْوِ اللَّهِ\nوَغُفْرَانِهِ . وَهَذِهِ الْآيَةُ - وَإِنْ كَانَتْ نَزَلَتْ فِي أُنَاسٍ مُعَيَّنِينَ إِلَّا أَنَّهَا عَامَّةُ فِي كل\nالمذنبين الخاطئين المخلصين الْمُتَلَوِّثِينَ ) .",
-      "commentary_en": "Ibn Kathir said: ﴾وَآخَرُونَ اعْتَرَفُوا بِذُنُوبِهِمْ﴿ meaning: they admitted them and confessed between themselves and their Lord. And they have other righteous deeds; they ﴾خَلَطُوا﴿ these with those—mixing صالح with سيئ. Such people are under Allah’s ﴾عَفْو﴿ and ﴾غُفْرَان﴿.\n\nAnd this verse—although it was revealed regarding specific people—is general for all sinful, mistaken, sincere people who are stained by sins yet do not justify them: they acknowledge them as sins and still strive with righteous deeds, so the door of ﴾عَسَى اللَّهُ أَن يَتُوبَ عَلَيْهِمْ﴿ remains open."
-    }
-  }
-]
+  ]
 }

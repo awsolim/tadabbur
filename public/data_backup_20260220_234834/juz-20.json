@@ -1,0 +1,80 @@
+{
+  "juz": 20,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "كلمة وردت في آية ، تصف الكفار بأنهم يجعلون لله نظيرا.",
+      "question_en": "Mention a word/phrase in a verse that describes the disbelievers as making an equal )a counterpart( to Allah.",
+      "answer": {
+        "surah": 27,
+        "ayahs": [
+          60
+        ],
+        "ayah_ar": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنزَلَ لَكُم مِّنَ السَّمَاءِ مَاءً فَأَنبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَّعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+        "ayah_en": "Or who created the heavens and the earth, and sent down for you water from the sky, then by it We caused gardens of delightful beauty to grow—gardens whose trees you could not have made grow? Is there a god along with Allah? Rather, they are a people who set up equals.",
+        "commentary_ar": "﴿أَإِلَٰهٌ مَعَ اللَّهِ﴾ فعل هذه الأفعال حتى يُعبد معه ويُشرك به؟ ﴿بَلْ هُمْ قَوْمٌ يَعْدِلُونَ﴾ أي يَعْدِلون به غيره ويُسوّون به سواه مع علمهم أنه وحده خالق العالم العلوي والسفلي ومنزل الرزق. (تفسير السعدي)",
+        "commentary_en": "“Is there a god along with Allah?” meaning: who could do these acts so that he deserves worship alongside Allah? “Rather, they are a people who set up equals,” i.e., they equate others with Allah and make rivals, despite knowing that He alone is the Creator and the One who sends down provision. (Sa‘di)"
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "آية تبين أن الكفار لم يكونوا على قول واحد في شأن البعث بعد الموت.",
+      "question_en": "Mention a verse showing that the disbelievers were not united upon one view regarding resurrection after death.",
+      "answer": {
+        "surah": 27,
+        "ayahs": [
+          66
+        ],
+        "ayah_ar": "بَلِ ادَّارَكَ عِلْمُهُمْ فِي الْآخِرَةِ ۚ بَلْ هُمْ فِي شَكٍّ مِّنْهَا ۚ بَلْ هُم مِّنْهَا عَمُونَ",
+        "ayah_en": "Rather, their knowledge fails them regarding the Hereafter. Rather, they are in doubt about it. Rather, they are blind to it.",
+        "commentary_ar": "الآية تُظهر تدرّج اضطرابهم: فمرةً يُشعر السياق بانقطاع علمهم بالآخرة، ثم يصرّح بوجود الشك، ثم يصفهم بالعمى عنها؛ وهذا يدل على أنهم ليسوا على يقين ولا على قولٍ ثابتٍ واحدٍ في شأن البعث.",
+        "commentary_en": "The verse highlights their wavering and inconsistency: it first indicates the collapse of their understanding regarding the Hereafter, then states they are in doubt, and finally describes them as blind to it—showing they have no stable, certain position on resurrection."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "من رحمة الله عز وجل أنه إذا أراد أن يبتلي المؤمن ببلاء طويل ، فقد يريه في بدايات البلاء أمارات تشعر بأن هذا البلاء سينتهي. اذكر آية فيها بشارة كهذه.",
+      "question_en": "Mention a verse showing Allah’s mercy: when He decrees a long trial for a believer, He may give early signs that it will eventually end )a glad tiding like that(.",
+      "answer": {
+        "surah": 28,
+        "ayahs": [
+          85
+        ],
+        "ayah_ar": "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّي أَعْلَمُ مَن جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ",
+        "ayah_en": "Indeed, the One who imposed the Qur’an upon you will surely return you to a place of return. Say: My Lord knows best who has come with guidance and who is in clear error.",
+        "commentary_ar": "عن ابن عباس: ﴿لَرَادُّكَ إِلَىٰ مَعَادٍ﴾ قال: إلى مكة. فكانت هذه بشارة مبكرة للنبي ﷺ في وقت الابتلاء والهجرة بأن الله سيرده إلى مكة ويُتمّ أمره.",
+        "commentary_en": "Ibn ‘Abbas explained “will surely return you to a place of return” as: back to Makkah. It served as an early glad tiding to the Prophet ﷺ during hardship that Allah would bring him back and complete His promise."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "آية فيها اعتراف المجموعة من المشركين بصحة الإسلام مع تذرعهم بحجة واهية . اذكر هذه الآية .",
+      "question_en": "Mention a verse where a group of polytheists implicitly acknowledges the truth of Islam while making a weak excuse )a flimsy pretext(.",
+      "answer": {
+        "surah": 28,
+        "ayahs": [
+          57
+        ],
+        "ayah_ar": "وَقَالُوا إِن نَّتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَا ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "ayah_en": "They said: If we were to follow the guidance with you, we would be snatched away from our land. Have We not established for them a secure sanctuary to which fruits of every kind are brought as provision from Us? But most of them do not know.",
+        "commentary_ar": "قال ابن عاشور: هذه بعض معاذيرهم، قالها فريقٌ منهم ممن غلبه الحياء على المكابرة، وغلبه أُلفُ ما هو عليه من حال الكفر على الاعتراف بالحق، فاعتذروا بهذه المعذرة. ورُوي عن ابن عباس أن الحارث بن عثمان بن نوفل وناساً من قريش جاءوا النبي ﷺ فقال الحارث: «إنا لنعلم أن قولك حق ولكنّا نخاف إن اتبعنا الهدى معك ونؤمن بك أن يتخطفنا العرب من أرضنا ولا طاقة لنا بهم، وإنما نحن أَكَلَةُ رأس»؛ أي قلة. فهؤلاء اعترفوا في ظاهر الأمر بأن النبي ﷺ يدعو إلى الهدى.",
+        "commentary_en": "Ibn ‘Ashur notes this is among their excuses: a group of them felt too embarrassed to openly deny, yet their attachment to disbelief prevented honest acceptance, so they offered this pretext. It is reported from Ibn ‘Abbas that al-Harith b. ‘Uthman and others told the Prophet ﷺ: “We know your words are true, but we fear that if we follow guidance with you, the Arabs will seize us from our land; we are too few.” Thus they effectively admitted the call was to guidance, but hid behind a weak fear-based excuse."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "المؤمن يحب لأخيه ما يحب لنفسه ويخاف عليه كخيفته على نفسه . اذكر أربع كلمات تشير إلى هذا المعنى.",
+      "question_en": "A believer loves for his brother what he loves for himself and fears for him as he fears for himself. Mention four words that point to this meaning.",
+      "answer": {
+        "surah": 29,
+        "ayahs": [
+          32
+        ],
+        "ayah_ar": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ",
+        "ayah_en": "He said: Indeed, Lot is in it. They said: We know best who is in it; we will surely save him and his family—except his wife; she is among those who remain behind.",
+        "commentary_ar": "الأربع كلمات هي: ﴿إِنَّ فِيهَا لُوطًا﴾. قال ابن عاشور: هذا خبر مستعمل في التذكير بسنة الله مع رسله من الإنجاء من العذاب الذي يحل بأقوامهم، وهو تعريضٌ للملائكة بتخصيص لوط ممن شملتهم القرية في حكم الإهلاك. ولوط وإن لم يكن من أهل القرية بالأصالة إلا أن كونه بينهم يقتضي الخشية عليه من أن يشمله الإهلاك.",
+        "commentary_en": "The four words are: “Indeed, Lot is in it.” Ibn ‘Ashur explains this statement is meant to remind of Allah’s consistent way of saving His messengers from punishment that descends upon their peoples. It reflects concern for Lot—since his presence among them could raise fear that he might be included—so it’s like saying: “Remember, a prophet is there.”"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "juz": 16,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "من الأساليب اللطيفة في الدعاء أن تتوسل إلى الله تعالى بأنك يا رب لم تَرُدَّني خائبا فيما كنت ادعوك من قبل، وعودتني على كرمك وجميل صنعك بي فأكرمني باستجابة هذا الدعاء أيضا . اذكر آية تحمل هذا المعنى.",
+      "question_en": "Mention a verse that shows a gentle style of supplication: asking Allah by saying that He has never disappointed you in your previous du‘ā’, and that you have known His generosity—so you ask Him to answer this du‘ā’ as well.",
+      "answer": {
+        "surah": 19,
+        "ayahs": [4],
+        "ayah_ar": "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيًّا",
+        "ayah_en": "He said, “My Lord, indeed my bones have weakened, and my head has flared with gray, and never have I been, in my supplication to You, my Lord, unhappy.”",
+        "commentary_ar": "في قوله: «وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا» توسلٌ بجميل صنع الله السابق معه؛ أي لم تردني خائبًا فيما دعوتك من قبل، فارجُ إجابة الدعاء الآن أيضًا.",
+        "commentary_en": "The phrase “I have never been… unhappy” is a plea based on Allah’s past generosity: You never turned me away before, so I ask You to answer me now as well."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر آية فيها إضافة ( من ثلاث كلمات ) تُنَزِّه نبياً عن نقيصةٍ نَسَبتها إليه كتب أهل الكتاب المحرفة .",
+      "question_en": "Mention a verse that includes an added phrase (three words) which clears a prophet from a defect attributed to him in distorted scriptures of the People of the Book.",
+      "answer": {
+        "surah": 20,
+        "ayahs": [22],
+        "ayah_ar": "وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ آيَةً أُخْرَىٰ",
+        "ayah_en": "And draw your hand to your side; it will come out white, without harm—another sign.",
+        "commentary_ar": "قوله: «مِنْ غَيْرِ سُوءٍ» تنزيهٌ لموسى عليه السلام عن العيب (كالبَرَص) الذي نسبته بعض كتب أهل الكتاب المحرّفة إلى يده عند إخراجها.",
+        "commentary_en": "The phrase “without harm” (min ghayri sū’) exonerates Mūsā عليه السلام from any defect (such as leprosy) that some distorted reports claim."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَابِيلَ وَلَمْ تَرْقُبْ قَوْلِي) [ طه : 94] . تُفسّر هذه الآية بآية أخرى من غير هذا الجزء، اذكرها.",
+      "question_en": "The verse (Tāhā 94) is explained by another verse outside this juz. Mention that verse.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [150],
+        "ayah_ar": "وَلَمَّا رَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِي أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ قَالَ ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "ayah_en": "And when Moses returned to his people angry and sorrowful, he said, “How wretched is what you have done after me! Did you hasten the command of your Lord?” And he threw down the tablets and seized his brother by the head, pulling him toward him. He said, “O son of my mother, indeed the people overpowered me and nearly killed me, so do not let the enemies rejoice over me, and do not place me with the wrongdoing people.”",
+        "commentary_ar": "هذه الآية تُبيّن سبب قول هارون: «إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ»؛ إذ إنه أنكر عليهم حتى استضعفوه وكادوا يقتلونه، ولم يسكت عن عبادة العجل بحجة “الوحدة”.",
+        "commentary_en": "This verse clarifies Hārūn’s words about fearing division: he did forbid them, but they overpowered him and nearly killed him—so he did not tolerate the calf-worship under a “unity” excuse."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "استخدام ضمير معين في كلمة من آية اشتق منها بعض العلماء أن نفقة المرأة على زوجها في الكسوة والطعام والشراب والمسكن . اذكر الكلمة التي فيها هذا الضمير.",
+      "question_en": "A specific pronoun in a word of a verse was used by some scholars to infer that a wife’s maintenance (food, drink, clothing, housing) is upon the husband. Mention the word containing that pronoun.",
+      "answer": {
+        "surah": 20,
+        "ayahs": [117, 118, 119],
+        "ayah_ar": "فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ ۝ إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ ۝ وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ",
+        "ayah_en": "So We said, “O Adam, indeed this is an enemy to you and to your wife. So let him not remove you both from Paradise so that you would suffer. Indeed, it is (granted) for you that you will not be hungry therein nor unclothed, and that you will not be thirsty therein nor be scorched by the sun.”",
+        "commentary_ar": "الكلمة المقصودة: «فَتَشْقَىٰ» (جاءت بالمفرد المخاطَب لآدم). استنبط بعض أهل العلم من إفراد الشقاء به أن مؤنة النفقة جرت على الزوج (الطعام والشراب والكسوة والمسكن).",
+        "commentary_en": "Target word: “فَتَشْقَىٰ” (so you would suffer), addressed singularly to Adam. Some scholars inferred from this singular address that the burden of maintenance falls upon the husband (food, drink, clothing, housing)."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "يجوز البعض لنفسه مشاركة أهل الكتاب في أعيادهم الدينية بحجة التسامح وكأنه غفل فيما غفل عن آية تُبَيِّن فزع الخلائق غير الثقلين من عقيدتهم الشركية . اذكر هذه الآية .",
+      "question_en": "Some people justify participating in the religious holidays of the People of the Book under ‘tolerance,’ overlooking a verse that depicts the terror of creation (besides humans and jinn) at their shirk. Mention that verse.",
+      "answer": {
+        "surah": 19,
+        "ayahs": [90],
+        "ayah_ar": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+        "ayah_en": "The heavens nearly rupture from it, and the earth splits open, and the mountains collapse in devastation.",
+        "commentary_ar": "تصف الآية عِظَم فظاعة الشرك حتى تكاد السماوات تتفطر والأرض تنشق والجبال تخرّ؛ وهذا يردع عن تمييع شأن عقائدهم الشركية تحت شعار “التسامح”.",
+        "commentary_en": "The verse portrays how monstrous shirk is—so severe that the heavens nearly tear apart—warning against trivializing such beliefs under the banner of “tolerance.”"
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "ثلاث كلماتٍ من آية فيها ذِكْرٌ لاسم من أسماء الله الحسنى كنا نتوقع أن يُذكر غيره ، ولكن ذكر هذا الاسم في ذلك الموضع يوحي بِعِظَمِ جُرم من يعذبه الله .",
+      "question_en": "Mention three words from a verse where one of Allah’s Names is used unexpectedly (instead of what might be expected), indicating the enormity of the جرم of the one punished.",
+      "answer": {
+        "surah": 19,
+        "ayahs": [45],
+        "ayah_ar": "يَا أَبَتِ إِنِّي أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ الرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَانِ وَلِيًّا",
+        "ayah_en": "O my father, indeed I fear that a punishment from the Most Merciful may touch you, so you would become an ally to Satan.",
+        "commentary_ar": "العبارة المطلوبة: «عَذَابٌ مِّنَ الرَّحْمَٰنِ». ذِكر (الرَّحمن) هنا يوحي أن من يعاقبه الله مع سعة رحمته فقد بلغ في جرمه مبلغًا عظيمًا يستوجب الحرمان من الرحمة.",
+        "commentary_en": "Required phrase: “عَذَابٌ مِّنَ الرَّحْمَٰنِ” (a punishment from the Most Merciful). Using “the Most Merciful” here highlights how grave the جرم is if one still deserves punishment despite Allah’s vast mercy."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "اذكر آية كريمة فيها مثل هذا العوض في حق نبي من الأنبياء.",
+      "question_en": "Mention a verse showing this kind of compensation (whoever leaves something for Allah, Allah replaces it with something better) in the story of a prophet.",
+      "answer": {
+        "surah": 19,
+        "ayahs": [49],
+        "ayah_ar": "فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا",
+        "ayah_en": "So when he withdrew from them and from what they worshipped besides Allah, We granted him Isaac and Jacob, and each We made a prophet.",
+        "commentary_ar": "لما ترك إبراهيم قومه وما يعبدون من دون الله عوّضه الله بأن وهب له إسحاق ويعقوب وجعل كلًّا منهما نبيًا؛ فهذا من أعظم العوض لمن ترك شيئًا لله.",
+        "commentary_en": "When Abraham withdrew from his people and their false worship, Allah compensated him by granting Isaac and Jacob and making each a prophet—an example of عظیم compensation for leaving something for Allah."
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "أهل الباطل أتباع هوى . فلا ينبغي للمؤمن أن يضعف يقينه بدينه إذا رأى كثرتهم وصلابتهم في باطلهم، ولا ينبغي أن يعطيهم الفرص ليصرفوه عن العمل للآخرة فيهلك . اذكر آية فيها هذا المعنى.",
+      "question_en": "People of falsehood follow desire. A believer should not weaken when seeing their numbers or stubbornness, and should not give them chances to turn him away from the Hereafter. Mention a verse with this meaning.",
+      "answer": {
+        "surah": 20,
+        "ayahs": [16],
+        "ayah_ar": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَىٰ",
+        "ayah_en": "So do not let one who does not believe in it and follows his desire avert you from it, lest you perish.",
+        "commentary_ar": "الآية نهيٌ عن التمكين لأهل الهوى أن يصرفوا المؤمن عن الإيمان بالآخرة والعمل لها، والتحذير من عاقبة ذلك: «فَتَرْدَىٰ».",
+        "commentary_en": "The verse warns against allowing desire-followers to turn you away from the Hereafter and its preparation, and it cautions of the consequence: “lest you perish.”"
+      }
+    }
+  ]
+}
