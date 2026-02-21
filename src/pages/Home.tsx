@@ -52,7 +52,7 @@ export default function Home() {
             background: "#e7dfbf", // NEW: warm beige similar to the screenshot
           }}
         >
-          Questions of the Hypocrites
+          Advanced Questions
         </Link>
       </div>
     </div>
