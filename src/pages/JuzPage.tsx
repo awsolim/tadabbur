@@ -3,20 +3,6 @@ import { Link, useParams } from "react-router-dom";
 import { loadJuz } from "../lib/loadJuz";
 import type { JuzData, TranslationData } from "../types";
 
-// normalize Arabic copied from PDFs so it can flow full width.
-// - Keeps real paragraph breaks (blank lines).
-// - Converts single hard line breaks into spaces.
-// Accept possibly-missing text safely.
-function normalizeArabicParagraphs(text?: string) {
-  const safeText = text ?? "";
-
-  return safeText
-    .replace(/\r/g, "")
-    .split(/\n\s*\n+/)
-    .map((p) => p.replace(/\n+/g, " ").trim())
-    .join("\n\n");
-}
-
 /**
  * English + Arabic Surah name lookups by index (1..114).
  * Used to render references like "Surah Al-Baqarah — Ayah 45-46".
@@ -264,6 +250,19 @@ function hasArabicLetters(text: string) {
   return /[\u0600-\u06FF]/.test(text);
 }
 
+/** Create a friendly ayah label: "45" or "45-46" or "45, 47". */
+function formatAyahsLabel(ayahs: number[]) {
+  if (!ayahs || ayahs.length === 0) return "";
+  const sorted = [...ayahs].sort((a, b) => a - b);
+
+  const isConsecutive =
+    sorted.length > 1 &&
+    sorted.every((n, idx) => (idx === 0 ? true : n === sorted[idx - 1] + 1));
+
+  if (isConsecutive) return `${sorted[0]}-${sorted[sorted.length - 1]}`;
+  return sorted.join(", ");
+}
+
 function AyahToken({ inner }: { inner: string }) {
   return (
     <span
@@ -295,26 +294,14 @@ function renderWithAyahBrackets(text: string) {
  */
 function getEnglishAyahs(translation: TranslationData | null, surah: number, ayahs: number[]) {
   if (!translation) return "";
-  const verses = translation[String(surah)];
+  const verses = (translation as any)[String(surah)];
   if (!Array.isArray(verses)) return "";
 
   const texts = ayahs
-    .map((n) => verses.find((v) => v.verse === n)?.text ?? "")
+    .map((n) => verses.find((v: any) => v.verse === n)?.text ?? "")
     .filter(Boolean);
 
   return texts.join("\n");
-}
-
-/** Create a friendly ayah label: "45" or "45-46" or "45, 47". */
-function formatAyahsLabel(ayahs: number[]) {
-  if (!ayahs || ayahs.length === 0) return "";
-  const sorted = [...ayahs].sort((a, b) => a - b);
-
-  const isConsecutive =
-    sorted.length > 1 && sorted.every((n, idx) => (idx === 0 ? true : n === sorted[idx - 1] + 1));
-
-  if (isConsecutive) return `${sorted[0]}-${sorted[sorted.length - 1]}`;
-  return sorted.join(", ");
 }
 
 export default function JuzPage() {
@@ -324,12 +311,12 @@ export default function JuzPage() {
   const rawId =
     (params as any).id ?? (params as any).juz ?? (params as any).juzNumber ?? (params as any).num;
 
-  // NEW: compute a "juzKey" that can be number (1..30) OR string ("bonus")
+  // Compute a "juzKey" that can be number (1..30) OR string ("bonus")
   const juzKey = useMemo(() => {
-    if (!rawId) return null; // NEW: no route param
-    const s = String(rawId).trim(); // NEW: normalize to string
-    if (/^\d+$/.test(s)) return Number(s); // NEW: numeric ids become numbers
-    return s; // NEW: non-numeric ids stay as strings (e.g. "bonus")
+    if (!rawId) return null;
+    const s = String(rawId).trim();
+    if (/^\d+$/.test(s)) return Number(s);
+    return s;
   }, [rawId]);
 
   const [data, setData] = useState<JuzData | null>(null);
@@ -348,11 +335,11 @@ export default function JuzPage() {
     setData(null);
 
     if (juzKey === null) {
-      setError("Invalid Juz id in URL."); // NEW: consistent error for missing param
+      setError("Invalid Juz id in URL.");
       return;
     }
 
-    loadJuz(juzKey) // NEW: loadJuz now supports number | string
+    loadJuz(juzKey)
       .then((result) => setData(result))
       .catch((e: unknown) => {
         const msg = e instanceof Error ? e.message : typeof e === "string" ? e : JSON.stringify(e);
@@ -376,6 +363,7 @@ export default function JuzPage() {
 
   const headers = {
     answer: language === "Arabic" ? "الآية" : "Answer",
+    translation: language === "Arabic" ? "الترجمة" : "Translation",
     explanation: language === "Arabic" ? "الشرح" : "Explanation",
   };
 
@@ -421,11 +409,11 @@ export default function JuzPage() {
     );
   }
 
-  // NEW: nicer title for the bonus section
+  // Nicer title for the bonus section
   const pageTitle =
     typeof juzKey === "string" && juzKey.trim().toLowerCase() === "bonus"
-      ? "Outstanding Questions" // NEW: English title shown on the page (أسئلة الفائقين)
-      : `Juz ${data?.juz}`; // existing behavior
+      ? "Outstanding Questions"
+      : `Juz ${data?.juz}`;
 
   return (
     <div className="min-h-screen bg-slate-50">
@@ -497,23 +485,27 @@ export default function JuzPage() {
             const hasExplanation =
               Boolean(item.answer.commentary_ar?.trim()) || Boolean(item.answer.commentary_en?.trim());
 
-            // NEW: support files where surah might be null (avoid crashes)
-            const surahNum = item.answer.surah; // NEW: may be null in some datasets
-            const ayahNums = item.answer.ayahs ?? []; // NEW: safety default
+            // Resolve reference info safely (surah can be null in some datasets)
+            const surahNum = item.answer.surah; // NEW: used for lookups + reference line
+            const ayahNums = item.answer.ayahs ?? []; // NEW: safety default so label/lookup never crashes
+            const ayahsLabel = formatAyahsLabel(ayahNums); // NEW: compute once
 
             const surahEnName =
               surahNum == null ? "" : SURAH_EN[surahNum] ?? `Surah ${surahNum}`; // NEW: guard null
             const surahArName = surahNum == null ? "" : SURAH_AR[surahNum] ?? ""; // NEW: guard null
 
-            const ayahsLabel = formatAyahsLabel(ayahNums); // NEW: use ayahNums to avoid repeating ?? []
-
-            // NEW: language-specific reference strings (only if surah is known)
+            // NEW: separate refs so we can place them exactly where you want
             const refEn = surahNum == null ? "" : `Surah ${surahEnName} — Ayah ${ayahsLabel}`; // NEW
             const refAr = surahNum == null ? "" : `سورة ${surahArName} — الآية ${ayahsLabel}`; // NEW
 
-            // NEW: inline translation lookup (no unused variable, fixes TS warning)
-            const englishAyahText =
-              surahNum == null ? "" : getEnglishAyahs(translation, surahNum, ayahNums); // NEW
+            // NEW: English translation is looked up from en.json (no ayah_en field needed)
+            const englishAyahs =
+              surahNum == null || ayahNums.length === 0
+                ? "" // NEW: if no surah/ayahs, don't show translation
+                : getEnglishAyahs(translation, surahNum, ayahNums); // NEW: lookup
+
+            // NOTE: We intentionally do NOT normalize ayah_ar so line breaks remain EXACT as in JSON.
+            const ayahArRaw = item.answer.ayah_ar ?? ""; // NEW: keep as-is
 
             return (
               <div
@@ -548,59 +540,76 @@ export default function JuzPage() {
                 </button>
 
                 {isOpen && (
-                  <div className="px-5 pb-5 space-y-4">
-                    {/* Answer */}
-                    <div className="space-y-1">
+                  <div className="px-5 pb-5 space-y-5">
+                    {/* Answer (Arabic + English translation in their own boxed areas) */}
+                    <div className="space-y-2">
                       <div className="text-xs font-semibold text-slate-500">{headers.answer}</div>
 
+                      {/* Arabic Ayah box (bigger, boxed) */}
                       {(language === "Arabic" || language === "Both") && (
-                        <div
-                          className="text-sm text-slate-800 whitespace-pre-line"
-                          dir={hasArabicLetters(item.answer.ayah_ar ?? "") ? "rtl" : "ltr"} // NEW: safety
-                          style={{ unicodeBidi: "plaintext" }}
-                        >
-                          {renderWithAyahBrackets(
-                            normalizeArabicParagraphs(item.answer.ayah_ar ?? "")
-                          ) /* NEW */}
+                        <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                          <div
+                            className="text-lg leading-9 text-slate-900 whitespace-pre-line"
+                            dir={hasArabicLetters(ayahArRaw) ? "rtl" : "ltr"} // NEW: bidi-safe
+                            style={{ unicodeBidi: "plaintext" }}
+                          >
+                            {renderWithAyahBrackets(ayahArRaw)}
+                          </div>
+
+                          {/* Arabic ref goes at the VERY end of the Arabic box */}
+                          {refAr && (
+                            <div
+                              className="mt-3 text-xs text-slate-500"
+                              dir="rtl"
+                              style={{ unicodeBidi: "plaintext" }}
+                            >
+                              {refAr}
+                            </div>
+                          )}
                         </div>
                       )}
 
+                      {/* English translation box (boxed), with ref at end */}
                       {(language === "English" || language === "Both") && (
-                        <div className="text-sm text-slate-800 whitespace-pre-line text-left italic">
-                          {englishAyahText || "Translation not available." /* NEW */}
-                        </div>
-                      )}
+                        <div className="bg-white border border-slate-200 rounded-xl p-4">
+                          <div className="text-xs font-semibold text-slate-500 mb-2">
+                            {headers.translation}
+                          </div>
 
-                      {/* Reference line */}
-                      {(refEn || refAr) && (
-                        <div className="text-xs text-slate-500 pt-1">
-                          {(language === "English" || language === "Both") && refEn}
-                          {language === "Both" && refEn && refAr && " • "}
-                          {(language === "Arabic" || language === "Both") && refAr}
+                          <div className="text-sm text-slate-800 whitespace-pre-line">
+                            {englishAyahs}
+                          </div>
+
+                          {/* English ref goes at the VERY end of the English translation box */}
+                          {refEn && (
+                            <div className="mt-3 text-xs text-slate-500">{refEn}</div>
+                          )}
                         </div>
                       )}
                     </div>
 
                     {/* Explanation */}
                     {hasExplanation && (
-                      <div className="space-y-1">
-                        <div className="text-xs font-semibold text-slate-500">
-                          {headers.explanation}
-                        </div>
+                      <div className="space-y-2">
+                        <div className="text-xs font-semibold text-slate-500">{headers.explanation}</div>
 
                         {(language === "English" || language === "Both") && (
-                          <div className="text-sm text-slate-800 whitespace-pre-line">
-                            {item.answer.commentary_en}
+                          <div className="bg-white border border-slate-200 rounded-xl p-4">
+                            <div className="text-sm text-slate-800 whitespace-pre-line">
+                              {item.answer.commentary_en}
+                            </div>
                           </div>
                         )}
 
                         {(language === "Arabic" || language === "Both") && (
-                          <div
-                            className="text-sm text-slate-800 whitespace-pre-line"
-                            dir="rtl"
-                            style={{ unicodeBidi: "plaintext" }}
-                          >
-                            {normalizeArabicParagraphs(item.answer.commentary_ar)}
+                          <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                            <div
+                              className="text-sm text-slate-800 whitespace-pre-line leading-7"
+                              dir="rtl"
+                              style={{ unicodeBidi: "plaintext" }}
+                            >
+                              {item.answer.commentary_ar ?? ""}
+                            </div>
                           </div>
                         )}
                       </div>
