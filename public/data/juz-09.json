@@ -1,0 +1,245 @@
+{
+  "juz": 9,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "اذكر آية ، ذكرت فيها أوصاف للنبي صلى الله عليه وسلم تقوم بها الحجة\nعلى أهل الكتاب.",
+      "question_en": "Mention a verse in which descriptions of the Prophet ﷺ are mentioned that establish the proof against the People of the Book.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          157
+        ],
+        "ayah_ar": "الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الأُمِّيَّ الَّذى يَجِدونَهُ مَكتوبًا عِندَهُم فِي التَّوراة والإنجيل\nيَأْمُرُهُم بِالمَعروفِ وَيَنْهَاهُم عَنِ المُنكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الخَبَابِثَ\nوَيَضَعُ عَنْهُم إِصْرَهُم وَالأَغلالَ الَّتي كانت عَلَيْهِم فَالَّذِينَ آمَنوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ\nوَاتَّبَعُوا النَّورَ الَّذِي أُنزِلَ مَعَهُ أُولئِكَ هُمُ المُفلِحونَ) [الأعراف: 157].",
+        "ayah_en": "Those who follow the Messenger, the unlettered Prophet, whom they find written with them in the Torah and the Gospel—he commands them with what is right and forbids them from what is wrong, and makes lawful for them the good things and forbids for them the evil, and relieves them of their burden and the shackles that were upon them. So those who believe in him and honor him and support him and follow the light that was sent down with him—those are the successful.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "عادة ما يبدأ القرآن أخبار اليهود بقول الله تعالى : ( وإذ). في أحد المواضع بدأ\nببداية غير معتادة بما يشعر بأن لهذا الخبر شأنا آخر.",
+      "question_en": "The Qur’an often begins reports about the Jews with Allah’s statement: “And when (وَإذ)…” Yet in one place it begins with an unusual opening, suggesting that this account has a distinct importance. Mention it.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          163
+        ],
+        "ayah_ar": "وَاسْأَلَهُم عَنِ القَرْيَةِ الَّتى كانت حاضِرَةَ البَحرِ إِذ يَعدُونَ فِي السَّبْتِ إِذ تَأْتِيهِم\nحيتانُهُم يَومَ سَبْتِهِم شُرَّعًا وَيَومَ لا يسبتونَ لا تَأتيهم كَذَلِكَ نَبلُوهُم بِما كانوا\nيَفْسُقُونَ) [الأعراف : 163].",
+        "ayah_en": "And ask them about the town that was by the sea—when they transgressed concerning the Sabbath—when their fish would come to them on their Sabbath, openly, and on the day they did not observe the Sabbath, they would not come to them. Thus We test them because of what they used to defiantly disobey.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "اذكر جزءًا من آية يبين أن من تعلم العلم تقوم عليه بها حجة.",
+      "question_en": "Mention part of a verse showing that whoever learns the revealed knowledge has a proof established against him by it.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          169
+        ],
+        "ayah_ar": "فَخَلَفَ مِن بَعْدِهِم خَلفٌ وَرِثُوا الكِتابَ يَأْخُذونَ عَرَضَ هَذَا الأَدنى وَيَقُولُونَ\nسَيُغْفَرُ لَنَا وَإِن يَأْتِهِم عَرَضٌ مِثْلُهُ يَأْخُذُوهُ أَلَم يُؤْخَذ عَلَيْهِم مِيثَاقُ الكِتابِ أَن لا\nيقولوا عَلَى اللَّهِ إِلَّا الحَقَّ وَدَرَسوا ما فيهِ وَالدَّارُ الآخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ)\n[الأعراف : 169].",
+        "ayah_en": "Then there came after them successors who inherited the Scripture, taking the fleeting gain of this lower world and saying, “It will be forgiven to us.” But if gain like it comes to them, they will take it [again]. Was not the covenant of the Scripture taken from them that they would not say about Allah except the truth, and they studied what is in it? And the Home of the Hereafter is better for those who have taqwa—so will you not reason?",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "كان من المتوقع أن يثني القرآن على النبي والصحابة في موضع ثناء لا يشوبه\nإظهار أي ضعف لديهم. ومع ذلك جاءت الآيات على غير المتوقع بما يشعر\nانه تنزيل من حكيم عليم.",
+      "question_en": "One might expect the Qur’an—when praising the Prophet ﷺ and the Companions in a context of commendation—to avoid mentioning any weakness. Yet the verses came contrary to expectation, indicating that it is revelation from the All-Wise, All-Knowing. Mention the verse.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          5
+        ],
+        "ayah_ar": "كَمَا أَخْرَجَكَ رَبُّكَ مِن بَيْتِكَ بِالحَقِّ وَإِنَّ فَرِيقًا مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ)\n[الأنفال : 5]",
+        "ayah_en": "Just as your Lord brought you out from your home in truth, while indeed a party of the believers were surely unwilling.",
+        "commentary_ar": "قال المبرد : تقديره الأنفال لله وللرسول وإن كرهوا ، كما أخرجك ربك من\nبيتك بالحق وإن كرهوا . وقيل : تقديره امض لأمر الله في الأنفال وإن كرهوا\nكما مضيت لأمر الله في الخروج من البيت لطلب العير وهم كارهون .",
+        "commentary_en": "Al-Mubarrad said: Its implied meaning is: “The spoils belong to Allah and the Messenger—even if they disliked it—just as your Lord brought you out of your home in truth—even if they disliked it.” And it was also said: Its implied meaning is: “Proceed with Allah’s command regarding the spoils—even if they disliked it—just as you proceeded with Allah’s command in going out from the home to seek the caravan while they were unwilling.”"
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "الكمل من المؤمنين يغضبون إذا انتهكت محارم الله . اذكر جزءا من آية يدل\nعلى هذا المعنى.",
+      "question_en": "The most complete believers become angry when Allah’s sacred limits are violated. Mention part of a verse indicating this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          150
+        ],
+        "ayah_ar": "وَلَمَّا رَجَعَ موسى إِلَى قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِى أَعَجِلتُم\nأَمْرَ رَBِّكُم وَأَلقَى الألواحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ قَالَ ابْنَ أُمَّ إِنَّ القَومَ\nاستضعفونى وكادوا يقتُلُونَني فَلا تُشْمت بي الأعداءَ وَلَا تَجْعَلَنِي مَعَ القَومِ الظَّالِمِينَ)\n[الأعراف : 150].",
+        "ayah_en": "And when Moses returned to his people, angry and grieved, he said, “How wretched is that by which you have replaced me after me! Have you hastened the command of your Lord?” And he threw down the tablets and seized his brother by the head, pulling him toward him. He said, “O son of my mother, indeed the people overpowered me and were about to kill me, so do not make the enemies rejoice over me, and do not place me among the wrongdoing people.”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "بعض الناس إذا رأى أن اتباع الدين الحق لم يرفع عنه مصائب الدنيا التي\nيعانيها فإنه يبدأ بالتشكيك من فائدة هذا الاتباع . اذكر آية تذكر هذا الخلل\nفي التفكير.",
+      "question_en": "Some people, when they see that following the true religion does not remove the worldly hardships they face, begin to doubt the benefit of following it. Mention a verse that highlights this flawed way of thinking.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          129
+        ],
+        "ayah_ar": "قالوا أوذينا مِن قَبْلِ أَن تَأْتِيَنَا وَمِن بَعدِ ما جِئتَنا قَالَ عَسَى رَبُّكُم أَن يُهْلِكَ\nعَدُوَّكُم وَيَسْتَخْلِفَكُم فِي الأَرْضِ فَيَنظُرَ كَيفَ تَعْمَلُونَ) [الأعراف : 129]",
+        "ayah_en": "They said, “We were harmed before you came to us and after you came to us.” He said, “Perhaps your Lord will destroy your enemy and grant you succession in the land, so He may see how you act.”",
+        "commentary_ar": "قال بنو إسرائيل لموسى متضجرين من طول ما مكثوا في عذاب فرعون\nوأذيته : أُوذِينَا مِنْ قَبْلِ أَنْ تَأْتِيَنَا فإنهم يسوموننا سوء العذاب، يذبحون\nأبناءنا ويستحيون نساءنا ﴿وَمِنْ بَعْدِ مَا جِئْتَنَا كذلك بإعادة القتل علينا.\nومثله قول الله - تعالى - ﴿وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ\nخَيْرُ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ\nالْخُسْرَانُ الْمُبِينُ) [العنكبوت : 11].",
+        "commentary_en": "The Children of Israel said to Musa, complaining about how long they remained under Pharaoh’s torment and harm: (أُوذِينَا مِنْ قَبْلِ أَنْ تَأْتِيَنَا) — for they were subjected to severe punishment: their sons were slaughtered and their women were kept alive. And they said: (وَمِنْ بَعْدِ مَا جِئْتَنَا) — likewise, by the renewal of killing upon them.\n\nAnd similar to this is Allah’s statement: ﴿وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ خَيْرُ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انقَلَبَ عَلَى وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ) [العنكبوت: 11]."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "إن أردت دعوة الناس إلى التمسك بأمر الله ، فعليك أن تكون من أهل العزم في\nالعمل بأمر الله ، والجد والحرص دون تأخير ولا تساهل ولا انقطاع عند\nالمشقة ولا ملل . اذكر كلمتين تشيران لهذا المعنى.",
+      "question_en": "If you want to call people to hold firmly to Allah’s command, then you must yourself be a person of resolve in acting upon Allah’s command—seriousness and diligence without delay, laxness, or giving up during hardship or out of boredom. Mention two words indicating this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          145
+        ],
+        "ayah_ar": "وَكَتَبْنَا لَهُ فِي الألْوَاحِ مِن كُلِّ شَيْءٍ مَوعِظَةً وَتَفْصِيلًا لِكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ\nوَأْمُرْ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِها سَأُريكُم دارَ الفَاسِقِينَ) [الأعراف: 145].",
+        "ayah_en": "And We wrote for him on the tablets instruction about all things and a detailed explanation of all things. So take them with strength and command your people to take the best of it. I will show you the home of the defiantly disobedient.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "الداعي إلى الله يستفظع التراجع عن دعوته وإقرار الجاهليات على ما هي ؛\nلأنه بذلك كأنه يثبت على نفسه تهمة أمام الناس أن ما كان يدعو إليه ما كان\nإلا تقولا على الله عز وجل ما لم يقله . فالذي يتجرأ أن يفعل ذلك مع الله\nفكيف يستأمنه الناس ؟ اذكر آية تدل على هذا المعنى .",
+      "question_en": "A caller to Allah finds it outrageous to retreat from his الدعوة and to approve جاهليات as they are, because by doing so he effectively confirms against himself—before people—that what he used to call to was merely speaking falsely about Allah what He did not say. If someone dares to do that with Allah, how could people trust him? Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          89
+        ],
+        "ayah_ar": "قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُم بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا)\n[الأعراف : 89].",
+        "ayah_en": "We would have fabricated a lie against Allah if we were to return to your religion after Allah has saved us from it.",
+        "commentary_ar": "وهذا ما حكاه القرآن من قول شعيب عليه السلام لقومه .\nومعنى كلام ابن عاشور في تفسيرها : إن عدنا في ملتكم فهذا يعني ان دعواي\nالرسالة واتباع المؤمنين لي على ذلك ودعوتهم للدين كان كله افتراء. يدل على\nهذا المعنى قوله : ( قَدِ افْتَرَيْنَا) بصيغة الماضي، وتقديمها على (إن) الشرطية .\nبينما لو قصد بها المستقبل لكانت : إن عدنا في ملتكم فسنكون من المفترين .\nفالسير في طريق الدعوة إلى الله لا رجعة عنه . ومن تراجع عنه بتكذيب ما كان\nيقوله من قبل فسيسقط من عين الناس، لا من عين الله فحسب.",
+        "commentary_en": "This is what the Qur’an relates from the statement of Shu‘ayb عليه السلام to his people.\n\nThe meaning of Ibn ‘Ashur’s كلام in explaining it is: If we were to return to your religion, that would mean my claim of الرسالة, the believers’ following of me upon that, and my calling them to the الدين—was all fabricated and false. This meaning is indicated by his statement: (قَدِ افْتَرَيْنَا) in the past tense and placing it before the conditional (إِن).\n\nWhereas if the intended meaning were about the future, it would have been phrased as: “If we return to your religion, then we will be among the fabricators.”\n\nSo the path of calling to Allah has no turning back. And whoever retreats from it by denying what he used to say before will fall in the eyes of people—not only in the sight of Allah."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "يصل الغرور والجهل ببعض الظالمين إلى الظن بأن الناس الذين تحت حكمه\nهم ملك له، أجسادهم وأوقاتهم وأموالهم بل وحتى قلوبهم. اذكر آية تشير إلى\nهذا المعنى.",
+      "question_en": "The arrogance and ignorance of some oppressors reaches the point that they think the people under their rule belong to them—their bodies, time, wealth, and even their hearts. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          123
+        ],
+        "ayah_ar": "قَالَ فِرْعَوْنُ آمَنتُم بِهِ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّ هَذَا لَمَكْرُ مَّكَرْتُمُوهُ فِي الْمَدِينَةِ\nلِتُخْرِجُوا مِنْهَا أَهْلَهَا فَسَوْفَ تَعْلَمُونَ) [الأعراف: 123].",
+        "ayah_en": "Pharaoh said, “You have believed in him before I permitted you? Indeed, this is surely a plot you plotted in the city to drive out its people from it; but you will come to know.”",
+        "commentary_ar": "فالإيمان أصله إذعان في القلب لا علاقة له بالإذن إلا من الله تعالى. وفرعون\nمع ذلك ينكر على السحرة أن آمنوا بموسى عليه السلام دون أن يستأذنوه !",
+        "commentary_en": "Faith (الإيمان) in its أصل is submission within the heart and has no connection to seeking permission except from Allah تعالى. Yet Pharaoh still denounced the magicians for believing in Musa عليه السلام without first seeking his permission!"
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "الداعي إلى الله رحيم بالناس يحب لهم الهداية، لكنه يشتد قلبه على\nالمعاندين بقدر ما يبذل من جهد في إيصال دعوته ، لأنه يعلم يقينا أن عذرهم\nقد انقطع ، بل وأقيم عليهم من الحجة أكثر مما أقيم على غيرهم. اذكر خمس\nكلمات من آية فيها هذا المعنى.",
+      "question_en": "A caller to Allah is merciful to people and loves guidance for them, yet his heart becomes firm against the stubborn opponents in proportion to his effort in conveying the message—because he knows with certainty that their excuse has ended, and that more proof has been established against them than against others. Mention five words from a verse that carries this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          93
+        ],
+        "ayah_ar": "( فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ\nآسَى عَلَى قَوْمٍ كَافِرِينَ) [الأعراف:93]",
+        "ayah_en": "So he turned away from them and said, “O my people, I have certainly conveyed to you the messages of my Lord and advised you. So how could I grieve for a disbelieving people?”",
+        "commentary_ar": "قال ابن كثير رحمه الله : (أي : فتولى عنهم \" شعيب \" عليه السلام بعد ما\nأصابهم ما أصابهم من العذاب والنقمة والنكال، وقال مقرعاً لهم وموبخاً : (يا\nقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ) أي : قد أديت إليكم ما أرسلت\nبه، فلا أسفة عليكم وقد كفرتم بما جئتكم به، ولهذا قال : فَكَيْفَ آسَى عَلَى\nقَوْمٍ كَافِرِينَ) ؟ ) .",
+        "commentary_en": "Ibn Kathir رحمه الله said: Meaning: Shu‘ayb عليه السلام turned away from them after what befell them of punishment, vengeance, and exemplary retribution, and he said—rebuking and reproaching them: (يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ) meaning: I have delivered to you what I was sent with. So there is no sorrow over you, since you disbelieved in what I brought you. Therefore he said: (فَكَيْفَ آسَى عَلَى قَوْمٍ كَافِرِينَ) — “So how could I grieve for a disbelieving people?”"
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "آية تشير إلى أن فهم كلام الله نعمة محروم منها من لا خير فيه .",
+      "question_en": "A verse indicating that understanding Allah’s speech is a blessing that one who has no good in him is deprived of.",
+      "answer": {
+        "surah": 8,
+        "ayahs": [
+          23
+        ],
+        "ayah_ar": "( وَلَوْ عَلِمَ اللهُ فِيهِمْ خَيْرًا لَّأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا وَّهُم مُّعْرِضُونَ)\n[الأنفال : 23]",
+        "ayah_en": "And if Allah had known any good in them, He would have made them hear. But even if He had made them hear, they would have turned away while they were refusing.",
+        "commentary_ar": "وقد قال تعالى : (وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ\nحِجَابًا مَّسْتُورًا) [الإسراء : 45]",
+        "commentary_en": "And Allah تعالى said: (وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا) [الإسراء: 45]."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "قال رسول الله ﷺ : ( لَنْ يُدْخِلَ أَحَداً عَمَلُهُ الْجَنَّةَ \" . قَالُوا : وَلَا أَنْتَ يَا رَسُولَ\nاللَّهِ ؟ قَالَ : \" لَا ، وَلَا أَنَا ، إِلَّا أَنْ يَتَغَمَّدَنِيَ اللَّهُ بِفَضْلٍ وَرَحْمَةٍ ، فَسَدِّدُوا وَقَارِبُوا )\nوالغمد هو الجراب الذي يحيط بالسيف . اذكر ثلاث كلمات من آية بمعنى\nهذا الحديث في وصف رحمة الله .",
+      "question_en": "The Messenger of Allah ﷺ said: “No one’s deeds will admit him into Paradise.” They said: “Not even you, O Messenger of Allah?” He said: “Not even me—unless Allah envelops me in فضل and رحمة; so be upright and draw near.” (The ‘غمد’ is the sheath surrounding a sword.) Mention three words from a verse carrying the meaning of this hadith in describing Allah’s mercy.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          151
+        ],
+        "ayah_ar": "( قَالَ رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ)\n[الأعراف : 151].",
+        "ayah_en": "He said, “My Lord, forgive me and my brother and admit us into Your mercy; and You are the most merciful of the merciful.”",
+        "commentary_ar": "قال السعدي : (وَأَدْخِلْنَا فِي رَحْمَتِكَ ) أي : في وسطها، واجعل رحمتك تحيط بنا\nمن كل جانب، فإنها حصن حصين، من جميع الشرور.",
+        "commentary_en": "Al-Sa‘di said regarding (وَأَدْخِلْنَا فِي رَحْمَتِكَ): meaning, into its very midst—make Your mercy surround us from every side, for it is a strong fortress protecting from all evils."
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "الخائف من ربه الخاضع له هو الذي ينتفع بكلام ربه ويهتدي بما فيه . اذكر\nجزءاً من آية فيه هذا المعنى.",
+      "question_en": "The one who fears his Lord and is humbled to Him is the one who benefits from his Lord’s speech and is guided by what is in it. Mention part of a verse carrying this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          154
+        ],
+        "ayah_ar": "﴿ وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ أَخَذَ الْأَلْوَاحَ وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذِينَ هُمْ\nلِرَبِّهِمْ يَرْهَبُونَ﴾ [الأعراف: 154]",
+        "ayah_en": "And when the anger subsided from Moses, he took up the tablets—and in their inscription was guidance and mercy for those who fear their Lord.",
+        "commentary_ar": "قال السعدي : ولكن ليس كل أحد يقبل هدى الله ورحمته، وإنما يقبل ذلك\nوينقاد له ويتلقاه بالقبول الذين ﴿ هُمْ لِرَبِّهِمْ يَرْهَبُونَ ﴾ أي : يخافون منه\nويخشونه، وأما من لم يخف الله ولا المقام بين يديه ، فإنه لا يزداد بها إلا عتوا\nونفورا.\nوقال ابن كثير: ﴿الَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ﴾ ضَمَّنَ الرَّهْبَةَ مَعْنَى الْخُضُوعِ ؛ وَلِهَذَا\nعداها بِاللَّامِ .",
+        "commentary_en": "Al-Sa‘di said: But not everyone accepts Allah’s guidance and mercy. Rather, the ones who accept it, submit to it, and receive it with acceptance are those about whom He said: ﴿هُمْ لِرَبِّهِمْ يَرْهَبُونَ﴾—meaning they fear Him and are in awe of Him. As for the one who does not fear Allah and does not fear standing before Him, then these verses only increase him in stubbornness and aversion.\n\nAnd Ibn Kathir said: ﴿الَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ﴾—the term “رَهْبَة” here includes the meaning of humility and submissiveness; and that is why it is governed with the letter “لِـ”."
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "اذكر جزءاً من آية يوضح أن سبب بعض الابتلاءات هو السيئات والخروج\nعن طاعة الله .",
+      "question_en": "Mention part of a verse showing that the cause of some trials is sins and departing from obedience to Allah.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          163
+        ],
+        "ayah_ar": "( وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ\nحِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ كَذَلِكَ نَبْلُوهُم بِمَا كَانُوا\nيَفْسُقُونَ) [الأعراف: 163] .",
+        "ayah_en": "And ask them about the town that was by the sea—when they transgressed concerning the Sabbath—when their fish would come to them on their Sabbath, openly, and on the day they did not observe the Sabbath, they would not come to them. Thus We test them because of what they used to defiantly disobey.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 15,
+      "question_ar": "الذي يعمل بالقرآن ويقيم الصلاة فإنه لن يكون صالحاً في نفسه فقط، بل\nسيسعى في صلاح غيره . اذكر الآية التي فيها هذا المعنى",
+      "question_en": "Whoever holds to the Qur’an and establishes prayer will not only be righteous in himself, but will also strive to reform others. Mention the verse that carries this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          170
+        ],
+        "ayah_ar": "( وَالَّذِينَ يُمَسِكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلَاةَ إِنَّا لَا نُضِيعُ أَجْرَ الْمُصْلِحِينَ)\n[الأعراف: 170]",
+        "ayah_en": "And those who hold firmly to the Scripture and establish prayer—indeed We do not allow the reward of the reformers to be lost.",
+        "commentary_ar": "فانظر كيف جعل الله هؤلاء مصلحين كأن إصلاحهم مترتب بداهة على\nتمسكهم بالكتاب وإقامتهم الصلاة.",
+        "commentary_en": "So look how Allah described these people as مُصْلِحِينَ, as if their reforming of others naturally follows—by clear implication—from their holding firmly to the Book and their establishing the prayer."
+      }
+    },
+    {
+      "qNum": 16,
+      "question_ar": "تَقْبِيدُ في آية مَقْصُودٌ مِنهُ التَّأدُّبُ وتَفْوِيضُ العِلْمِ بِالْمُسْتَقْبَلِ إِلَى اللَّهِ،\nوالكِنايَةُ عَنْ طلب الدَّوامِ عَلى الإِيمَانِ مِنَ اللَّهِ تَعالى، كما فِي ( رَبَّنَا لَا تُزِغْ\nقُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا) [آل عمران : 8 ] ، اذكر الجزء من الآية الذي فيه هذا\nالتقييد.",
+      "question_en": "A certain restriction in a verse is intended as proper ادب and as entrusting knowledge of the future to Allah, and as a subtle indication of seeking دوام upon faith from Allah تعالى—like in: “Our Lord, do not let our hearts deviate after You have guided us” (3:8). Mention the part of the verse where this restriction appears.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          89
+        ],
+        "ayah_ar": "قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُم بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا وَمَا يَكُونُ\nلَنَا أَن نَّعُودَ فِيهَا إِلَّا أَن يَشَاءَ اللَّهُ رَبُّنَا وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًا عَلَى اللَّهِ تَوَكَّلْنَا\nرَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ) [الأعراف :89]",
+        "ayah_en": "We would have fabricated a lie against Allah if we were to return to your religion after Allah has saved us from it. And it is not for us to return to it unless Allah, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allah we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who decide.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    }
+  ]
+}

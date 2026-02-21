@@ -1,0 +1,122 @@
+{
+  "juz": 24,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "اذكر آية تُقرأ فيها كلمـة بزيادة ألف في قراءة صحيحة، بما يثبت قلوب المؤمنين.",
+      "question_en": "Mention a verse in which a word is recited with an extra alif in a sound canonical reading, in a way that strengthens believers’ hearts.",
+      "answer": {
+        "surah": 39,
+        "ayahs": [36],
+        "ayah_ar": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ ۚ وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "ayah_en": "Is Allah not sufficient for His servant? Yet they threaten you with those other than Him. And whoever Allah lets go astray—there is for him no guide.",
+        "commentary_ar": "هناك قراءتان: (عَبْدَهُ) و(عِبَادَهُ).\nقال الطبري: والصواب من القول في ذلك أنهما قراءتان مشهورتان في قراءة الأمصار، فبأيتهما قرأ القارئ فمصيب لصحة معنييهما واستفاضة القراءة بهما.",
+        "commentary_en": "There are two well-known readings: “His servant” (ʿabdahu) and “His servants” (ʿibādahu).\nAl-Ṭabarī states that both are widespread canonical readings; whichever a reciter reads is correct because both meanings are sound and both readings are established."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "اذكر جزءاً من آية (4 كلمات) فيه تكليف وضمان، بحيث على قدر تذللك لله وخضوعك وطاعتك ومحبتك له، فإنه سبحانه يتولى أمرك بما يغنيك عمن سواه ويحفظك ممن سواه.",
+      "question_en": "Mention a 4-word portion of a verse that combines duty and guarantee: the more you humble yourself to Allah and obey Him, the more He takes charge of your affairs and suffices you from others.",
+      "answer": {
+        "surah": 39,
+        "ayahs": [36],
+        "ayah_ar": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ ۚ وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "ayah_en": "Is Allah not sufficient for His servant? Yet they threaten you with those other than Him. And whoever Allah lets go astray—there is for him no guide.",
+        "commentary_ar": "الموضع المقصود (أربع كلمات) من الآية هو: «أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ».",
+        "commentary_en": "The intended 4-word portion is: “Is Allah not sufficient for His servant?”"
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "اذكر خمس كلمات من آية كريمة تُظهر مدى حرص الأنبياء على هداية أقوامهم بحيث لا يتركون وسيلة يتوسل بها إلى هدايتهم إلا اتخذوها.",
+      "question_en": "Mention five words from a verse showing how eager the prophets are for their peoples’ guidance—leaving no avenue for calling them except they use it.",
+      "answer": {
+        "surah": 41,
+        "ayahs": [14],
+        "ayah_ar": "إِذْ جَاءَتْهُمُ الرُّسُلُ مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ ۖ قَالُوا لَوْ شَاءَ رَبُّنَا لَأَنزَلَ مَلَائِكَةً فَإِنَّا بِمَا أُرْسِلْتُم بِهِ كَافِرُونَ",
+        "ayah_en": "When messengers came to them from before them and from behind them, saying, “Worship none but Allah.” They said, “If our Lord had willed, He would have sent down angels, so we disbelieve in what you have been sent with.”",
+        "commentary_ar": "من الموضع ما يدل على تنوع وسائل الدعوة وإحاطتها، مثل: «مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ».",
+        "commentary_en": "The verse indicates comprehensive, varied approaches in calling people to guidance—e.g., “from before them and from behind them.”"
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "اذكر ثلاث كلمات من آية تدل على أن إظهار العدل المطلق يكون في الآخرة.",
+      "question_en": "Mention three words from a verse indicating that the full manifestation of absolute justice is in the Hereafter.",
+      "answer": {
+        "surah": 40,
+        "ayahs": [17],
+        "ayah_ar": "الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ الْيَوْمَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+        "ayah_en": "Today every soul will be recompensed for what it earned. No ظلم today. Indeed, Allah is swift in الحساب.",
+        "commentary_ar": "الموضع (ثلاث كلمات) الدال على ذلك: «لَا ظُلْمَ الْيَوْمَ».",
+        "commentary_en": "The 3-word phrase is: “No injustice today.”"
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "يرجو أحدنا لقاء النبي يوم القيامة ليقبل يده ويقول له: «جزاك الله عنا خيراً»، بينما يتمنى أهل الباطل أن يروا سادتهم الذين يعظمونهم اليوم ليفعلوا بهم شيئاً مضاداً تماماً عُبر عنه بست كلمات، ما هي؟",
+      "question_en": "A believer hopes to meet the Prophet on the Day of Judgment with gratitude, while the people of falsehood will wish to see their leaders to do the complete opposite—expressed in six words. What are they?",
+      "answer": {
+        "surah": 41,
+        "ayahs": [29],
+        "ayah_ar": "وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا اللَّذَيْنِ أَضَلَّانَا مِنَ الْجِنِّ وَالْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ الْأَسْفَلِينَ",
+        "ayah_en": "Those who disbelieved will say, “Our Lord, show us the two who led us astray among jinn and humans; we will place them under our feet so they may be among the lowest.”",
+        "commentary_ar": "الست كلمات المقصودة من الآية: «نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ الْأَسْفَلِينَ».\nوشبيه بذلك: «قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هَذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ».\nوكذلك: «وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا ... وَالْعَنْهُمْ لَعْنًا كَبِيرًا».",
+        "commentary_en": "The intended six-word expression is: “We will place them under our feet so they may be among the lowest.”\nRelated meanings appear in other verses where the disbelievers blame and curse their leaders and ask for their punishment to be doubled."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "أربع كلمات تدل على أن كل شيء دون الله هو من صنعه، وفيها رد على الفلاسفة القائلين بقدم الأرض والسماوات (أي أزليتهما). اذكر هذه الكلمات الأربعة.",
+      "question_en": "Mention four words indicating that everything besides Allah is His creation—refuting claims of the world’s eternity. What are those four words?",
+      "answer": {
+        "surah": 39,
+        "ayahs": [62],
+        "ayah_ar": "اللَّهُ خَالِقُ كُلِّ شَيْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ",
+        "ayah_en": "Allah is the Creator of all things, and He is, over all things, Disposer of affairs.",
+        "commentary_ar": "الأربع كلمات: «اللَّهُ خَالِقُ كُلِّ شَيْءٍ».\n(تنبيه ضبط مرجعي: الآية هي الزمر 62، وبعض النسخ قد يقع فيها خطأ في رقم الآية).",
+        "commentary_en": "The four words are: “Allah is the Creator of all things.”\n(Note: the correct reference is Az-Zumar 39:62.)"
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "في الحديث القدسي الصحيح: «أنا عند ظن عبدي بي». فحسن الظن أو سوء الظن بالله يترتب عليه عمل ينجي صاحبه أو يهلكه. اذكر جزءاً من آية، ثماني كلمات، تبين سوء ظن أتبعه الله ببيان أنه أهلك أصحابه.",
+      "question_en": "In the hadith qudsi: “I am as My servant thinks of Me.” Mention an eight-word portion showing a bad assumption that Allah then states caused their ruin—yet write the full verse(s) as in the book.",
+      "answer": {
+        "surah": 41,
+        "ayahs": [22, 23],
+        "ayah_ar": "وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَا أَبْصَارُكُمْ وَلَا جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ اللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ\nوَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنتُم بِرَبِّكُمْ أَرْدَاكُمْ فَأَصْبَحْتُم مِّنَ الْخَاسِرِينَ",
+        "ayah_en": "You did not try to conceal yourselves lest your hearing, your sight, and your skins testify against you; rather, you assumed that Allah does not know much of what you do.\nAnd that assumption you assumed about your Lord ruined you, so you became among the losers.",
+        "commentary_ar": "قال السعدي: «وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنتُم بِرَبِّكُمْ» هو الظن السيئ… «أَرْدَاكُمْ» أي أهلككم… فحقت عليهم الخسارة بسبب ذلك الظن.",
+        "commentary_en": "Al-Saʿdī explains that this is an evil assumption about Allah; “it ruined you” means it destroyed you—leading to loss because that assumption drove their deeds."
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "علو الله سبحانه أمر عقدي موجود في كل الشرائع وجاءت به الرسل. في قصة موسى عليه السلام ما يدل على ذلك في آيتين متتاليتين تكررت فيهما كلمة معرفة مرة ومنكرة مرة. ما هي الكلمة دون (ال) التعريف؟",
+      "question_en": "Allah’s exaltedness above creation is a core belief brought by the messengers. In Musa’s story, two consecutive verses repeat a word once definite and once indefinite. What is the word without “al-” (definite article)? (Write the full verse(s).)",
+      "answer": {
+        "surah": 40,
+        "ayahs": [36, 37],
+        "ayah_ar": "وَقَالَ فِرْعَوْنُ يَا هَامَانُ ابْنِ لِي صَرْحًا لَّعَلِّي أَبْلُغُ الْأَسْبَابَ\nأَسْبَابَ السَّمَاوَاتِ فَأَطَّلِعَ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ كَاذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ",
+        "ayah_en": "Pharaoh said, “O Haman, build for me a lofty tower so that I may reach the means—\nthe means of the heavens—so that I may look to the God of Moses; indeed, I think he is a liar.” And thus Pharaoh’s evil deed was made attractive to him and he was barred from the way. And Pharaoh’s plot was only in ruin.",
+        "commentary_ar": "الكلمة المقصودة دون (ال) التعريف هي: «أَسْبَابَ» (جاءت أولاً معرفة: «الْأَسْبَابَ»، ثم منكرة/مضافة: «أَسْبَابَ السَّمَاوَاتِ»).",
+        "commentary_en": "The word is: “asbāb” (means). It appears first as definite “al-asbāb” then as “asbāb al-samāwāt”."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "وخُلُقُ كريم استُخدم معه حرف يدل على الحدوث الفوري لما بعده. اذكر هذا الحرف. (واكتب الآية/الآيات كاملة كما في الكتاب).",
+      "question_en": "A noble character is mentioned with a particle that indicates immediate occurrence of what follows. Mention that particle (and write the full verse(s) as in the book).",
+      "answer": {
+        "surah": 41,
+        "ayahs": [34, 35],
+        "ayah_ar": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ\nوَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ",
+        "ayah_en": "Good and evil are not equal. Repel with what is best, and then—suddenly—the one between you and him is enmity becomes as though he were a devoted friend.\nBut none are granted it except those who are patient, and none are granted it except one of great fortune.",
+        "commentary_ar": "الحرف/الأداة الدالة على الحدوث الفوري هنا هي: «إِذَا» (في قوله: «فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ...»)، وهي (إذا) الفجائية.",
+        "commentary_en": "The particle is “idhā” in “fa-idhā…”, which is the sudden ‘idhā’ indicating immediate outcome (idhā al-fujā’iyyah)."
+      }
+    }
+  ]
+}

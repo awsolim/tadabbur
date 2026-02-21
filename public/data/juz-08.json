@@ -1,0 +1,216 @@
+{
+  "juz": 8,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "من أشرف المنح التي ينعم الله بها على من يطيعه ويتقيه أن يعلمه العلوم\nالنافعة التي تحبي القلب وتصلح الدنيا والآخرة. وكثيرا ما يُذكر في هذا المعنى\nقول الله تعالى : (وَاتَّقُوا اللهَ وَيُعَلِّمُكُمُ اللهُ ﴾ [البقرة : 282]، ويقولون منها\nحكمة (اتق الله فيما تعلم يعلمك ما لم تعلم ) . اذكر آية تدل على أن الله\nيعلم من يطيعه كأنه يراه بأشرف العلوم.",
+      "question_en": "Among the noblest gifts Allah grants to those who obey Him and have taqwa is that He teaches them beneficial knowledge that revives the heart and rectifies both this world and the Hereafter. This meaning is often mentioned with Allah’s statement: “And fear Allah, and Allah teaches you” (2:282), and the saying: “Have taqwa of Allah regarding what you know; He will teach you what you do not know.” Mention a verse showing that Allah teaches those who obey Him, as if they see Him, with the most noble knowledge.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          154
+        ],
+        "ayah_ar": "ثُمَّ آتينا موسى الكِتابَ تَمامًا عَلَى الَّذى أَحْسَنَ وَتَفصيلًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً\nلَعَلَّهُم بِلِقَاءِ رَبِّهِم يُؤْمِنُونَ﴾ [الأنعام: 154].",
+        "ayah_en": "Then We gave Moses the Book, complete for the one who did good, and as a detailed explanation of all things, and as guidance and mercy, so that they might believe in the meeting with their Lord.",
+        "commentary_ar": "قال ابن كثير: (وقوله : عَلَى الَّذِي أَحْسَنَ ) أي : جزاءً على إحسانه في العمل،\nوقيامه بأوامرنا وطاعتنا).",
+        "commentary_en": "Ibn Kathir said: “His statement: (عَلَى الَّذِي أَحْسَنَ) means: as a recompense for his excellence in deeds, and for his upholding our commands and obedience to us.”"
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "لا يحب الله تعالى أن يُعنّت المسلمين بأحكامه أو يصل بهم الأمر إلى\nالوسوسة . اذكر جملة معترضة تخفف عنا في تكليف قد تدفعنا فيه أنفسنا\nإلى الإفراط المذموم.",
+      "question_en": "Allah does not love to burden Muslims with His rulings or to lead them into obsessive whispering. Mention an interpolated clause that lightens the burden in a duty where the soul may push one into blameworthy excess.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          152
+        ],
+        "ayah_ar": "ولا تقربوا مال اليتيم إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأُوفُوا الكَيْلَ وَالميزانَ\nبالقسط لا نُكَلِّفُ نَفْسًا إِلَّا وُسعَها وَإذا قُلتُم فَاعْدِلُوا وَلَو كَانَ ذَا قُربى وَبِعَهْدِ اللَّهِ\nأوفوا ذلِكُم وَصَاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ﴾ [الأنعام: 152]",
+        "ayah_en": "And do not approach the orphan’s property except in a way that is best until he reaches maturity. And give full measure and weight in justice—We do not burden any soul beyond its capacity. And when you speak, be just, even if [it concerns] a near relative. And fulfill the covenant of Allah. That is what He has instructed you with, so that you may remember.",
+        "commentary_ar": "لا نُكَلِّفُ نَفْسًا إِلَّا وُسعَها جاءت هذه جملة معترضة بين مجموعة الوصايا\nالربانية بطريقة ملفتة تشعر بضرورة هذا التذكير في هذا الموضع ، حتى تحدث\nحالة من التوازن المطلوب في كيان الفرد ولا يغلب عليه الخوف المبالغ فيه.",
+        "commentary_en": "The phrase (لا نُكَلِّفُ نَفْسًا إِلَّا وُسعَها) comes as an interpolated clause placed between a set of divine commandments in a striking way, indicating the need for this reminder at this point—so that a necessary balance is established within the individual, and so that excessive, overpowering fear does not dominate him."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "ليس أحدنا مطالبا بقول الحق في كل مقام. لكنه مطالب ألا يقول باطلا . اذكر\nجزءا من آية يوضح هذا المفهوم.",
+      "question_en": "None of us is required to speak the truth in every situation; however, he is required not to speak falsehood. Mention part of a verse that clarifies this concept.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          152
+        ],
+        "ayah_ar": "ولا تقربوا مال اليتيم إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأُوفُوا الكَيْلَ وَالميزانَ\nبالقِسطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسعَها وَإِذا قُلتُم فَاعْدِلُوا وَلَو كَانَ ذَا قُربِي وَبِعَهْدِ اللَّهِ\nأوفوا ذلِكُم وَصَاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُونَ﴾ [الأنعام: 152].",
+        "ayah_en": "And do not approach the orphan’s property except in a way that is best until he reaches maturity. And give full measure and weight in justice—We do not burden any soul beyond its capacity. And when you speak, be just, even if [it concerns] a near relative. And fulfill the covenant of Allah. That is what He has instructed you with, so that you may remember.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "يدعي البعض أن الإيمان لا يستلزم العمل، وأن العبد قد ينجو عند الله\nبإيمانه بقلبه فحسب دون الحاجة إلى متابعة ذلك الإيمان بالأعمال\nالصالحات والطاعات والابتعاد عن المنهيات .. اذكر (5) كلمات ) من آية تبين\nأن نجاة العبد عند الله لا تتحقق بمجرد الإيمان القلبي فقط.",
+      "question_en": "Some claim that faith does not require action, and that a servant may be saved by mere inward belief without following it with righteous deeds, obedience, and avoiding prohibitions. Mention five words from a verse showing that salvation is not achieved by heart-faith alone.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          158
+        ],
+        "ayah_ar": "هَل يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ المَلائِكَةُ أَو يَأْتِيَ رَبُّكَ أَو يَأْتِيَ بَعضُ آيَاتِ رَبِّكَ يَومَ يَأْتِي\nبَعضُ آياتِ رَبِّكَ لا يَنفَعُ نَفْسًا إيمانُها لَم تَكُن آمَنَت مِن قَبْلُ أَو كَسَبَت في\nإيمانِها خَيْرًا قُلِ انتَظِرُوا إِنَّا مُنتَظِرُونَ) [الأنعام: 158]",
+        "ayah_en": "Do they await except that the angels should come to them, or your Lord should come, or that some of the signs of your Lord should come? The Day some of the signs of your Lord come, no soul will benefit from its faith if it had not believed before, or had not earned through its faith some good. Say, “Wait; indeed, we are waiting.”",
+        "commentary_ar": "قال ابن كثير : ( أَو كَسَبَت فى إيمانِها خَيرًا ) أي : ولا يقبل منها كسب عمل\nصالح إذا لم يكن عاملا به قبل ذلك).",
+        "commentary_en": "Ibn Kathir said regarding (أَو كَسَبَت فى إيمانِها خَيرًا): meaning that earning righteous deeds will not be accepted from a person if he was not acting upon such good before that."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "يطمع المؤمن في أن يؤمن الزعماء والساسة لأن ذلك مدعاة أن ينصلح حال\nالرعية ... لكن عدم إيمانهم لا ينبغي أن يكون سببا في استيحاش الطريق، إذ\nأن من قدر الله تعالى أن تكون السيادة في كثير من الأماكن والأزمنة لأهل\nالسوء. اذكر آية تدل على ذلك.",
+      "question_en": "A believer hopes that leaders and politicians will believe because that often leads to the reform of the populace. But their disbelief should not make one feel isolated on the path, since it is from Allah’s decree that authority in many places and times belongs to people of evil. Mention a verse indicating this.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          123
+        ],
+        "ayah_ar": "وَكَذَلِكَ جَعَلنا في كُلِّ قَرْيَةٍ أَكابِرَ مُجرِميها ليمكروا فيها وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِم\nوَما يَشْعُرُونَ) [الأنعام: 123]",
+        "ayah_en": "And thus We have placed in every city its greatest criminals to plot therein. But they do not plot except against themselves, though they do not perceive.",
+        "commentary_ar": "قال البغوي : (وَكَذلِكَ جَعَلنا فى كُلِّ قَرْيَةٍ أَكابِرَ مُجرميها) أي : كما أن فساق مكة\nأكابرها ، كذلك جعلنا فساق كل [ قرية ] أكابرها ، أي : عظماءها، جمع أكبر،\nمثل أفضل وأفاضل ، وأسود وأساود، وذلك سنة الله - تعالى - أنه جعل في كل\nقرية أتباع الرسل ضعفاءهم، كما قال في قصة نوح عليه السلام : (قَالُوا\nأَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ) [الشعراء : 111 ] ، وجعل فساقهم أكابرهم.",
+        "commentary_en": "Al-Baghawi said: Regarding (وَكَذَلِكَ جَعَلنا فى كُلِّ قَرْيَةٍ أَكابِرَ مُجرِميها): meaning, just as the sinners of Makkah were its كبار, likewise We made the sinners of every city its كبار—meaning its chiefs and great ones. “Akābir” is the plural of “akbar,” like “afḍal” and “afāḍil,” and “aswad” and “asāwid.” This is from Allah’s way: He makes the followers of the messengers the weaker ones in each city, as in the story of Nuh عليه السلام: (قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ) [الشعراء: 111], and He makes the sinners its great ones."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "وحي الله عز وجل ، لا يختار الله له إلا الكمل من البشر، ولا يمكن أن يختار الله\nله شخصا معيبًا . اذكر آية تبين أن الله يختار لوحيه أفضل البشر. اذكر آية\nتحمل معنى الاصطفاء.",
+      "question_en": "Allah’s revelation is only entrusted to the most complete of people; Allah would not choose for it someone deficient. Mention a verse showing that Allah chooses for His message the best of mankind—a verse carrying the meaning of divine selection.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          124
+        ],
+        "ayah_ar": "وَإِذا جاءَتهم آيةٌ قالوا لَن نُؤْمِنَ حَتَّى نُؤتى مثل ما أُوتِيَ رُسُلُ اللَّهِ اللَّهُ أَعْلَمُ حَيثُ\nيَجْعَلُ رِسَالَتَهُ سَيُصِيبُ الَّذِينَ أَجْرَمُوا صَغَارُ عِندَ اللَّهِ وَعَذَابٌ شَدِيدٌ بِما كانوا\nيمكرونَ) [الأنعام: 124]",
+        "ayah_en": "And when a sign comes to them, they say, “We will never believe until we are given like what was given to the messengers of Allah.” Allah is most knowing of where He places His message. Those who committed crimes will be struck with humiliation before Allah and a severe punishment for what they used to plot.",
+        "commentary_ar": "قال السعدي: ((اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ فيمن علمه يصلح لها، ويقوم\nبأعبائها، وهو متصف بكل خلق جميل ، ومتبرئ من كل خلق دنيء، أعطاه الله\nما تقتضيه حكمته أصلا وتبعا).",
+        "commentary_en": "Al-Sa‘di said: (اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ) meaning: Allah knows best where to place His message—placing it in the one whom He knows is fit for it and able to carry its burdens; one who is characterized by every noble trait and free from every low trait. Allah grants him what His wisdom requires, both in أصل and in consequence."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "من أعظم المحن التي يمر بها المسلم التخويف الذي يعانيه في حياته نتيجة\nتمسكه بأوامر الدين، وقلة من ينصره على الخير وضعفهم. اذكر آية تسلّي\nالمؤمنين من هذين الأمرين.",
+      "question_en": "Among the greatest trials a Muslim faces is the intimidation he experiences due to holding firmly to religious commands, and the small number—and weakness—of those who support him upon good. Mention a verse that consoles believers regarding these two matters.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          127
+        ],
+        "ayah_ar": "لَهُم دَارُ السَّلامِ عِندَ رَبِّهِم وَهُوَ وَلِيُّهُم بِما كانوا يعملونَ) [الأنعام: 127].",
+        "ayah_en": "For them will be the Home of Peace with their Lord, and He is their Protector because of what they used to do.",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "أن ترضى بالظلم حتى ولو لم تمارسه يجعلك من القوم الظالمين وملحقاً بهم.",
+      "question_en": "Being pleased with ظلم, even if you do not commit it yourself, makes you among the wrongdoing people and attached to them.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          83
+        ],
+        "ayah_ar": "فَأَنجَيْناهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كانَت مِنَ الغابرين) [الأعراف : 83]",
+        "ayah_en": "So We saved him and his family, except for his wife; she was among those who remained behind.",
+        "commentary_ar": "وذلك أن امرأة لوط لم تكن تمارس الفاشحة ومع ذلك ألحق الله بها العذاب\nوجعلها من القوم ( الغابرين ) يعني الهالكين، وذلك لرضاها بالظلم، وكانت\nتتجسس لهم على لوط وتأتيهم بأخباره.",
+        "commentary_en": "That is because the wife of Lut did not herself commit the فاحشة, yet Allah attached the punishment to her and made her among the people (الغابرين), meaning the destroyed ones. This was due to her approval of ظلم; and she used to spy for them regarding Lut and bring them his news."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "من نعم الله على الإنسان : الفطرة السليمة ، فهي تُعرف صاحبها قبح\nالمنكرات حتى لو لم يعرف حكم الشرع فيها . اذكر خمس كلمات من آية يُفهم\nمنها هذا المعنى.",
+      "question_en": "Among Allah’s blessings upon a person is the sound fitrah: it enables one to recognize the ugliness of evil deeds even if he does not know the legal ruling about them. Mention five words from a verse indicating this meaning.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          28
+        ],
+        "ayah_ar": "وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا وَاللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ\nبِالْفَحْشَاءِ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ) [الأعراف: 28].",
+        "ayah_en": "And when they commit an immorality, they say, “We found our fathers upon it, and Allah has commanded us to do it.” Say, “Indeed, Allah does not command immorality. Do you say about Allah that which you do not know?”",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "المبادئ الباطلة قبيحة في ذاتها . لذا فإنّها تحتاج إلى بهرجة وتزيين ليفتن الناس\nبها. لاحظ قوله تعالى : ( وَكَذَلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ\nلِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ﴾ [الأنعام: 137] . اذكر كلمة من آية أخرى تشير\nإلى هذا المعنى.",
+      "question_en": "False principles are ugly in themselves, so they require embellishment and beautification to tempt people. Consider Allah’s statement: “And thus their شركاء made pleasing to many of the مشرِكين the killing of their children…” (6:137). Mention a single word from another verse indicating this meaning.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          112
+        ],
+        "ayah_ar": "وَكَذَلِكَ جَعَلْنَا لِكُلِّ نَبِي عَدُوًّا شَيَاطِينَ الْإِنسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَى بَعْضٍ\nزُخْرُفَ الْقَوْلِ غُرُورًا وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ) [الأنعام: 112].",
+        "ayah_en": "And thus We have made for every prophet an enemy—devils from mankind and jinn, inspiring to one another adorned speech as deception. And if your Lord had willed, they would not have done it; so leave them and that which they invent.",
+        "commentary_ar": "قال ابن عاشور رحمه الله : وأفهم وصف القول بالزخرف أنه محتاج إلى\nالتحسين والزخرفة، وإنَّما يُحتاج القول إلى ذلك إذا كان غير مشتمل على ما\nيكسبه القبول في حد ذاته ، وذلك أنه كان يفضي إلى ضُر يحتاج قائله إلى تزيينه\nوتحسينه لإخفاء ما فيه من الضر، خشية أن ينفر عنه من يُسوّله لهم. فذلك\nالتزيين ترويج يستهوون به النفوس، كما تموه للصبيان اللعب بالألوان\nوالتذهيب.",
+        "commentary_en": "Ibn ‘Ashur رحمه الله said: Describing the speech as ﴿زُخْرُفَ﴾ indicates that it is in need of beautification and ornamentation. Speech is only in need of that when it does not contain, in itself, what naturally earns acceptance. This is because it leads to harm, so the speaker needs to adorn and improve it in order to hide the harm within it—fearing that the one being tempted would otherwise turn away from it. Thus, this adornment becomes a kind of promotion by which they captivate souls, just as toys are made attractive to children through colors and gilding."
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "يشتكي الناس من ظلم المتسلطين عليهم. لكن عليهم أن يتذكروا أن عُلُو\nهؤلاء المتسلطين عليهم قد يكون من العقوبات القدرية على كونهم هم قد\nباشروا أشكالاً من الظلم . اذكر آية تشير إلى هذا المعنى.",
+      "question_en": "People complain about the ظلم of those who dominate them, but they should remember that the rise of such oppressors may be a divine decree as a punishment because they themselves committed forms of ظلم. Mention a verse indicating this meaning.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          129
+        ],
+        "ayah_ar": "وَكَذَلِكَ نُوَلَّى بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ) [الأنعام: 129].",
+        "ayah_en": "And thus We make some of the wrongdoers allies of others because of what they used to earn.",
+        "commentary_ar": "قال القرطبي : وهذا تهديد للظالم : إن لم يمتنع من ظلمه سلط الله عليه\nظالما آخر. ويدخل في الآية جميع من يظلم نفسه أو يظلم الرعية، أو التاجر\nيظلم الناس في تجارته أو السارق وغيرهم.",
+        "commentary_en": "Al-Qurtubi said: This is a threat to the ظالم: if he does not stop his ظلم, Allah will impose upon him another ظالم. And the verse includes everyone who wrongs himself or wrongs the people; likewise a merchant who wrongs people in his trade, a thief, and others."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "وقوع علامات الساعة الكبرى يفوت الفرصة لا على الكفار فحسب، بل\nوعلى من قصر بعد إيمانه بدين الله . اذكر خمس كلمات تدل على ذلك.",
+      "question_en": "When the major signs of the Hour occur, the opportunity is lost not only for disbelievers, but also for the one who was negligent after believing in Allah’s religion. Mention five words indicating this meaning.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          158
+        ],
+        "ayah_ar": "هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ رَبُّكَ أَوْ يَأْتِيَ بَعْضُ آيَاتِ رَبِّكَ يَوْمَ\nيَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِي\nإِيمَانِهَا خَيْرًا قُلِ انتَظِرُوا إِنَّا مُنتَظِرُونَ) [الأنعام: 158].",
+        "ayah_en": "Do they await except that the angels should come to them, or that your Lord should come, or that some of the signs of your Lord should come? The Day some of the signs of your Lord come, no soul will benefit from its faith if it had not believed before or had not earned through its faith some good. Say, “Wait; indeed, we are waiting.”",
+        "commentary_ar": "قال السعدي في قوله تعالى (لَا يَنفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِن قَبْلُ أَوْ\nكَسَبَتْ فِي إِيمَانِهَا خَيْرًا ) أي : إذا وجد بعض آيات الله ( أي : علامات الساعة\nالكبرى ) ، لم ينفع الكافر إيمانه أن آمن، ولا المؤمن المقصر أن يزداد خيره بعد\nذلك، بل ينفعه ما كان معه من الإيمان قبل ذلك ، وما كان له من الخير المرجو\nقبل أن يأتي بعض الآيات.",
+        "commentary_en": "Al-Sa‘di said regarding Allah’s statement (لَا يَنفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا): meaning, when some of Allah’s signs occur (i.e., the major signs of the Hour), the disbeliever’s faith will not benefit him if he then believes, nor will the negligent believer benefit by increasing in good after that time. Rather, what benefits is the faith he already had before that, and the hoped-for good deeds he already possessed before some of the signs come."
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "ثلاث كلمات من آية كريمة تشير إلى أن الكفار سيحاسبون ويعاقبون في\nالآخرة على النعم التي تمتعوا بها في الدنيا لأنهم كفروا بالمنعم.",
+      "question_en": "Mention three words from a noble verse indicating that disbelievers will be questioned and punished in the Hereafter for the blessings they enjoyed in the world because they disbelieved in the One who bestowed them.",
+      "answer": {
+        "surah": 7,
+        "ayahs": [
+          32
+        ],
+        "ayah_ar": "(قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ وَالطَّيِّبَاتِ مِنَ الرِّزْقِ قُلْ هِيَ لِلَّذِينَ آمَنُوا\nفِي الْحَيَاةِ الدُّنْيَا خَالِصَةً يَوْمَ الْقِيَامَةِ كَذَلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ)\n[الأعراف : 32].",
+        "ayah_en": "Say, “Who has forbidden the adornment of Allah which He has produced for His servants and the good things of provision?” Say, “They are for those who believe in the life of this world, and exclusively for them on the Day of Resurrection.” Thus We detail the verses for a people who know.",
+        "commentary_ar": "قال ابن عاشور : ( والأظهر أن الضمير المستتر في خَالِصَةً عائد إلى الزينة\nوالطيبات الحاصلة في الحياة الدنيا بعينها ، أي هي خالصة لهم في الآخرة، ولا\nشك أن تلك الزينة والطيبات قد انقرضت في الدنيا، فمعنى خلاصها\nصفاؤها، وكونه في يوم القيامة : هو أن يوم القيامة مظهر صفائها أي خلوصها\nمن التبعات المنجرة منها ، وهي تبعات تحريمها، وتبعات تناول بعضها مع\nالكفر بالمنعم بها ، فالمؤمنون لما تناولوها في الدنيا تناولوها بإذن ربهم، بخلاف\nالمشركين فإنّهم يسألون عنها فيعاقبون على ما تناولوه منها في الدنيا، لأنهم\nكفروا نعمة المنعم بها ، فأشركوا به غيره ) .",
+        "commentary_en": "Ibn ‘Ashur said: It is most apparent that the hidden pronoun in (خَالِصَةً) refers back to the adornment and the good provisions found in this worldly life themselves—meaning that they will be purely for the believers in the Hereafter. And there is no doubt that those worldly adornments and provisions will have perished in the dunya; so the meaning of their becoming “exclusive” is their being purified and free of consequences. And their being “on the Day of Resurrection” means that the Day of Resurrection is when their purification and exclusivity becomes manifest—free from the liabilities connected to them, such as the liabilities of forbidding them unjustly, and the liabilities of consuming some of them while being ungrateful and disbelieving in the One who bestowed them.\n\nThus, the believers consumed them in the dunya with the permission of their Lord, unlike the مشرِكين: they will be questioned about them and punished for what they consumed in the dunya because they disbelieved in the blessing of the One who granted them, and they associated others with Him."
+      }
+    },
+    {
+      "qNum": 14,
+      "question_ar": "(ثُمَّ) تأتي في القرآن على الترتيب الزماني وكذلك الترتيب الرتبي أو الإخباري،\nأي ترتيب الإخبار بالأمور، وإن لم يكن ما بعد ( ثم) قد حصل متأخرا عما\nقبلها زمنياً . اذكر مثالا على الترتيب الإخباري.",
+      "question_en": "\"Thumma\" in the Qur’an can indicate chronological order, and it can also indicate rhetorical/informational ordering (the sequence of reporting), even if what comes after \"thumma\" did not occur later in time. Mention an example of this informational ordering.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          153,
+          154
+        ],
+        "ayah_ar": "وَأَنَّ هَذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ\nذَلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَتَّقُونَ ثُمَّ آتَيْنَا مُوسَى الْكِتَابَ تَمَامًا عَلَى الَّذِي\nأَحْسَنَ وَتَفْصِيلًا لِكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَاءِ رَبِّهِمْ يُؤْمِنُونَ)\n]154-153 :الأنعام[",
+        "ayah_en": "And indeed, this is My straight path, so follow it; and do not follow other ways, for you will be separated from His way. That is what He has instructed you with, so that you may have taqwa. Then We gave Moses the Book, complete for the one who did good, and as a detailed explanation of all things, and as guidance and mercy, so that they might believe in the meeting with their Lord.",
+        "commentary_ar": "قال السعدي : ((ثُمَّ) في هذا الموضع ، ليس المراد منها الترتيب الزماني، فإن\nزمن موسى عليه السلام ، متقدم على تلاوة الرسول محمد هذا الكتاب\n(أي: المذكورة في قوله تعالى : (قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ)\n[الأنعام : 151 ] في مطلع الآيات ) ، وإنما المراد الترتيب الإخباري . فأخبر أنه أتى\n( مُوسَى الْكِتَابَ) وهو التوراة (تَمَامًا لنعمته، وكمالا لإحسانه).",
+        "commentary_en": "Al-Sa‘di said: (ثُمَّ) in this place is not intended for chronological ordering, because the time of Musa عليه السلام precedes the recitation of this Book by the Messenger Muhammad (i.e., the recitation mentioned in Allah’s statement: (قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ) [الأنعام: 151] at the beginning of these verses). Rather, what is intended is informational ordering—an order in the sequence of reporting. So Allah informed that He gave (مُوسَى الْكِتَابَ)—the Torah—(تَمَامًا) as completion of His blessing and as perfection of His favor."
+      }
+    }
+  ]
+}

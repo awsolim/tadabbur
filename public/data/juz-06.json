@@ -1,0 +1,188 @@
+{
+  "juz": 6,
+  "items": [
+    {
+      "qNum": 1,
+      "question_ar": "قد تحصل معك مواقف يتضح فيها عناية الله بك أو استجابته لدعائك\nبشكل يستعصي على التفاسير المادية المعتادة، فتُسر بها . لكن عليك تذكر\nأن واجب الشكر يعظم وإثم كفران هذه المواقف يعظم كذلك.",
+      "question_en": "You may experience situations where Allah’s care or response to your supplication becomes clear in a way that cannot be explained materially, and you feel joy. But you must remember that gratitude then becomes greater, and ingratitude becomes more serious.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          115
+        ],
+        "ayah_ar": "قَالَ اللَّهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لَّا أُعَذِّبُهُ أَحَدًا مِّنَ الْعَالَمِينَ",
+        "commentary_ar": "قال البغوي : وذلك أن بني إسرائيل سألوا الله - تعالى - نزول مائدة من السماء، فأخبرهم الله : إن سألتم نزول المائدة فإنها ستنزل عليكم ، ولكن من يكفر بعد نزول المائدة فإنه يعذبه عذابًا لم يعذبه أحدا من عالم زمانهم.",
+        "commentary_en": "Al-Baghawi explained that when Bani Isra'il asked Allah to send down a table from the sky, Allah told them it would be sent. But whoever disbelieved afterward would receive an unprecedented punishment. The clearer the blessing, the heavier the responsibility of gratitude."
+      }
+    },
+    {
+      "qNum": 2,
+      "question_ar": "على المسلم أن يُوطّن نفسه على أن جزاء الأعمال والخصال الخيرة بتمامه\nهو في الآخرة، لا في الدنيا . اذكر جزءًا من آية يوضح هذا المفهوم.",
+      "question_en": "A Muslim must prepare himself to understand that the full reward of good deeds is in the Hereafter, not this world. Mention part of a verse clarifying this.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          119
+        ],
+        "ayah_ar": "قَالَ اللَّهُ هَذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ الْفَوْزُ الْعَظِيمُ",
+        "commentary_ar": "يعني تكون هذه الأشياء في يوم ينفع الصادقين في الدنيا صدقهم في الآخرة.",
+        "commentary_en": "The verse makes clear that truthfulness benefits fully on the Day of Judgment. The complete reward of righteous qualities appears in the Hereafter."
+      }
+    },
+    {
+      "qNum": 3,
+      "question_ar": "اذكر آية من الأجزاء السابقة تحمل المعنى نفسه.",
+      "question_en": "Mention a verse from previous ajza’ carrying the same meaning.",
+      "answer": {
+        "surah": 3,
+        "ayahs": [
+          185
+        ],
+        "ayah_ar": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ فَمَن زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+        "commentary_ar": "(وإنما ) أداة تفيد الحصر: يعني لن تستوفوا جزاء أعمالكم إلا يوم القيامة.",
+        "commentary_en": "The word \"إنما\" restricts meaning: full reward is only given on the Day of Resurrection."
+      }
+    },
+    {
+      "qNum": 4,
+      "question_ar": "كنت قد أجريت استبيانا في عدة مساجد حول أسباب الوقوع في المعاصي...\nاذكر آيتين متتاليتين تبينان أن الواحد منا قد يعمل عملا عظيما فيه كثير من التضحيات لكنه إن تهاون أثناءه بأمر من أوامر الله عز وجل فهو معرض لعقوبته تعالى.",
+      "question_en": "Mention two consecutive verses showing that a person may perform a great act, but if he neglects Allah’s command during it, he exposes himself to punishment.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          94,
+          95
+        ],
+        "ayah_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِّنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَن يَخَافُهُ بِالْغَيْبِ فَمَنِ اعْتَدَى بَعْدَ ذَلِكَ فَلَهُ عَذَابٌ أَلِيمٌ\nيَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنتُمْ حُرُمٌ ... وَمَنْ عَادَ فَيَنتَقِمُ اللَّهُ مِنْهُ وَاللَّهُ عَزِيزٌ ذُو انتِقَامٍ",
+        "commentary_ar": "فالعمل العظيم هنا هو الحج، ومع ذلك التهاون بحرمة الصيد يوجب العقوبة.",
+        "commentary_en": "The great act is Hajj, yet violating Allah’s prohibition during it results in punishment. Great deeds do not excuse disobedience."
+      }
+    },
+    {
+      "qNum": 5,
+      "question_ar": "من أكثر ما يعول عليه أتباع خرافة التطور ظاهرة الشبه بين كثير من الكائنات...\nاذكر أدل كلمة في آية على هذا المعنى.",
+      "question_en": "Mention the clearest word in a verse indicating similarity yet difference among created beings.",
+      "answer": {
+        "surah": 6,
+        "ayahs": [
+          99
+        ],
+        "ayah_ar": "وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً ... وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ",
+        "commentary_ar": "الكلمة الدالة هي: مُشْتَبِهًا.",
+        "commentary_en": "The key word is \"مُشْتَبِهًا\" (similar), followed by \"غير متشابه\" (not identical), showing resemblance without sameness."
+      }
+    },
+    {
+      "qNum": 6,
+      "question_ar": "كثير من الناس لا يهمه أمر الآخرة...\nاذكر آية تصف قوماً هذا حالهم.",
+      "question_en": "Mention a verse describing people who feel secure from worldly punishment and ignore the Hereafter.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          71
+        ],
+        "ayah_ar": "وَحَسِبُوا أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ... وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+        "commentary_ar": "ظنوا ألا يعاقبوا في الدنيا، فاستخفوا بالآخرة.",
+        "commentary_en": "They assumed no worldly punishment would come, so they neglected concern for the Hereafter."
+      }
+    },
+    {
+      "qNum": 7,
+      "question_ar": "الذي يتعمق في الحقائق ويتمكن منها...\nاذكر آية تدل على هذا المعنى من سياقها.",
+      "question_en": "Mention a verse showing that those firm in knowledge accept truth without stubborn demands.",
+      "answer": {
+        "surah": 4,
+        "ayahs": [
+          162
+        ],
+        "ayah_ar": "لكن الراسخونَ فِي العِلم مِنهُم وَالمُؤمِنونَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ ... أُولَبِكَ سَنُؤتِيهِم أَجْرًا عَظِيمًا",
+        "commentary_ar": "الراسخون في العلم يقبلون الوحي دون طلب خوارق.",
+        "commentary_en": "Those firm in knowledge accept revelation sincerely without demanding extraordinary signs."
+      }
+    },
+    {
+      "qNum": 8,
+      "question_ar": "هناك كلمة مستغربة من السياق...\nما هي هذه الكلمة ؟",
+      "question_en": "What is the word indicating that fear of Allah removes fear of enemies?",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          23
+        ],
+        "ayah_ar": "قَالَ رَجُلانِ مِنَ الَّذِينَ يَخَافُونَ ...",
+        "commentary_ar": "الكلمة هي: يَخَافُونَ.",
+        "commentary_en": "The word is: \"يَخَافُونَ\" – they feared Allah."
+      }
+    },
+    {
+      "qNum": 9,
+      "question_ar": "من حكمة الله تعالى أنه قد يُشرع لعباده المؤمنين تشريعاً فيه تيسير عليهم...\nاذكر جزءاً من آية ينبه على هذا الأمر.",
+      "question_en": "Mention part of a verse clarifying that permissibility does not mean approval of falsehood.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          5
+        ],
+        "ayah_ar": "وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ",
+        "commentary_ar": "الجملة معترضة لبيان أن الإباحة لا تعني تزكية حالهم.",
+        "commentary_en": "This inserted clause clarifies that permissibility does not equal approval of their belief."
+      }
+    },
+    {
+      "qNum": 10,
+      "question_ar": "ذكرنا في أسئلة الجزء الرابع أن المعصية تحرم من الخير...\nاذكر محل الشاهد من آية يحمل نفس المبدأ .",
+      "question_en": "Mention the proof phrase from a verse showing that sins deprive one of good.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          49
+        ],
+        "ayah_ar": "أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ",
+        "commentary_ar": "ذنوبهم كانت سبباً في حرمانهم من التوفيق.",
+        "commentary_en": "Their sins caused them to be deprived of guidance and success."
+      }
+    },
+    {
+      "qNum": 11,
+      "question_ar": "كلما استقام الإنسان على أمر الله ازداد انتفاعه بالقرآن...\nاذكر جزءاً من آية تدل على ذلك.",
+      "question_en": "Mention part of a verse showing that uprightness increases benefit from the Qur’an.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          16
+        ],
+        "ayah_ar": "يَهْدِى بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلام",
+        "commentary_ar": "الانتفاع بالقرآن مرتبط باتباع رضوان الله.",
+        "commentary_en": "Benefit from the Qur’an is tied to seeking Allah’s pleasure."
+      }
+    },
+    {
+      "qNum": 12,
+      "question_ar": "ينبغي للعبد التسليم لحكم الله...\nاذكر خاتمة آية من خمس كلمات تشير إلى هذا المعنى.",
+      "question_en": "Mention the ending of a verse indicating submission to Allah’s judgment.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          1
+        ],
+        "ayah_ar": "إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ",
+        "commentary_ar": "الله يحكم بعلم وحكمة.",
+        "commentary_en": "Allah legislates with perfect knowledge and wisdom."
+      }
+    },
+    {
+      "qNum": 13,
+      "question_ar": "منزلة اليقين منزلة عظيمة...\nاذكر آية تدل على ذلك.",
+      "question_en": "Mention a verse showing the rank of certainty.",
+      "answer": {
+        "surah": 5,
+        "ayahs": [
+          50
+        ],
+        "ayah_ar": "أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ",
+        "commentary_ar": "",
+        "commentary_en": ""
+      }
+    }
+  ]
+}

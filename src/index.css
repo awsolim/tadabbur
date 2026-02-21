@@ -51,3 +51,25 @@ body {
   font-family: "Amiri", serif; /* NEW: ensures ﴿﴾ glyphs exist */
   font-weight: 700;            /* NEW: make bracket weight match bold ayah */
 }
+
+/* FIX: don't add padding that visually separates brackets from the words */
+.quran-bracket {
+  padding: 0; /* CHANGED: was 0 0.25rem; this causes visible separation */
+}
+
+/* FIX: render bracketed ayah as a single RTL run that can't be re-ordered */
+.quran-token {
+  direction: rtl;                 /* NEW: force RTL for the whole token */
+  unicode-bidi: isolate-override; /* NEW: strongest bidi isolation to stop bracket flipping */
+  display: inline-block;          /* NEW: keeps brackets attached to the run */
+  font-family: "Amiri", serif;    /* NEW: stable glyphs for ﴿﴾ */
+  font-weight: 700;              /* NEW: match the bracket weight */
+}
+
+/* FIX: Arabic inside English parentheses should not flip parentheses */
+.rtl-paren {
+  direction: rtl;                 /* NEW: correct direction inside parentheses */
+  unicode-bidi: isolate-override; /* NEW: prevents ( ) from flipping */
+  display: inline-block;          /* NEW: keeps the parentheses hugging the Arabic */
+  font-family: "IBM Plex Sans Arabic", sans-serif; /* NEW: match your Arabic paragraph font */
+}

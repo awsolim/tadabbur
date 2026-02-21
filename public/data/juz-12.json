@@ -1,0 +1,149 @@
+{
+  "juz": 12,
+  "items": [
+  {
+    "qNum": 1,
+    "question_ar": "قد يظن القارئ لقوله تعالى - حكاية عن نبيه لوط - في سورة الحجر هَؤُلَاءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ) [ الحجر : 71 ] أنه يدعو قومه المعصية أهون من معصية . اذكر ثلاث كلماتٍ من آية في هذا الجزء تدفع هذا الظن.",
+    "question_en": "A reader of the verse in which Prophet Lūṭ says in Sūrat al-Ḥijr: (هَؤُلَاءِ بَنَاتِي إِن كُنتُمْ فَاعِلِينَ) [15:71] might think he was inviting his people to commit a lesser sin instead of a greater one. Mention three words from a verse in this Juz that dispel this misunderstanding.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [78],
+      "ayah_ar": "وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّئَاتِ قَالَ يَا قَوْمِ هَؤُلَاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ فَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ فِي ضَيْفِي أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
+      "commentary_ar": "",
+      "commentary_en": ""
+    }
+  },
+  {
+    "qNum": 2,
+    "question_ar": "من أهم الحواجز النفسية التي ينبغي العمل على كسرها في نفوس المخاطبين بالدعوة ظنهم أننا ندعوهم في سبيل تحصيل مصالح دنيوية . اذكر آية تدل على ذلك .",
+    "question_en": "One of the most important psychological barriers in daʿwah is the suspicion that we are calling people for worldly gain. Mention a verse that addresses this.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [29],
+      "ayah_ar": "وَيَا قَوْمِ لَا أَسْأَلُكُمْ عَلَيْهِ مَالًا إِنْ أَجْرِيَ إِلَّا عَلَى اللَّهِ وَمَا أَنَا بِطَارِدِ الَّذِينَ آمَنُوا إِنَّهُم مُّلَاقُو رَبِّهِمْ وَلَكِنِّي أَرَاكُمْ قَوْمًا تَجْهَلُونَ",
+      "commentary_ar": "",
+      "commentary_en": ""
+    }
+  },
+  {
+    "qNum": 3,
+    "question_ar": "اذكر كلمة من جزء اليوم يستدل بها بعض العلماء على أن مجرد بلاغة القرآن وفصاحته كافية في الإعجاز بقطع النظر عن علو معانيه وما حواه من الدلالات الأخرى على أنه من عند الله .",
+    "question_en": "Mention a word from this Juz by which some scholars argue that the Qur’an’s eloquence alone is sufficient proof of its miraculous nature, regardless of its elevated meanings and other evidences.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [13],
+      "ayah_ar": "أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِّثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ",
+      "commentary_ar": "قال ابن عاشور في تفسيره : ( ومعنى مُفتَرَياتٍ أنها مفتريات المعاني كما تزعمون على القرآن أي بمثل قصص أهل الجاهلية وتكاذيبهم . وهذا من إرخاء العنان والتسليم الجدلي ، فالمماثلة في قوله مثله هي المماثلة في بلاغة الكلام وفصاحته لا في سداد معانيه . قال علماؤنا : وفي هذا دليل على أن إعجازه وفصاحته بقطع النظر عن علوّ معانيه وتصديق بعضه بعضا).",
+      "commentary_en": "Ibn ʿĀshūr said in his Tafsīr: “The meaning of مُفْتَرَيَاتٍ is fabricated in meaning as you claim against the Qur’an — meaning similar to the tales and falsehoods of the people of ignorance. This is a form of rhetorical concession and dialectical argument. Thus, the resemblance in the phrase ‘like it’ refers to resemblance in eloquence and clarity of speech, not in the soundness of meanings. Our scholars have said: In this is proof that its miraculous nature and eloquence stand independently of the loftiness of its meanings and the mutual confirmation of its parts.”"
+    }
+  },
+  {
+    "qNum": 4,
+    "question_ar": "قوم من أقوام الأنبياء كرروا في جحدهم رسالة نبيهم كلمةً ، فقابلها نبيهم بكلمة تطعن في أفهامهم وتقديراتهم التي اعتمدوا عليها . ما هي هذه الكلمة ؟",
+    "question_en": "A group among the peoples of the Prophets repeatedly used a certain word in rejecting their Prophet. He responded with a word that challenged their understanding and judgment. What is that word?",
+    "answer": {
+      "surah": 11,
+      "ayahs": [27,28],
+      "ayah_ar": "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا نَرَاكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ ۝ قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي رَحْمَةً مِّنْ عِندِهِ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَارِهُونَ",
+      "commentary_ar": "",
+      "commentary_en": ""
+    }
+  },
+  {
+    "qNum": 5,
+    "question_ar": "قد يساوم أهل الباطل المسلم بالترغيب بإشعاره أنه سيبقى محترماً عندهم إذا تخلى عن دعوته . اذكر موضعين في كل منهما 4 كلمات استخدم فيهما قوم نبي هذا الأسلوب.",
+    "question_en": "People of falsehood may attempt to entice a believer by suggesting he will remain respected among them if he abandons his call. Mention two places (four words each) where a Prophet’s people used this approach.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [62,87],
+      "ayah_ar": "قَالُوا يَا صَالِحُ قَدْ كُنتَ فِينَا مَرْجُوًّا قَبْلَ هَٰذَا ۝ قَالُوا يَا شُعَيْبُ أَصَلَاتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ آبَاؤُنَا أَوْ أَن نَّفْعَلَ فِي أَمْوَالِنَا مَا نَشَاءُ إِنَّكَ لَأَنتَ الْحَلِيمُ الرَّشِيدُ",
+      "commentary_ar": "وقد قيل في تفسيرها أيضا أنها قيلت على وجه الاستهزاء والسخرية.",
+      "commentary_en": "It has also been said in its interpretation that this statement was made in mockery and ridicule."
+    }
+  },
+  {
+    "qNum": 6,
+    "question_ar": "التسويف بالاستقامة ، وتمنية النفس أن هذا آخر الأخطاء، مدخل شيطاني لاقتحام المخالفة ثم الركون إلى مثلها . اذكر خمس كلمات من آية فيها ذكر لتسويف كهذا.",
+    "question_en": "Delaying repentance and convincing oneself that this will be the last mistake is a satanic entrance into sin. Mention five words from a verse referring to such procrastination.",
+    "answer": {
+      "surah": 12,
+      "ayahs": [9],
+      "ayah_ar": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْمًا صَالِحِينَ",
+      "commentary_ar": "قال السعدي في تفسيره : ( وَتَكونوا مِن بَعدِهِ ) أي : من بعد هذا الصنيع قَوْمًا صَالِحِينَ) أي : تتوبون إلى الله ، وتستغفرون من بعد ذنبكم. فقدموا العزم على التوبة قبل صدور الذنب منهم تسهيلا لفعله، وإزالة لشناعته، وتنشيطا من بعضهم لبعض ).",
+      "commentary_en": "Al-Saʿdī said: “And ‘you will become thereafter righteous people’ means: after this act you will repent to Allah and seek forgiveness after your sin. They put forward the resolve to repent before committing the sin to make it easier to carry out, to lessen its ugliness, and to encourage one another toward it.”"
+    }
+  },
+  {
+    "qNum": 7,
+    "question_ar": "عزة النفس تزيد ثقة الناس بصدقك . اذكر آية تدل على ذلك.",
+    "question_en": "Self-respect and dignity increase people’s trust in your truthfulness. Mention a verse indicating this.",
+    "answer": {
+      "surah": 12,
+      "ayahs": [51],
+      "ayah_ar": "قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِ ۖ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ ۚ قَالَتِ امْرَأَةُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدتُّهُ عَن نَّفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ",
+      "commentary_ar": "فعزة نفس يوسف ورفضه الخروج إلا بعد ظهور براءته كان من أسباب زيادة ثقة الملك به والذي استقصى الأمر ثم جمع النسوة فقال ما خَطْبُكُنَّ إذ راودتُنَّ يُوسُفَ عَن نَفْسِهِ.",
+      "commentary_en": "The dignity of Yūsuf and his refusal to leave prison until his innocence was made clear was among the reasons the king’s trust in him increased. The king investigated the matter and gathered the women, saying: “What was your case when you sought to seduce Yūsuf?”"
+    }
+  },
+  {
+    "qNum": 8,
+    "question_ar": "آية يستدل بها أهل العلم على أن الذي أُمِرَ إبراهيم بذبحه هو اسماعيل وليس إسحاق.",
+    "question_en": "Mention a verse used by scholars as evidence that the son whom Ibrāhīm was commanded to sacrifice was Ismāʿīl, not Isḥāq.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [71],
+      "ayah_ar": "وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِن وَرَاءِ إِسْحَاقَ يَعْقُوبَ",
+      "commentary_ar": "قال ابن كثير: وَمِنْ هَاهُنَا اسْتَدَلَّ مَنِ اسْتَدَلَّ بِهَذِهِ الْآيَةِ ، عَلَى أَنَّ الذَّبِيحَ إِنَّمَا هُوَ إِسْمَاعِيلُ ، وَأَنَّهُ يُمْتَنَعُ أَنْ يَكُونَ هُوَ إِسْحَاقُ؛ لِأَنَّهُ وَقَعَتِ الْبِشَارَةُ بِهِ ، وَأَنَّهُ سَيُولَدُ لَهُ يَعْقُوبُ ، فَكَيْفَ يُؤْمَرُ إِبْرَاهِيمُ بِذَبْحِهِ وَهُوَ طِفْلٌ صَغِيرٌ، وَلَمْ يُولَدْ لَهُ بَعْدُ يَعْقُوبُ الْمَوْعُودُ بِوُجُودِهِ. وَوَعْدُ اللَّهِ حَقٌّ لَا خُلْفَ فِيهِ.",
+      "commentary_en": "Ibn Kathīr said: “From here those who argue with this verse deduce that the one intended for sacrifice was Ismāʿīl, and that it is impossible for him to have been Isḥāq; because glad tidings had already been given of him and that Yaʿqūb would be born to him. So how could Ibrāhīm be commanded to slaughter him while he was still a young child and Yaʿqūb, whose existence was promised, had not yet been born? The promise of Allah is true and does not fail.”"
+    }
+  },
+  {
+    "qNum": 9,
+    "question_ar": "ما يحل بالأمم من بلايا لا يتعظ به إلا المؤمنون... اذكر آية في نهاية مجموعة من قصص السابقين تحمل هذا المعنى.",
+    "question_en": "The calamities that befall nations are only taken as lessons by believers. Mention a verse at the end of a group of past narratives that carries this meaning.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [103],
+      "ayah_ar": "إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ",
+      "commentary_ar": "قال ابن القيم في الفوائد : ( لما ذكر سبحانه في سورة هود عقوبات الأمم المكذبين للرسل، وما حل بهم في الدنيا من الخزي، قال بعد ذلك ﴿إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ﴾ فأخبر أن عقوباته للمكذبين عبرة لمن خاف عذاب الآخرة، وأما من لا يؤمن بها ولا يخاف عذابها فلا يكون ذلك عبرة وآية في حقه ).",
+      "commentary_en": "Ibn al-Qayyim said: “After Allah mentioned in Sūrat Hūd the punishments of the nations who denied the Messengers and what befell them in this world of disgrace, He said: ﴿إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ﴾. Thus He informed that His punishments of the deniers are a lesson for one who fears the punishment of the Hereafter. As for the one who does not believe in it nor fear its punishment, it is not a lesson nor a sign for him.”"
+    }
+  },
+  {
+    "qNum": 10,
+    "question_ar": "اذكر آية تبين أن التصدي لأهل الفساد هو سبب للحفاظ على الأمم من الهلاك.",
+    "question_en": "Mention a verse showing that confronting corruption is a reason for preserving nations from destruction.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [117],
+      "ayah_ar": "وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ",
+      "commentary_ar": "",
+      "commentary_en": ""
+    }
+  },
+  {
+    "qNum": 11,
+    "question_ar": "اذكر آية تشير إلى أن حال الإنسان في الدنيا من فقر أو غنى لا علاقة له بمنزلته عند الله.",
+    "question_en": "Mention a verse indicating that a person’s worldly condition—poverty or wealth—has no relation to their status before Allah.",
+    "answer": {
+      "surah": 11,
+      "ayahs": [31],
+      "ayah_ar": "وَلَا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ إِنِّي مَلَكٌ وَلَا أَقُولُ لِلَّذِينَ تَزْدَرِي أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ اللَّهُ خَيْرًا اللَّهُ أَعْلَمُ بِمَا فِي أَنفُسِهِمْ إِنِّي إِذًا لَّمِنَ الظَّالِمِينَ",
+      "commentary_ar": "قال ابن عاشور رحمه الله : إذ لا ارتباط بين الضعف في الأمور الدنيوية من فقر وقلة وبين الحرمان من نوال الكمالات النفسانية والدينية.",
+      "commentary_en": "Ibn ʿĀshūr said: There is no connection between weakness in worldly matters such as poverty or scarcity and deprivation from attaining spiritual and religious perfections."
+    }
+  },
+  {
+    "qNum": 12,
+    "question_ar": "حسن سيرتك خير دعوة ، إذ هو يجعل الناس يطلبون علمك من أنفسهم. اذكر خاتمة آية من أربع كلمات تشير إلى هذا المعنى.",
+    "question_en": "Good character is the best form of daʿwah, as it causes people to seek your knowledge themselves. Mention the four-word ending of a verse that indicates this meaning.",
+    "answer": {
+      "surah": 12,
+      "ayahs": [36],
+      "ayah_ar": "نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+      "commentary_ar": "",
+      "commentary_en": ""
+    }
+  }
+]
+}

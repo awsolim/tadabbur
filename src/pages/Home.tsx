@@ -37,6 +37,24 @@ export default function Home() {
           </Link>
         ))}
       </div>
+
+      {/* NEW: bottom-centered button for the bonus section */}
+      <div style={{ marginTop: 28, display: "flex", justifyContent: "center" }}>
+        <Link
+          to="/juz/bonus" // NEW: routes to the same JuzPage, but loads bonus.json
+          style={{
+            border: "2px solid #2f2f2f", // NEW: matches the “boxed” look from your screenshot
+            borderRadius: 18, // NEW: rounded pill/box feel
+            padding: "12px 18px", // NEW: comfortable tap target
+            textDecoration: "none",
+            color: "inherit",
+            fontWeight: 800, // NEW: bold like the Arabic title
+            background: "#e7dfbf", // NEW: warm beige similar to the screenshot
+          }}
+        >
+          Questions of the Hypocrites
+        </Link>
+      </div>
     </div>
   );
 }
