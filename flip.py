@@ -1,59 +1,78 @@
-import os
 import json
-import shutil
+from pathlib import Path
 
-DATA_DIR = "public/data"
+# Path to your data folder
+DATA_DIR = Path("public/data")
 
-# Character flip mapping
-FLIP_MAP = {
-    # "(": ")",
-    # ")": "(",
-    "﴿": "﴾",
-    "﴾": "﴿",
+# All characters to remove from ayah_ar
+CHARS_TO_REMOVE = {
+    "(", ")",            # normal parentheses
+    "（", "）",          # fullwidth
+    "﹙", "﹚",          # small variants
+    "⁽", "⁾",           # superscript
+    "₍", "₎",           # subscript
+    "﴿", "﴾",           # Quranic brackets
 }
 
-def flip_parentheses(text: str) -> str:
-    """Flip all parentheses characters using FLIP_MAP."""
-    return "".join(FLIP_MAP.get(ch, ch) for ch in text)
+def clean_text(text: str) -> str:
+    """Remove all configured characters from text."""
+    return "".join(ch for ch in text if ch not in CHARS_TO_REMOVE)
 
+def process_file(path: Path) -> bool:
+    """Remove parentheses/brackets from answer.ayah_ar in one file."""
+    raw = path.read_text(encoding="utf-8")
+    data = json.loads(raw)
 
-def process_json_file(path: str):
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    changed = False
 
-    if not isinstance(data, dict) or "items" not in data:
-        return
+    items = data.get("items")
+    if not isinstance(items, list):
+        return False
 
-    modified = False
+    for item in items:
+        if not isinstance(item, dict):
+            continue
 
-    for item in data["items"]:
-        if "question_en" in item and isinstance(item["question_en"], str):
-            original = item["question_en"]
-            flipped = flip_parentheses(original)
+        answer = item.get("answer")
+        if not isinstance(answer, dict):
+            continue
 
-            if flipped != original:
-                item["question_en"] = flipped
-                modified = True
+        ayah_ar = answer.get("ayah_ar")
 
-    if modified:
-        backup_path = path + ".bak"
-        shutil.copy2(path, backup_path)  # backup original
+        if isinstance(ayah_ar, str) and ayah_ar:
+            cleaned = clean_text(ayah_ar)
+            if cleaned != ayah_ar:
+                answer["ayah_ar"] = cleaned
+                changed = True
 
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+    if changed:
+        path.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8"
+        )
 
-        print(f"Updated: {path}")
-    else:
-        print(f"No changes: {path}")
-
+    return changed
 
 def main():
-    for root, _, files in os.walk(DATA_DIR):
-        for file in files:
-            if file.endswith(".json"):
-                full_path = os.path.join(root, file)
-                process_json_file(full_path)
+    if not DATA_DIR.exists():
+        raise SystemExit(f"Data folder not found: {DATA_DIR.resolve()}")
 
+    files = sorted(DATA_DIR.rglob("*.json"))
+    if not files:
+        print("No JSON files found.")
+        return
+
+    changed_count = 0
+
+    for file in files:
+        try:
+            if process_file(file):
+                changed_count += 1
+                print(f"Updated: {file}")
+        except json.JSONDecodeError as e:
+            print(f"Skipped (invalid JSON): {file} -> {e}")
+
+    print(f"\nDone. Updated {changed_count} file(s) out of {len(files)} total.")
 
 if __name__ == "__main__":
     main()

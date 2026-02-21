@@ -1,21 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { loadJuz } from "../lib/loadJuz";
-import type { Difficulty, JuzData, TranslationData } from "../types"; // NEW: Difficulty tag type
-
-// normalize Arabic copied from PDFs so it can flow full width.
-// - Keeps real paragraph breaks (blank lines).
-// - Converts single hard line breaks into spaces.
-// Accept possibly-missing text safely.
-function normalizeArabicParagraphs(text?: string) {
-  const safeText = text ?? "";
-
-  return safeText
-    .replace(/\r/g, "")
-    .split(/\n\s*\n+/)
-    .map((p) => p.replace(/\n+/g, " ").trim())
-    .join("\n\n");
-}
+import type { JuzData, TranslationData } from "../types";
 
 /**
  * English + Arabic Surah name lookups by index (1..114).
@@ -259,9 +245,32 @@ const SURAH_AR = [
 
 type LanguageMode = "Both" | "Arabic" | "English";
 
+// NEW: local difficulty type (keeps this file working even if you haven't updated types.ts yet)
+type Difficulty = "easy" | "med" | "hard"; // NEW
+
+// NEW: map difficulty -> Tailwind badge classes
+function getDifficultyClasses(difficulty: Difficulty) {
+  if (difficulty === "easy") return "bg-emerald-50 text-emerald-700 border-emerald-200"; // NEW
+  if (difficulty === "med") return "bg-amber-50 text-amber-700 border-amber-200"; // NEW
+  return "bg-red-50 text-red-700 border-red-200"; // NEW ("hard")
+}
+
 /** Detect Arabic letters for bidi-safe rendering decisions. */
 function hasArabicLetters(text: string) {
   return /[\u0600-\u06FF]/.test(text);
+}
+
+/** Create a friendly ayah label: "45" or "45-46" or "45, 47". */
+function formatAyahsLabel(ayahs: number[]) {
+  if (!ayahs || ayahs.length === 0) return "";
+  const sorted = [...ayahs].sort((a, b) => a - b);
+
+  const isConsecutive =
+    sorted.length > 1 &&
+    sorted.every((n, idx) => (idx === 0 ? true : n === sorted[idx - 1] + 1));
+
+  if (isConsecutive) return `${sorted[0]}-${sorted[sorted.length - 1]}`;
+  return sorted.join(", ");
 }
 
 function AyahToken({ inner }: { inner: string }) {
@@ -295,48 +304,14 @@ function renderWithAyahBrackets(text: string) {
  */
 function getEnglishAyahs(translation: TranslationData | null, surah: number, ayahs: number[]) {
   if (!translation) return "";
-  const verses = translation[String(surah)];
+  const verses = (translation as any)[String(surah)];
   if (!Array.isArray(verses)) return "";
 
   const texts = ayahs
-    .map((n) => verses.find((v) => v.verse === n)?.text ?? "")
+    .map((n) => verses.find((v: any) => v.verse === n)?.text ?? "")
     .filter(Boolean);
 
   return texts.join("\n");
-}
-
-/** Create a friendly ayah label: "45" or "45-46" or "45, 47". */
-function formatAyahsLabel(ayahs: number[]) {
-  if (!ayahs || ayahs.length === 0) return "";
-  const sorted = [...ayahs].sort((a, b) => a - b);
-
-  const isConsecutive =
-    sorted.length > 1 && sorted.every((n, idx) => (idx === 0 ? true : n === sorted[idx - 1] + 1));
-
-  if (isConsecutive) return `${sorted[0]}-${sorted[sorted.length - 1]}`;
-  return sorted.join(", ");
-}
-
-// NEW: UI helpers for the optional per-question tags (difficulty + theme)
-function getDifficultyLabel(level: Difficulty) {
-  // NEW: presentable labels for the tag chip
-  if (level === "easy") return "Easy";
-  if (level === "med") return "Med";
-  return "Hard";
-}
-
-function getDifficultyClasses(level: Difficulty) {
-  // NEW: color palette for difficulty chips
-  switch (level) {
-    case "easy":
-      return "bg-green-50 text-green-700 ring-green-200";
-    case "med":
-      return "bg-yellow-50 text-yellow-800 ring-yellow-200";
-    case "hard":
-      return "bg-red-50 text-red-700 ring-red-200";
-    default:
-      return "bg-slate-50 text-slate-700 ring-slate-200";
-  }
 }
 
 export default function JuzPage() {
@@ -346,7 +321,7 @@ export default function JuzPage() {
   const rawId =
     (params as any).id ?? (params as any).juz ?? (params as any).juzNumber ?? (params as any).num;
 
-  // compute a "juzKey" that can be number (1..30) OR string ("bonus")
+  // Compute a "juzKey" that can be number (1..30) OR string ("bonus")
   const juzKey = useMemo(() => {
     if (!rawId) return null;
     const s = String(rawId).trim();
@@ -398,6 +373,7 @@ export default function JuzPage() {
 
   const headers = {
     answer: language === "Arabic" ? "الآية" : "Answer",
+    translation: language === "Arabic" ? "الترجمة" : "Translation",
     explanation: language === "Arabic" ? "الشرح" : "Explanation",
   };
 
@@ -443,9 +419,10 @@ export default function JuzPage() {
     );
   }
 
+  // Nicer title for the bonus section
   const pageTitle =
     typeof juzKey === "string" && juzKey.trim().toLowerCase() === "bonus"
-      ? "Advanced Questions"
+      ? "Outstanding Questions"
       : `Juz ${data?.juz}`;
 
   return (
@@ -512,26 +489,31 @@ export default function JuzPage() {
 
         {/* Items */}
         <div className="space-y-5">
-          {filtered.map((item, index) => {
+          {filtered.map((item: any, index) => {
             const isOpen = openSet.has(index);
 
             const hasExplanation =
               Boolean(item.answer.commentary_ar?.trim()) || Boolean(item.answer.commentary_en?.trim());
 
+            // Resolve reference info safely (surah can be null in some datasets)
             const surahNum = item.answer.surah;
             const ayahNums = item.answer.ayahs ?? [];
-
-            const ayahEn =
-              surahNum == null ? "" : getEnglishAyahs(translation, surahNum, ayahNums);
-
-            const surahEnName =
-              surahNum == null ? "" : SURAH_EN[surahNum] ?? `Surah ${surahNum}`;
-            const surahArName = surahNum == null ? "" : SURAH_AR[surahNum] ?? "";
-
             const ayahsLabel = formatAyahsLabel(ayahNums);
+
+            const surahEnName = surahNum == null ? "" : SURAH_EN[surahNum] ?? `Surah ${surahNum}`;
+            const surahArName = surahNum == null ? "" : SURAH_AR[surahNum] ?? "";
 
             const refEn = surahNum == null ? "" : `Surah ${surahEnName} — Ayah ${ayahsLabel}`;
             const refAr = surahNum == null ? "" : `سورة ${surahArName} — الآية ${ayahsLabel}`;
+
+            const englishAyahs =
+              surahNum == null || ayahNums.length === 0 ? "" : getEnglishAyahs(translation, surahNum, ayahNums);
+
+            const ayahArRaw = item.answer.ayah_ar ?? "";
+
+            // NEW: read optional tags from JSON
+            const difficulty = (item.difficulty ?? "").trim().toLowerCase() as Difficulty | ""; // NEW
+            const theme = (item.theme ?? "").trim(); // NEW
 
             return (
               <div
@@ -543,29 +525,32 @@ export default function JuzPage() {
                   className="w-full text-left px-5 py-4 hover:bg-slate-50 transition flex items-start justify-between gap-4"
                 >
                   <div className="space-y-1">
-                    <div className="flex items-center gap-2 flex-wrap">
+                    {/* NEW: Q number row + tags */}
+                    <div className="flex items-center gap-2">
                       <div className="text-xs text-slate-500">Q{item.qNum}</div>
 
-                      {item.difficulty && (
+                      {/* NEW: difficulty badge (optional) */}
+                      {difficulty && (difficulty === "easy" || difficulty === "med" || difficulty === "hard") && (
                         <span
-                          className={`text-[11px] font-semibold px-2 py-0.5 rounded-full ring-1 ${getDifficultyClasses(
-                            item.difficulty,
+                          className={`text-[11px] px-2 py-0.5 rounded-full border ${getDifficultyClasses(
+                            difficulty
                           )}`}
                         >
-                          {getDifficultyLabel(item.difficulty) /* NEW: friendly label */}
+                          {difficulty}
                         </span>
                       )}
 
-                      {item.theme && (
-                        <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full ring-1 bg-blue-50 text-blue-700 ring-blue-200">
-                          {item.theme /* NEW: free-text theme tag */}
+                      {/* NEW: theme badge (optional, always blue styling) */}
+                      {theme && (
+                        <span className="text-[11px] px-2 py-0.5 rounded-full border bg-blue-50 text-blue-700 border-blue-200">
+                          {theme}
                         </span>
                       )}
                     </div>
 
                     {(language === "English" || language === "Both") && (
                       <div className="text-sm font-semibold text-slate-900 leading-6">
-                        {renderWithAyahBrackets(item.question_en ?? "")}
+                        {item.question_en}
                       </div>
                     )}
 
@@ -584,53 +569,70 @@ export default function JuzPage() {
                 </button>
 
                 {isOpen && (
-                  <div className="px-5 pb-5 space-y-4">
-                    {/* Answer */}
-                    <div className="space-y-1">
+                  <div className="px-5 pb-5 space-y-5">
+                    {/* Answer (Arabic + English translation in their own boxed areas) */}
+                    <div className="space-y-2">
                       <div className="text-xs font-semibold text-slate-500">{headers.answer}</div>
 
-                      {(language === "English" || language === "Both") && (
-                        <div className="text-sm text-slate-800 whitespace-pre-line">{ayahEn}</div>
-                      )}
-
+                      {/* Arabic Ayah box (bigger, boxed) */}
                       {(language === "Arabic" || language === "Both") && (
-                        <div
-                          className="text-sm text-slate-800 whitespace-pre-line"
-                          dir={hasArabicLetters(item.answer.ayah_ar ?? "") ? "rtl" : "ltr"}
-                          style={{ unicodeBidi: "plaintext" }}
-                        >
-                          {renderWithAyahBrackets(normalizeArabicParagraphs(item.answer.ayah_ar ?? ""))}
+                        <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                          <div
+                            className="text-lg leading-9 text-slate-900 whitespace-pre-line"
+                            dir={hasArabicLetters(ayahArRaw) ? "rtl" : "ltr"}
+                            style={{ unicodeBidi: "plaintext" }}
+                          >
+                            {renderWithAyahBrackets(ayahArRaw)}
+                          </div>
+
+                          {/* Arabic ref goes at the VERY end of the Arabic box */}
+                          {refAr && (
+                            <div className="mt-3 text-xs text-slate-500" dir="rtl" style={{ unicodeBidi: "plaintext" }}>
+                              {refAr}
+                            </div>
+                          )}
                         </div>
                       )}
 
-                      {/* Reference line */}
-                      {(refEn || refAr) && (
-                        <div className="text-xs text-slate-500 pt-1">
-                          {(language === "English" || language === "Both") && refEn}
-                          {(language === "Both" && refEn && refAr) && " • "}
-                          {(language === "Arabic" || language === "Both") && refAr}
+                      {/* English translation box (boxed), with ref at end */}
+                      {(language === "English" || language === "Both") && (
+                        <div className="bg-white border border-slate-200 rounded-xl p-4">
+                          <div className="text-xs font-semibold text-slate-500 mb-2">
+                            {headers.translation}
+                          </div>
+
+                          <div className="text-sm text-slate-800 whitespace-pre-line">
+                            {englishAyahs}
+                          </div>
+
+                          {/* English ref goes at the VERY end of the English translation box */}
+                          {refEn && <div className="mt-3 text-xs text-slate-500">{refEn}</div>}
                         </div>
                       )}
                     </div>
 
                     {/* Explanation */}
                     {hasExplanation && (
-                      <div className="space-y-1">
+                      <div className="space-y-2">
                         <div className="text-xs font-semibold text-slate-500">{headers.explanation}</div>
 
                         {(language === "English" || language === "Both") && (
-                          <div className="text-sm text-slate-800 whitespace-pre-line">
-                            {item.answer.commentary_en}
+                          <div className="bg-white border border-slate-200 rounded-xl p-4">
+                            <div className="text-sm text-slate-800 whitespace-pre-line">
+                              {item.answer.commentary_en}
+                            </div>
                           </div>
                         )}
 
                         {(language === "Arabic" || language === "Both") && (
-                          <div
-                            className="text-sm text-slate-800 whitespace-pre-line"
-                            dir="rtl"
-                            style={{ unicodeBidi: "plaintext" }}
-                          >
-                            {normalizeArabicParagraphs(item.answer.commentary_ar)}
+                          <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                            <div
+                              className="text-sm text-slate-800 whitespace-pre-line leading-7"
+                              dir="rtl"
+                              style={{ unicodeBidi: "plaintext" }}
+                            >
+                              {item.answer.commentary_ar ?? ""}
+                            </div>
                           </div>
                         )}
                       </div>
